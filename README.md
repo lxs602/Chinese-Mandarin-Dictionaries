@@ -1,6 +1,6 @@
 # Chinese-Mandarin-Dictionaries
 
-# Readme - Work in progress
+# Readme: Work in progress
 
 Chinese Mandarin dictionaries for use with goldendict and other dictionary software.
 
