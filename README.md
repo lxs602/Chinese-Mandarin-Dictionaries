@@ -8,14 +8,14 @@ Chinese Mandarin dictionaries for use with goldendict and other dictionary softw
 
 <table>
 	<tr><th></th><th>Name</th><th>Descriptions</th><th>Todo</th><tr>
-	<tr><td>1.  </td><td>Chinese Word Statistics</td><td></td><tr>
-<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(combined - to upload)</td><tr>
-<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) </td><td></td><td>(to upload, add full reference)</td><tr>
-<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms, </td><td>with English translations (moedict) </td><td>(to upload, add full reference)</td><tr>
-<tr><td>5.  </td><td>CC-Cedict, with enlarged characters </td><td></td><td>(to upload)</td><tr>
-<tr><td>6.  </td><td>Handedict, with English machine-translations from German </td><td>(for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________) </td><td>(to upload) </td><tr>
-<tr><td>7.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, inspired by _________ </td><td>(to upload)</td><tr>
-<tr><td>8.  </td><td>Chinese Idioms dictionary </td><td>inspired by...</td><td>(?link to)</td><tr>
+	<tr><td>1.  </td><td>Chinese Word Statistics</td><td></td><td></td><tr>
+	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(combined - to upload)</td><tr>
+	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) </td><td></td><td>(to upload, add full reference)</td><tr>
+	<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms, </td><td>with English translations (moedict) </td><td>(to upload, add full reference)</td><tr>
+	<tr><td>5.  </td><td>CC-Cedict, with enlarged characters </td><td></td><td>(to upload)</td><tr>
+	<tr><td>6.  </td><td>Handedict, with English machine-translations from German </td><td>(for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________) </td><td>(to upload) </td><tr>
+	<tr><td>7.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, inspired by _________ </td><td>(to upload)</td><tr>
+	<tr><td>8.  </td><td>Chinese Idioms dictionary </td><td>inspired by...</td><td>(?link to)</td><tr>
 </table>
 
 <br>
