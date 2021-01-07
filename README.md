@@ -2,7 +2,7 @@
 
 # Readme: Work in progress
 
-Chinese Mandarin dictionaries for use with goldendict and other dictionary software.
+<b> Chinese Mandarin dictionaries for use with goldendict and other dictionary software. </b>
 
 
 
