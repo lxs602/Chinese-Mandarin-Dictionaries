@@ -28,7 +28,7 @@ Chinese Word Statistics - GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 
 
 # Sources
 
-<b>Make Me a Hanzi</b>
+<b>Make Me a Hanzi</b><br>
 https://github.com/skishore/makemeahanzi
 
 <br> 
@@ -48,11 +48,16 @@ https://github.com/skishore/makemeahanzi
   
 # Acknowledgements
 
-GoldenDict - Dictionary software for Linux, Windows and Mac.
-https://github.com/goldendict/goldendict
+GoldenDict https://github.com/goldendict/goldendict
+Dictionary software for Linux, Windows and Mac.
 
-WriteMDict by Zhansilu
+
+WriteMDict 
 https://github.com/zhansliu/writemdict
+<br>by Zhansilu
+
 	
-Mdict-utils by Liuyug
+Mdict-utils 
 https://github.com/liuyug/mdict-utils
+<br>by Liuyug
+
