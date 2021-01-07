@@ -9,7 +9,7 @@ Chinese Mandarin dictionaries for use with goldendict and other dictionary softw
 5.  CC-Cedict, with enlarged characters (to upload)
 6.  Handedict, with English machine-translations from German (to upload) (for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________)
 7.  Chinese Phonetics dictionary, with Zhuyin and Pinyin, inspired by _________ (to upload)
-8.  Chinese Idioms dictionary, adapted from Babylon dictionary - (?Licence - ?to upload)
+8.  Chinese Idioms dictionary (?link to)
 
 
 <br>
