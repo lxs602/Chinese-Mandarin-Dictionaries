@@ -2,15 +2,16 @@
 
 Chinese Mandarin dictionaries for use with goldendict and other dictionary software.
 
-1.  Chinese Word Statistics:
-2.  Taiwan Ministry of Education Dictionary (moedict) (to upload, add full reference)
-3.  Make Me a Hanzi (to upload)
-4.  Taiwan Ministry of Education Dictionary of Idioms, with English translations (moedict) (to upload, add full reference)
-5.  CC-Cedict, with enlarged characters (to upload)
-6.  Handedict, with English machine-translations from German (to upload) (for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________)
-7.  Chinese Phonetics dictionary, with Zhuyin and Pinyin, inspired by _________ (to upload)
-8.  Chinese Idioms dictionary (?link to)
-
+<table>
+	<tr><td>1.  </td><td>Chinese Word Statistics</td><td></td><tr>
+<tr><td>2.  </td><td>Make Me a Hanzi </td><td>(combined - to upload)</td><tr>
+<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) </td><td>(to upload, add full reference)</td><tr>
+<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms, with English translations (moedict) </td><td>(to upload, add full reference)</td><tr>
+<tr><td>5.  </td><td>CC-Cedict, with enlarged characters </td><td>(to upload)</td><tr>
+<tr><td><tr><td>6.  </td><td>Handedict, with English machine-translations from German (for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________) </td><td>(to upload) </td><tr>
+<tr><td>7.  </td><td>Chinese Phonetics dictionary, with Zhuyin and Pinyin, inspired by _________ </td><td>(to upload)</td><tr>
+<tr><td>8.  </td><td>Chinese Idioms dictionary </td><td>(?link to)</td><tr>
+</table>
 
 <br>
 <br>
