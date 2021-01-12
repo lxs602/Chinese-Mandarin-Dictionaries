@@ -10,7 +10,7 @@
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Statistics</td><td>based on word corpora and with HSK levels</td><td>(?add box)</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to fix overlaid animations for trad. chars on goldendict - ?separate trad dict)</td></tr>
-	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) </td><td></td><td>(to upload gls and mdx)</td></tr>
+	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary 教育部國語辭典 - 重編國語辭典 修訂本 (moedict)  </td><td></td><td>(to upload gls and mdx)</td></tr>
 	<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms (moedict) </td><td>with English translations</td><td>(to upload, add full reference)</td></tr>
 	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>(to upload)</td>(fix </tr>
 	<tr><td>6.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________) </td><td>(to upload) </td></tr>
@@ -24,7 +24,7 @@
 # Licences
 Make Me a Hanzi - GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br>
 Chinese Word Statistics - GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
-
+Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020)- 教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款
 
 # Sources
 
