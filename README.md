@@ -44,7 +44,7 @@ https://github.com/skishore/makemeahanzi
   
   [4] Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it ; adapted from: http://corpus.leeds.ac.uk/internet/i-zh.num 
   
-  [5] McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK. Adapted from: http://corpus.leeds.ac.uk/frqc/lcmc.num <br><br> All references accessed 26 Dec 2020. <br><br> English, Russian, numeral and punctuation characters removed from references [3-5] and corpus frequency renumbered.
+  [5] McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK. Adapted from: http://corpus.leeds.ac.uk/frqc/lcmc.num <br><br> All references accessed 26 Dec 2020. <br><br> English, Russian, numeral and punctuation characters removed from references [3} & {5] and corpus frequency renumbered.
   
 # Acknowledgements
 
