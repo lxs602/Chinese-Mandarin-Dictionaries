@@ -9,7 +9,7 @@
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>(add mdd / gls)</td></tr>
-	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to fix overlaid animations for trad. chars on goldendict - ?separate trad dict)</td></tr>
+	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict/tr>
 	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary 教育部國語辭典 - 重編國語辭典 修訂本 (moedict)  </td><td></td><td>(to upload gls and mdx)</td></tr>
 	<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms (moedict) </td><td>with English translations</td><td>(to upload, add full reference)</td></tr>
 	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>(to upload)</td>(fix </tr>
