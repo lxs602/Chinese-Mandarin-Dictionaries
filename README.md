@@ -52,12 +52,11 @@ GoldenDict https://github.com/goldendict/goldendict
 Dictionary software for Linux, Windows and Mac.
 
 
-WriteMDict 
+WriteMDict by Zhansilu
 https://github.com/zhansliu/writemdict
-<br>by Zhansilu
+
 
 	
-Mdict-utils 
+Mdict-utils by Liuyug
 https://github.com/liuyug/mdict-utils
-<br>by Liuyug
 
