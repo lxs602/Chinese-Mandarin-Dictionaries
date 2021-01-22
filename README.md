@@ -49,7 +49,7 @@ https://github.com/skishore/makemeahanzi
 # Acknowledgements
 
 GoldenDict https://github.com/goldendict/goldendict
-Dictionary software for Linux, Windows and Mac.
+<br>Dictionary software for Linux, Windows and Mac.
 
 
 WriteMDict by Zhansilu
