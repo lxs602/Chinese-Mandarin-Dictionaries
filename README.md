@@ -23,7 +23,7 @@
 
 # Licences
 Make Me a Hanzi - GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br>
-Chinese Word Statistics - GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
+Chinese Word Statistics - Decide licence - Creative Commons? <br>
 Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020)- 教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款
 
 # Sources
