@@ -12,7 +12,7 @@
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict/tr>
 	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary 教育部國語辭典 - 重編國語辭典 修訂本 (moedict)  </td><td></td><td>(to upload gls and mdx)</td></tr>
 	<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms (moedict) </td><td>with English translations</td><td>(to upload, add full reference)</td></tr>
-	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>(to upload)</td>(fix </tr>
+	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>(correct enlarged pinyin, upload)</td>(fix </tr>
 	<tr><td>6.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________) </td><td>(to upload) </td></tr>
 	<tr><td>7.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, inspired by _________ </td><td>(to upload)</td></tr>
 	<tr><td>8.  </td><td>Chinese Idioms dictionary </td><td>inspired by...</td><td>(?link to)</td></tr>
