@@ -22,7 +22,14 @@
 <br>
 <br>
 
-# Licences 
+# Dictionaries
+<Chinese Word Frequencies>
+	<table><table&nbsp;</th><th>Heading</th><th>No. of entries*</th><th>Years</th></tr> <tr><td>1a</td><td>Character rank (Books):</td><td>9932</td><td>1911-2003</td></tr> <tr><td>1b</td><td>Word rank (Books):</td><td>76002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character rank (Movies):</td><td>3360</td><td>< 2010</td></tr> <tr><td>2b</td><td>Word rank (Movies):</td><td>69004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word rank (Mixed Print):</td><td>24669</td><td>~1991</td></tr> <tr><td>4</td><td>Word rank (Internet):</td><td>50000</td><td>2006</td></tr> <tr><td>5</td><td>Word rank (News):</td><td>4945</td><td>1990-2002</td></tr> <tr><td>6</td><td>HSK Levels:</td><td>4995</td><td>2010</td></tr> <tr><td>7</td><td>Pinyin ratios:</td><td>4995</td><td>2010</td></tr></table>  <br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”</li>
+<br>
+
+
+
+# References and Licences 
 <b>Make Me a Hanzi</b><br>
 	GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br><br>
 
@@ -30,7 +37,7 @@
 	Decide licence - Creative Commons? <br><br>
 	
 <table><font size='-2'><th>&nbsp;</th><th>Heading</th><th>Reference</th><th>Licence</th><th>Source</th></tr>  <tr><td>1</td><td>Character/Word rank (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td></tr>  <tr><td>2</td><td>Character/Word rank (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr>  <tr><td>3</td><td>Word rank (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td></tr>  <tr><td>4</td><td>Word rank (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td></tr>  <tr><td>5</td><td>Word rank (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td></tr>  <tr><td>6</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr>  <tr><td>7</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr></font></table>  <br><br><b>Notes:</b> All references accessed 26 Dec 2020.
-
+<br>
 <b>Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020)</b><br>
 	教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款
 
