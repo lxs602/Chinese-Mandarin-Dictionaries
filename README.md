@@ -34,7 +34,7 @@
 	GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br><br>
 
 <b>Chinese Word Frequencies</b> <br>
-	<a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Word%20Frequencies/Apache%20Licence%202.0>Apache License, Version 2.0</a><br>
+	<a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Word%20Frequencies/Apache%20Licence%202.0>Apache License, Version 2.0</a><br><br>
 	Licences for content included:
 	
 	
