@@ -45,8 +45,8 @@ Chinese Mandarin dictionaries for offline dictionary use.
 	<tr><td>7</td><td>Pinyin ratios:</td><td>4995</td><td>2010</td></tr>
 </table>  
 
-<br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”</li>
-<br>
+<font size='-2'><br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”</li></font>
+
 
 <b>Licence</b> <br>
 	<a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Word%20Frequencies/Apache%20Licence%202.0>Apache License, Version 2.0</a><br><br>
