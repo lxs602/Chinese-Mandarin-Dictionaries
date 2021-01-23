@@ -2,7 +2,7 @@
 
 # Readme: Work in progress
 
-<b> Chinese Mandarin dictionaries for use with goldendict and other dictionary software. </b>
+<b> Chinese Mandarin dictionaries for offline dictionary use. </b>
 
 
 
@@ -23,7 +23,7 @@
 <br>
 
 # Dictionaries
-<Chinese Word Frequencies>
+<b>Chinese Word Frequencies</b>
 	<table><th>&nbsp;</th><th>Heading</th><th>No. of entries*</th><th>Years</th></tr> <tr><td>1a</td><td>Character rank (Books):</td><td>9932</td><td>1911-2003</td></tr> <tr><td>1b</td><td>Word rank (Books):</td><td>76002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character rank (Movies):</td><td>3360</td><td>< 2010</td></tr> <tr><td>2b</td><td>Word rank (Movies):</td><td>69004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word rank (Mixed Print):</td><td>24669</td><td>~1991</td></tr> <tr><td>4</td><td>Word rank (Internet):</td><td>50000</td><td>2006</td></tr> <tr><td>5</td><td>Word rank (News):</td><td>4945</td><td>1990-2002</td></tr> <tr><td>6</td><td>HSK Levels:</td><td>4995</td><td>2010</td></tr> <tr><td>7</td><td>Pinyin ratios:</td><td>4995</td><td>2010</td></tr></table>  <br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”</li>
 <br>
 
