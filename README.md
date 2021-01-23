@@ -1,4 +1,4 @@
-# Chinese-Mandarin-Dictionaries
+# Chinese-Mandarin-Dictionaries (中文词典 / 中文詞典)
 
 # Readme: Work in progress
 
