@@ -47,10 +47,9 @@ Chinese Mandarin dictionaries for offline dictionary use.
 </table>  
 
 
-<sub><b>Notes:</b>
-	<br>*English, Russian, numeral and punctuation characters removed from references [3] & [5].
-	<br>Corpus [3],[4] and [5] re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”
-</sub>
+<sub><b>Notes:</b></sub>
+	<br><li><sub>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</sub></li>
+	<br><li>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub></li>
 
 <br>
 <b>Licence</b> <br>
@@ -71,8 +70,7 @@ Chinese Mandarin dictionaries for offline dictionary use.
 <br><br>
 
 
-# Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020)
-# 教育部國語辭典 - 重編國語辭典 修訂本
+# Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020) 教育部國語辭典 - 重編國語辭典 修訂本
 
 <b>Licence</b>
 <br>教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款
