@@ -64,8 +64,12 @@ Chinese Mandarin dictionaries for offline dictionary use.
 	<tr><td>3</td><td>Word rank (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td></tr>  
 	<tr><td>4</td><td>Word rank (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td></tr>  
 	<tr><td>5</td><td>Word rank (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td></tr>  <tr><td>6</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr>  
-	<tr><td>7</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr></table>  <br><br><b>Notes:</b> All references accessed 26 Dec 2020.
+	<tr><td>7</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr>
+</table>  
 
+<br><br>
+<sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub>
+<br><br>
 
 
 # Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020)
