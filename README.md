@@ -68,7 +68,7 @@ Chinese Mandarin dictionaries for offline dictionary use.
 	<tr><td>7</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr>
 </table>  
 
-<br><br>
+<br>
 <sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub>
 <br><br>
 
