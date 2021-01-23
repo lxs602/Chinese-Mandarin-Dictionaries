@@ -28,6 +28,7 @@ Chinese Mandarin dictionaries for offline dictionary use.
 # Chinese Word Frequencies
 
 <b>About</b>
+<br>...
 <br>
 
 <b>Details</b>
@@ -75,18 +76,18 @@ Chinese Mandarin dictionaries for offline dictionary use.
 # Taiwan Ministry of Education Dictionary (2015, revised 10th Oct 2020)
 
 <b>Licence</b>
-教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款
-Creative Commons NonCommercial 3.0 Unported Licence
+<br>教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款
+<br>Creative Commons NonCommercial 3.0 Unported Licence
 
 
 
 # Make Me a Hanzi<br>
 
 <b>Licence</b>
-GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br><br>
+<br>GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br><br>
 
 <b>Link</b>
-https://github.com/skishore/makemeahanzi
+<br>https://github.com/skishore/makemeahanzi
 <br>
 
 
