@@ -70,7 +70,7 @@ Chinese Mandarin dictionaries for offline dictionary use.
 <br><br>
 
 
-# Taiwan Ministry of Education Dictionary 教育部國語辭典 - 重編國語辭典 修訂本
+# Taiwan Ministry of Education Dictionary <br> 教育部國語辭典 - 重編國語辭典 修訂本
 
 <b>Version</b>
 <br>2015, revised 10th Oct 2020
