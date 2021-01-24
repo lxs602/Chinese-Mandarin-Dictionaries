@@ -20,6 +20,7 @@ Chinese Mandarin dictionaries for offline use.
 	<tr><td>7.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>(to upload)</td></tr>
 	<tr><td>8.  </td><td>Chinese Idioms dictionary </td><td></td><td>(?link to)</td></tr>
 	<tr><td>9.  </td><td>Unicode definitions dictionary </td><td></td><td></td></tr>
+	<tr><td>10.  </td><td>Phrase dictionaries: tatoeba (?using word segmentation) / CUV Bible (?already segemented) </td><td></td><td></td></tr>
 </table>
 
 <br>
