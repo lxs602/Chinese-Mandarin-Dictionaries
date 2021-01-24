@@ -76,8 +76,8 @@ Chinese Mandarin dictionaries for offline dictionary use.
 <br>2015, revised 10th Oct 2020
 	
 <b>Licence</b>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20%E6%8E%88%E6%AC%8A%E6%A2%9D%E6%AC%BE-%E5%A7%93%E5%90%8D%E6%A8%99%E7%A4%BA%E2%94%80%E7%A6%81%E6%AD%A2%E6%94%B9%E4%BD%9C%203.0%20%E5%8F%B0%E7%81%A3.txt>教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款</a>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence</a>
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20%E6%8E%88%E6%AC%8A%E6%A2%9D%E6%AC%BE-%E5%A7%93%E5%90%8D%E6%A8%99%E7%A4%BA%E2%94%80%E7%A6%81%E6%AD%A2%E6%94%B9%E4%BD%9C%203.0%20%E5%8F%B0%E7%81%A3.txt>教育部國語辭典 - 重編國語辭典 修訂本 - NonCommercial 3.0 Unported Licence / 姓名標示─禁止改作 3.0 台灣 - 授權條款</a>
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence</a>
 
 
 
