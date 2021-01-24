@@ -1,11 +1,11 @@
-# Chinese-Mandarin-Dictionaries (中文词典 / 中文詞典)
+# Chinese-Mandarin-Dictionaries <br> (中文词典 / 中文詞典)
 
 # Readme: Work in progress
 
 # About
 
 Chinese Mandarin dictionaries for offline dictionary use.
-中文词典供离线使用 / 中文詞典供離線使用)
+(中文词典供离线使用 / 中文詞典供離線使用)
 
 # Todo
 
