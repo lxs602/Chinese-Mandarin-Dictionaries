@@ -74,7 +74,9 @@ Chinese Mandarin dictionaries for offline dictionary use.
 <b>Version</b>
 <br>2015, revised 10th Oct 2020<br>
 <br><b>Licence</b>
-<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence</a>
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence</a><br>
+<br><b>Link</b>
+<br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 <br><br>
 
 
