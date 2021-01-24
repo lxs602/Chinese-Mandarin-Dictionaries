@@ -4,7 +4,7 @@
 
 # About
 
-Chinese Mandarin dictionaries for offline dictionary use.
+Chinese Mandarin dictionaries for offline use.
 <br>中文词典供离线使用 / 中文詞典供離線使用
 
 # Todo
