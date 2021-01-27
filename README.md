@@ -11,9 +11,9 @@ Chinese Mandarin dictionaries for offline use.
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>✔</td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>✓</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict/tr>
-	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>✔</td></tr>
+	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>✓</td></tr>
 	<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms (moedict) </td><td>with English translations?</td><td>(to upload, add full reference)</td></tr>
 	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>(correct enlarged pinyin, upload)</td></tr>
 	<tr><td>6.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict, as google/other translation from German is still a starting point, see link:___________) </td><td>(to upload) </td></tr>
