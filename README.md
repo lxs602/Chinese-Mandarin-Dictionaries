@@ -12,7 +12,7 @@ Chinese Mandarin dictionaries for offline use.
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>&nbsp;&nbsp;✓</td></tr>
-	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict/tr>
+	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict</tr>
 	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>check legal terms</td></tr>
 	<tr><td>4.  </td><td>Taiwan Ministry of Education Dictionary of Idioms (moedict) </td><td>with freely available English translations?</td><td>(to upload, add full reference)</td></tr>
 	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>(enlarge characters in description)</td></tr>
