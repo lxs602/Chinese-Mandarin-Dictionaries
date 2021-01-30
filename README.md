@@ -27,7 +27,7 @@ Chinese Mandarin dictionaries for offline use.
 
 # Chinese Word Frequencies
 
-<b>About</b>
+<b>About 說明</b>
 <br>...
 <br>
 
@@ -71,7 +71,7 @@ Chinese Mandarin dictionaries for offline use.
 
 
 # Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
-<b>About</b>
+<b>About 說明</b>
 <br>Note: Some characters replaced - some character variants left
 <br>
 <br><b>Version</b>
