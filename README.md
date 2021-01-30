@@ -84,7 +84,7 @@ Chinese Mandarin dictionaries for offline use.
 
 # HanDeDict - English translation<br>
 <b>About 說明</B><br>
-A machine translation of HanDeDict into English (by DeepL translate), without terms already in cc-cedict or most numerical terms, by lxs602.
+A machine translation of HanDeDict into English (by DeepL translate), without terms in cc-cedict and most of the numerical terms (e.g. 1700,1701,1702...)
 
 <b>Licence</b><br>
 Creative Commons BY-SA 2 <br><br>
