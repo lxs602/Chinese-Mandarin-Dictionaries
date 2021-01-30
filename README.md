@@ -82,6 +82,16 @@ Chinese Mandarin dictionaries for offline use.
 <br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 <br><br>
 
+# HanDeDict - English translation<br>
+<b>About 說明</B><br>
+A machine translation of HanDeDict into English (by DeepL translate), without terms already in cc-cedict or most numerical terms, by lxs602.
+
+<b>Licence</b><br>
+Creative Commons BY-SA 2 <br><br>
+<b>Original Files:</b><br>
+https://github.com/gugray/HanDeDict
+<br><br>
+
 
 # Make Me a Hanzi<br>
 <b>Licence</b>
