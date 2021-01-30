@@ -82,12 +82,23 @@ Chinese Mandarin dictionaries for offline use.
 <br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 <br><br>
 
-# HanDeDict - English translation<br>
+# CC-CEDICT - with enlarged characters<br>
 <b>About 說明</B><br>
-A machine translation of HanDeDict into English (by DeepL translate), without terms in cc-cedict and most of the numerical terms (e.g. 1700,1701,1702...)
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and with a few lewd or obscene terms omitted.
 
 <b>Licence</b><br>
-Creative Commons BY-SA 2 <br><br>
+Creative Commons BY-SA 3.0 <br><br>
+<b>Original Files:</b><br>
+https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+<br><br>
+
+
+# HanDeDict - English translation<br>
+<b>About 說明</B><br>
+A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Those terms alredy in cc-cedict were omitted, along with and most of the numerical terms (e.g. 1700,1701,1702...) and, as above, a small amount of profanity.
+
+<b>Licence</b><br>
+Creative Commons BY-SA 2.0 <br><br>
 <b>Original Files:</b><br>
 https://github.com/gugray/HanDeDict
 <br><br>
