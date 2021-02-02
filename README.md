@@ -25,7 +25,7 @@ Chinese Mandarin dictionaries for offline use.
 <br>
 <br>
 
-# Chinese Word Frequencies
+# Chinese Word Frequencies 词频分析 / 詞頻分析
 
 <b>About 說明 / 说明</b>
 <br>...
@@ -52,7 +52,7 @@ Chinese Mandarin dictionaries for offline use.
 <br>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub>
 
 <br>
-<b>Licence</b> <br>
+<b>Licence 授權 / 授权</b><br>
 	<a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Word%20Frequencies/Apache%20Licence%202.0>Apache License, Version 2.0</a><br><br>
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
@@ -76,9 +76,9 @@ Chinese Mandarin dictionaries for offline use.
 <br>
 <br><b>Version 版本</b>
 <br>2015, revised 10th Oct 2020<br>
-<br><b>Licence</b>
+<br><b>Licence 授權 / 授权</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
-<br><b>Original Files:</b>
+<br><b>Original Files 資料來源</b>
 <br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 <br><br>
 
@@ -86,9 +86,9 @@ Chinese Mandarin dictionaries for offline use.
 <b>About 說明 / 说明</B><br>
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of few lewd and obscene terms.
 
-<b>Licence</b><br>
+<b>Licence 授權 / 授权</b><br>
 Creative Commons BY-SA 3.0 <br><br>
-<b>Original Files:</b><br>
+<b>Original Files 資料來源</b><br>
 https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 <br><br>
 
@@ -97,17 +97,17 @@ https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 <b>About 說明 / 说明</B><br>
 A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Those terms alredy in cc-cedict were omitted, along with and most of the numerical terms (e.g. 1700,1701,1702...) and, as above, a small amount of profanity.
 
-<b>Licence</b><br>
+<b>Licence 授權 / 授权</b><br>
 Creative Commons BY-SA 2.0 <br><br>
-<b>Original Files:</b><br>
+<b>Original Files 資料來源</b><br>
 https://github.com/gugray/HanDeDict
 <br><br>
 
 
 # Make Me a Hanzi<br>
-<b>Licence</b>
+<b>Licence 授權 / 授权</b>
 <br>GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br>
-<br><b>Original Files:</b>
+<br><b>Original Files 資料來源</b>
 <br>https://github.com/skishore/makemeahanzi
 <br><br>
   
