@@ -84,7 +84,7 @@ Chinese Mandarin dictionaries for offline use.
 
 # CC-CEDICT - with enlarged characters<br>
 <b>About 說明 / 说明</B><br>
-The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of few lewd and obscene terms.
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene or graphically lewd terms.
 
 <b>Licence 授權 / 授权</b><br>
 Creative Commons BY-SA 3.0 <br><br>
