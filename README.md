@@ -2,12 +2,12 @@
 
 # Readme: Work in progress
 
-# About 說明
+# About 說明 / 说明
 
 Chinese Mandarin dictionaries for offline use.
 <br>中文词典供离线使用 / 中文詞典供離線使用。
 
-# Todo
+# Todo 接下來要做
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
@@ -27,7 +27,7 @@ Chinese Mandarin dictionaries for offline use.
 
 # Chinese Word Frequencies
 
-<b>About 說明</b>
+<b>About 說明 / 说明</b>
 <br>...
 <br>
 
@@ -71,10 +71,10 @@ Chinese Mandarin dictionaries for offline use.
 
 
 # Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
-<b>About 說明</b>
+<b>About 說明 / 说明</b>
 <br>Note: Some characters replaced - some character variants left
 <br>
-<br><b>Version</b>
+<br><b>Version 版本</b>
 <br>2015, revised 10th Oct 2020<br>
 <br><b>Licence</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
@@ -83,7 +83,7 @@ Chinese Mandarin dictionaries for offline use.
 <br><br>
 
 # CC-CEDICT - with enlarged characters<br>
-<b>About 說明</B><br>
+<b>About 說明 / 说明</B><br>
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of few lewd and obscene terms.
 
 <b>Licence</b><br>
@@ -94,7 +94,7 @@ https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 
 
 # HanDeDict - English translation<br>
-<b>About 說明</B><br>
+<b>About 說明 / 说明</B><br>
 A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Those terms alredy in cc-cedict were omitted, along with and most of the numerical terms (e.g. 1700,1701,1702...) and, as above, a small amount of profanity.
 
 <b>Licence</b><br>
@@ -111,7 +111,7 @@ https://github.com/gugray/HanDeDict
 <br>https://github.com/skishore/makemeahanzi
 <br><br>
   
-# Acknowledgements
+# Acknowledgements 鳴謝 / 鸣谢
 
 GoldenDict https://github.com/goldendict/goldendict
 <br>Dictionary software for Linux, Windows and Mac.
