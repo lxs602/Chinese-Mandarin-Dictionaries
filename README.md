@@ -11,7 +11,7 @@ Chinese Mandarin dictionaries for offline use.
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>add word freq lists license (for 3-5), convert 4 back to joint freq/remove foreign chars? add Unicode Usenet frequency, check BCC licence, <b>Add deciles and "of x,xxx" (corpus size)</b></td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>add word freq lists license (for 3-5), convert 4 back to joint freq/remove foreign chars? add Unicode Usenet frequency, check BCC licence, <b>Add deciles and "of x,xxx" (corpus size)</b>, ?change 'Rank' to 'freq', change Refs and sources table - see below</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict</tr>
 	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>check legal terms</td></tr>
 	<tr><td>4.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary - ?license</td><td>(to upload, add full reference)  check legal terms</td></tr>
@@ -59,7 +59,7 @@ Chinese Mandarin dictionaries for offline use.
 <br><br>
 
 <table>
-	<tr><th>&nbsp;</th><th>Heading</th><th>Reference</th><th>Licence</th><th>Source</th></tr>  
+	<tr><th>&nbsp;</th><th>Heading</th><th>Reference</th><th>Licence</th><th>Word freq. list</th></tr>  
 	<tr><td>1</td><td>Character/Word rank (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td></tr>  
 	<tr><td>2</td><td>Character/Word rank (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td></tr>  
 	<tr><td>3</td><td>Word rank (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td></tr>  
