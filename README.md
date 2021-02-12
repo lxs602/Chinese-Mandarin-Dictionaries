@@ -11,7 +11,7 @@ Chinese Mandarin dictionaries for offline use.
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>add word freq lists license (for 3-5), convert 4 back to joint freq/remove foreign chars? add Unicode Usenet frequency, check BCC licence, <b>Add deciles and "of x,xxx" (corpus size)</b>, ?change 'Rank' to 'freq', change Refs and sources table - see below</td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>add word freq lists license (for 3-5), convert 4 back to joint freq/remove foreign chars? add Unicode Usenet frequency, add BCC licence, <b>Add deciles and "of x,xxx" (corpus size)</b>, ?change 'Rank' to 'freq', change Refs and sources table - see below</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict</tr>
 	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>check legal terms</td></tr>
 	<tr><td>4.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary - ?license</td><td>(to upload, add full reference)  check legal terms</td></tr>
@@ -21,6 +21,7 @@ Chinese Mandarin dictionaries for offline use.
 	<tr><td>8.  </td><td>Unicode definitions dictionary </td><td>?see unum</td><td></td></tr>
 	<tr><td>9.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
 	<tr><td>10.  </td><td>Idioms - W Scarborough</td><td></td><td></td></tr>
+	<tr><td>11.  </td><td>Hanziyuan image library</td><td></td><td></td></tr>
 </table>
 
 <br>
