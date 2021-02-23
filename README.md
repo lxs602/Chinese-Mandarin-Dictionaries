@@ -18,7 +18,7 @@ Chinese Mandarin dictionaries for offline use.
 	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>6.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td>Add full machine transl. file</td></tr>
 	<tr><td>7.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>(to upload)</td></tr>
-	<tr><td>8.  </td><td>Unicode definitions dictionary </td><td>?see unum</td><td></td></tr>
+	<tr><td>8.  </td><td>Unicode definitions dictionary </td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>9.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
 	<tr><td>10.  </td><td>Idioms - W Scarborough</td><td></td><td></td></tr>
 	<tr><td>11.  </td><td>Hanziyuan image library</td><td></td><td></td></tr>
