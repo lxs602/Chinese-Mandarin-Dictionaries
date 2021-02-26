@@ -12,7 +12,7 @@ Chinese Mandarin dictionaries for offline use.
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>(to add combined dict, note overlay prob on goldendict if used with cc-cedict</tr>
+	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>&nbsp;&nbsp;&nbsp;✓</tr>
 	<tr><td>3.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>check legal terms</td></tr>
 	<tr><td>4.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary - ?license</td><td>(to upload, add full reference)  check legal terms</td></tr>
 	<tr><td>5.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
@@ -87,8 +87,11 @@ https://github.com/gugray/HanDeDict
 
 
 # Make Me a Hanzi<br>
+<br><br>
+<b>Memo:</b>Add note re overlay prob on goldendict if used with cc-cedict<b>
+<br>
 <b>Licence 許可證 / 许可证</b>
-<br>GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007 <br>
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20(Stroke%20animations)/Licence%20-%20LGPL-3.0.txt>GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007</a><br>
 <br><b>Original Files 資料來源</b>
 <br>https://github.com/skishore/makemeahanzi
 <br><br>
