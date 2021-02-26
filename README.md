@@ -21,7 +21,7 @@ Chinese Mandarin dictionaries for offline use.
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td></td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td></td></tr>
-	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>Enquire re legal terms</td></tr>
+	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>Enquire re legal terms - ?Pleco competitive advantage</td></tr>
 </table>
 
 <br>
