@@ -87,8 +87,7 @@ https://github.com/gugray/HanDeDict
 
 
 # Make Me a Hanzi<br>
-<br><br>
-<b>Memo:</b>Add note re overlay prob on goldendict if used with cc-cedict<b>
+<b>Memo:</b>Add note re overlay prob on goldendict if used with cc-cedict
 <br>
 <b>Licence 許可證 / 许可证</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20(Stroke%20animations)/Licence%20-%20LGPL-3.0.txt>GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007</a><br>
