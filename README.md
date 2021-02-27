@@ -111,6 +111,17 @@ Contains some uncommon and nationalised terms, so would be a good accompaniment 
 <br>http://bcc.blcu.edu.cn/downloads/resources/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8.zip
 <br><br>
 
+# XDICT (English-Chinese Dictionary) <br>
+<b>About 說明 / 说明</B><br>
+XDict, the free English to Chinese dictionary, originally developed by Fu Jianjun. There are about 177,000 terms.<br>
+<br>
+<b>Licence 許可證 / 许可证</b><br>
+XDICT是一个freeware,大致按照GPL传播.<br.
+<br><b>Original Files 資料來源</b>
+<br>http://archive.ubuntu.com/ubuntu/pool/universe/d/dict-xdict/dict-xdict_0.1-4.2_all.deb
+<br><br>
+
+
 # Acknowledgements 鳴謝 / 鸣谢
 
 GoldenDict https://github.com/goldendict/goldendict
