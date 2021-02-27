@@ -23,6 +23,7 @@ Chinese Mandarin dictionaries for offline use.
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td></td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>Enquire re legal terms - ?Pleco competitive advantage</td></tr>
 	<tr><td>12.  </td><td>BCC English Chinese (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>13.  </td><td>XDICT English Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 </table>
 
 <br>
@@ -116,7 +117,7 @@ Contains some uncommon and nationalised terms, so would be a good accompaniment 
 XDict, the free English to Chinese dictionary, originally developed by Fu Jianjun. There are about 177,000 terms.<br>
 <br>
 <b>Licence 許可證 / 许可证</b><br>
-XDICT是一个freeware,大致按照GPL传播.<br.
+XDICT是一个freeware,大致按照GPL传播.<br>
 <br><b>Original Files 資料來源</b>
 <br>http://archive.ubuntu.com/ubuntu/pool/universe/d/dict-xdict/dict-xdict_0.1-4.2_all.deb
 <br><br>
