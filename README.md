@@ -99,7 +99,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br><br>
   
   
-# Make Me a Hanzi<br>
+# BCC Corpus Dictionary (BCC 英汉词典)<br>
 <b>Note:</b><br>
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms.<br>
 <br>
