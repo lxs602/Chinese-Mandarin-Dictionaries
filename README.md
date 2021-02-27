@@ -22,6 +22,7 @@ Chinese Mandarin dictionaries for offline use.
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td></td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td></td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>Enquire re legal terms - ?Pleco competitive advantage</td></tr>
+	<tr><td>12.  </td><td>BCC English Chinese (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 </table>
 
 <br>
@@ -97,6 +98,19 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br>https://github.com/skishore/makemeahanzi
 <br><br>
   
+  
+# Make Me a Hanzi<br>
+<b>Note:</b><br>
+Assembled from the freely available BCC corpus dictionary, with 42,784 terms.<br>
+<br>
+The original file had some errors, and has been proofread in English, but some will remain.<br>
+<br>
+Contains some uncommon and nationalised terms, so would be a good accompaniment to other dictionaries.<br>
+<br>
+<br><b>Original Files 資料來源</b>
+<br>http://bcc.blcu.edu.cn/downloads/resources/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8.zip
+<br><br>
+
 # Acknowledgements 鳴謝 / 鸣谢
 
 GoldenDict https://github.com/goldendict/goldendict
