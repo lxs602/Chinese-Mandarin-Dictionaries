@@ -68,7 +68,7 @@ Chinese Mandarin dictionaries for offline use.
 
 # CC-CEDICT - with enlarged characters<br>
 <b>About 說明 / 说明</B><br>
-The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions.
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions which shouldn't be there.
 
 <b>Licence 許可證 / 许可证</b><br>
 Creative Commons BY-SA 3.0 <br><br>
@@ -79,7 +79,7 @@ https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 
 # HanDeDict - English translation<br>
 <b>About 說明 / 说明</B><br>
-A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Those terms alredy in cc-cedict were omitted, along with and most of the numerical terms (e.g. 1700,1701,1702...) and, as above, a small amount of profanity.
+A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a lot of numerical terms (e.g. 1700,1701,1702...) and a small amount of profanity.
 
 <b>Licence 許可證 / 许可证</b><br>
 Creative Commons BY-SA 2.0 <br><br>
@@ -104,9 +104,9 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <b>Note:</b><br>
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms.<br>
 <br>
-The original file had some errors, and has been proofread in English, but some will remain.<br>
+The original file had some errors, and though it has been proof-read in English, some will remain.<br>
 <br>
-Contains some uncommon and nationalised terms, so would be a good accompaniment to other dictionaries.<br>
+Contains some uncommon words and national variants, so would be a good accompaniment to other dictionaries.<br>
 <br>
 <br><b>Original Files 資料來源</b>
 <br>http://bcc.blcu.edu.cn/downloads/resources/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8.zip
@@ -114,7 +114,7 @@ Contains some uncommon and nationalised terms, so would be a good accompaniment 
 
 # XDICT (English-Chinese Dictionary) <br>
 <b>About 說明 / 说明</B><br>
-XDict, the free English to Chinese dictionary, originally developed by Fu Jianjun. There are about 177,000 terms.<br>
+XDict, the free English to Chinese dictionary, originally developed by Fu Jianjun, with about 177,000 terms.<br>
 <br>
 <b>Licence 許可證 / 许可证</b><br>
 XDICT是一个freeware,大致按照GPL传播.<br>
