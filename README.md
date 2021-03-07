@@ -4,7 +4,7 @@
 
 # About 說明 / 说明
 
-Chinese Mandarin dictionaries for offline use.
+A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.
 <br>中文词典供离线使用 / 中文詞典供離線使用。
 
 # Todo 接下來要做
