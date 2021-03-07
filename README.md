@@ -104,7 +104,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <b>Note:</b><br>
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms.<br>
 <br>
-The original file had some errors, and though it has been proof-read in English, some will remain.<br>
+The original file had some spelling errors, and though it has been proof-read in English, some may remain.<br>
 <br>
 Contains some uncommon words and national variants, so would be a good accompaniment to other dictionaries.<br>
 <br>
