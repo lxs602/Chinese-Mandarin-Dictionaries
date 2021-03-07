@@ -79,7 +79,7 @@ https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 
 # HanDeDict - English translation<br>
 <b>About 說明 / 说明</B><br>
-A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a lot of numerical terms (e.g. 1700,1701,1702...) and a small amount of profanity.
+A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
 
 <b>Licence 許可證 / 许可证</b><br>
 Creative Commons BY-SA 2.0 <br><br>
