@@ -11,9 +11,9 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>Fix add. dividers</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>&nbsp;&nbsp;&nbsp;✓</tr>	
-	<tr><td>3.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary - ?license</td><td>(to upload, add full reference)  check legal terms</td></tr>
+	<tr><td>3.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary</td><td>(to upload, add full reference)  </td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>6.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>(to upload)</td></tr>
@@ -21,10 +21,11 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td></td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td></td></tr>
-	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>Enquire re legal terms - ?Pleco competitive advantage</td></tr>
+	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>Register query goldendict to read csv - Enquire re legal terms - ?Pleco competitive advantage</td></tr>
 	<tr><td>12.  </td><td>BCC English Chinese (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>13.  </td><td>XDICT English Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>14.  </td><td>Guoxuedashi (国学大师) Etymology and Dictionary</td><td>&nbsp;</td><td>Investigate dbf/edt files</td></tr>
 </table>
 
 <br>
