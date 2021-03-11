@@ -27,6 +27,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>15.  </td><td><b>3 - Guoxuedashi (国学大师) Etymology and Dictionary</b></td><td>&nbsp;</td><td>Investigate dbf/edt files</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon ?</td><td>&nbsp;</td><td>? To upload</td></tr>
+	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
 </table>
 
 <br>
