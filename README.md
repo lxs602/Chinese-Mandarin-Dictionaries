@@ -28,6 +28,9 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>15.  </td><td>3 - Guoxuedashi (国学大师) Etymology and Dictionary</td><td>&nbsp;</td><td>Investigate dbf/edt files</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon ?</td><td>&nbsp;</td><td>? To upload</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>18.  </td><td>Adsotrans</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>20.  </td><td>Sinica etymology?</td><td>&nbsp;</td><td></td></tr>
 </table>
 
 <br>
