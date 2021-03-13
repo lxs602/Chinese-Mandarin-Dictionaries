@@ -1,9 +1,17 @@
 1. 
-2. MoeDict - reupload
-3. Make me a Hanzi - combine dictionaries
-4. Dong Chinese - etymology 
-5. BCC English-Chinese
-6. BCC Idioms
-7. Hanziyuan images
-8. CUV Bible concordance
-9. Tatoeba vocabulary - segmentation
+2. LDC Chinese English
+3. Kanjinetworks etymology
+4. Hanziyuan etymology
+5. Vocabulary dictionaries - Tatoeba/Bible
+6. CJKVI etymology dictionary - Unicode-CJKVI repo? Phonetic/semantic components?
+7. Adsotrans dictionary
+8. Guoxuedashi etymology / library
+9. ?Dong etymology
+10. Starling etymology
+11. Sinica etymology - ?scrape
+
+- Chase goldendict csv support / Taiwanese MOE licence
+
+- W Scarborough - Chinese Proverbs
+- Wilder - etymology
+- 
