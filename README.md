@@ -11,7 +11,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td><b>Chinese Word Frequencies</b></td><td>based on word corpora and with HSK levels</td><td>Fix add. dividers</td></tr>
+	<tr><td>1.  </td><td><b>Chinese Word Frequencies</b></td><td>based on word corpora and with HSK levels</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>&nbsp;&nbsp;&nbsp;✓</tr>	
 	<tr><td>3.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary</td><td>(to upload, add full reference)  </td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
@@ -25,12 +25,13 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>12.  </td><td>BCC English Chinese (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>13.  </td><td>XDICT English Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>15.  </td><td>3 - Guoxuedashi (国学大师) Etymology and Dictionary</td><td>&nbsp;</td><td>Investigate dbf/edt files</td></tr>
+	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Etymology and Dictionary</td><td>&nbsp;</td><td>Investigate dbf/edt files</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon ?</td><td>&nbsp;</td><td>? To upload</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>18.  </td><td>Adsotrans</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>20.  </td><td>Sinica etymology?</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 </table>
 
 <br>
