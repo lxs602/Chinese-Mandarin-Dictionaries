@@ -32,6 +32,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>20.  </td><td>Sinica etymology?</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 </table>
 
 <br>
