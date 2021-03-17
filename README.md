@@ -16,7 +16,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>3.  </td><td>Idioms</td><td>from freely available paperswith freely available English translations? BCC idiom dictionary</td><td>(to upload, add full reference)  </td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>6.  </td><td>Chinese Phonetics dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>(to upload)</td></tr>
+	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>(to upload)</td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td></td></tr>
@@ -25,7 +25,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>12.  </td><td>BCC English Chinese (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>13.  </td><td>XDICT English Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Etymology and Dictionary</td><td>&nbsp;</td><td>Investigate dbf/edt files</td></tr>
+	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Idiom and Character Dictionary / Other Dictionaries</td><td>&nbsp;</td><td>L</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon ?</td><td>&nbsp;</td><td>? To upload</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>18.  </td><td>Adsotrans</td><td>&nbsp;</td><td></td></tr>
