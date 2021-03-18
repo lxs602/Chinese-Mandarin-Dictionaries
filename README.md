@@ -137,13 +137,12 @@ XDICT是一个freeware,大致按照GPL传播.<br>
 <b>About 說明 / 说明</B><br>
 A Chinese-English dictionary, from the ADSO project by David Lancashire, https://github.com/wtanaka/adso. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
 <br>
-Using the adso translation project is recommended over using this particular dictionary, as it has as-you-type translation of phrases, similar to Google or Bing Translate.
+Using the adso translation project is recommended over using this particular dictionary, as it has as-you-type translation of phrases, similar to Google or Bing Translate. An online version is hosted at <a href=http://www.popupchinese.com/tools/adso>Popup Chinese</a>
 <br>
-<b>Licence 許可證 / 许可证</b>
+<br><b>Licence 許可證 / 许可证</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html>Adsotrans Attribution-NonCommercial License 1.1<</a><br>
 <br><b>Original Files 資料來源</b>
 <br>https://github.com/wtanaka/adso
-<br>http://www.popupchinese.com/tools/adso
 <br><br>
 
 # Acknowledgements 鳴謝 / 鸣谢
