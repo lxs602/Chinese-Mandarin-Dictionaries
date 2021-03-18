@@ -28,7 +28,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Idiom and Character Dictionary / Other Dictionaries</td><td>&nbsp;</td><td>L</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon ?</td><td>&nbsp;</td><td>? To upload</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>18.  </td><td>Adsotrans</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>18.  </td><td>Adso</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>20.  </td><td>Sinica etymology?</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
@@ -131,6 +131,18 @@ XDICT是一个freeware,大致按照GPL传播.<br>
 <br>http://archive.ubuntu.com/ubuntu/pool/universe/d/dict-xdict/dict-xdict_0.1-4.2_all.deb
 <br><br>
 
+# ADSO <br>
+<b>About 說明 / 说明</B><br>
+A Chinese-English dictionary, from the ADSO project by David Lancashire, https://github.com/wtanaka/adso. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
+<br>
+Using the adso translation project is recommended over using this particular dictionary, as it has as-you-type translation of phrases, similar to Google or Bing Translate.
+<br>
+<b>Licence 許可證 / 许可证</b><br>
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html>Adsotrans Attribution-NonCommercial License 1.1<</a><br>
+<br><b>Original Files 資料來源</b>
+https://github.com/wtanaka/adso
+http://www.popupchinese.com/tools/adso
+<br><br>
 
 # Acknowledgements 鳴謝 / 鸣谢
 
