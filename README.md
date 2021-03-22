@@ -67,14 +67,20 @@ HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictiona
 
 # Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
 <b>About 說明 / 说明</b>
-<br>Note: Some characters replaced - some character variants left
+<br>This is a mirror of an excellent dictionary made by WFG <a href=http://fgwang.blogspot.com/2018/02/blog-post_14.html>here</a>, provided for those searching the web in English. Total entries: 163, 085.
 <br>
+<br>Authorisation / 授權:
+<li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
+<li>"Follow the "Creative CC-Name Marking-Prohibited to Change to Taiwan Version 3.0 License Terms" to share my production. I hope that these valuable information can be used more conveniently by everyone. Please also use friends who can find defects. , Let me know the wrong reaction so that I can make subsequent corrections." (Google-translate, from the website by WFG)</li>
+
 <br><b>Version 版本</b>
 <br>2015, revised 10th Oct 2020<br>
+
 <br><b>Licence 許可證 / 许可证</b>
-<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MoE%20dictionary%20(Taiwan)%20(%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20-%20%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%20%E4%BF%AE%E8%A8%82%E6%9C%AC)/Licence-Creative%20Commons%20NonCommercial%203.0%20Unported.txt>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
+<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
 <br><b>Original Files 資料來源</b>
 <br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
+<br>http://fgwang.blogspot.com/2018/02/blog-post_14.html
 <br><br>
 
 # CC-CEDICT - with enlarged characters<br>
