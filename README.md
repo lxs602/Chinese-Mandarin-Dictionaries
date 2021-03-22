@@ -35,6 +35,9 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Dictionaries - others</td><td>&nbsp;</td><td>L</td></tr>
 	<tr><td>24.  </td><td>WFG dictionaries - other</td><td>&nbsp;</td><td>L</td></tr>
+	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr
+	<tr><td>26.  </td><td>Tidy files</td><td>&nbsp;</td><td>L</td></tr>
+	<tr><td>27.  </td><td>Update this readme</td><td>&nbsp;</td><td>L</td></tr>
 </table>
 
 <br>
