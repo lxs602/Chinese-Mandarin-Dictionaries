@@ -16,7 +16,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td> ? </td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>(to complete)</td></tr>
+	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>To complete</td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td>To convert</td></tr>
@@ -34,7 +34,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td></td>Part</tr>
+	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td>Part done</td></tr>
 	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr
 	<tr><td>26.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>27.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
