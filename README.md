@@ -120,7 +120,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br><br>
   
   
-# BCC Corpus Dictionary (BCC 英汉词典)<br>
+# BCC Corpus English-Chinese Dictionary (BCC 英汉词典)<br>
 <b>Note:</b><br>
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms.<br>
 <br>
