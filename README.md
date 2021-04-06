@@ -156,7 +156,7 @@ A Chinese-English dictionary, from the ADSO project by David Lancashire, https:/
 
 # Chinese Lexicon - Etymology<br>
 <b>About 說明 / 说明</B><br>
-A character etymology dictionary, from <a href=https://github.com/peterolson/chinese-lexicon>Chinese Lexicon</a> by Peter Olsen (<a href=https://www.dong-chinese.com>dong-chinese.com</a>). Contains decomposition data, helpful images of iconographs and short definitions from CC-CEDICT. Total of 5054 terms.
+A character etymology dictionary, derived from <a href=https://github.com/peterolson/chinese-lexicon>Chinese Lexicon</a> by Peter Olsen (<a href=https://www.dong-chinese.com>dong-chinese.com</a>). Contains decomposition data, helpful images of iconographs and short definitions from CC-CEDICT. Total of 5054 terms.
 <br>
 <br><b>Licence 許可證 / 许可证</b>
 <br>Freely available<br>
