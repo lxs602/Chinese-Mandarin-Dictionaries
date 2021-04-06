@@ -154,6 +154,17 @@ A Chinese-English dictionary, from the ADSO project by David Lancashire, https:/
 <br>https://github.com/wtanaka/adso
 <br><br>
 
+# Chinese Lexicon - Etymology<br>
+<b>About 說明 / 说明</B><br>
+A character etymology dictionary, from <a href=https://github.com/peterolson/chinese-lexicon>Chinese Lexicon</a> by Peter Olsen (<a href=https://www.dong-chinese.com>dong-chinese.com</a>), with decomposition data and helpful images of iconographs. Total of 5054 terms, with definitions from CC-CEDICT.
+<br>
+<br><b>Licence 許可證 / 许可证</b>
+Freely available
+<br><b>Original Files 資料來源</b>
+<br>https://github.com/peterolson/chinese-lexicon
+<br><br>
+
+
 # Acknowledgements 鳴謝 / 鸣谢
 
 GoldenDict https://github.com/goldendict/goldendict
