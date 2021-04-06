@@ -11,7 +11,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td style='text-align:center'>✓</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>&nbsp;&nbsp;&nbsp;✓</tr>	
 	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td> ? </td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
