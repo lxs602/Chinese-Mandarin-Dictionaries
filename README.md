@@ -70,9 +70,9 @@ HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictiona
 
 # Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
 <b>About 說明 / 说明</b>
-<br>This is a mirror of an <a href=http://fgwang.blogspot.com/2018/02/blog-post_14.html>excellent dictionary</a> made by WFG. It is hosted here for those searching the web in English, who might not otherwise find it. With thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>. Total entries: 163, 085.
+<br>This is a mirror of an <a href=http://fgwang.blogspot.com/2018/02/blog-post_14.html>excellent dictionary</a> made by WFG. It is hosted here for those searching the web in English, who might not otherwise find it (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>). Total entries: 163, 085.
 <br>
-<br>Authorisation / 授權 (from the author's webpage):
+<br><b>Authorisation / 授權</b> (from the author's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
 <li>"Follow the "Creative CC-Name Marking-Prohibited to Change to Taiwan Version 3.0 License Terms" to share my production. I hope that these valuable information can be used more conveniently by everyone. Please also ask friends who can find defects. Let me know any errors so that I can make subsequent corrections." (Google-translate)</li>
 
