@@ -25,7 +25,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>12.  </td><td>BCC English-Chinese Wordlist (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>13.  </td><td>XDICT English-Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
