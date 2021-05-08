@@ -167,8 +167,7 @@ A character etymology dictionary, derived from <a href=https://github.com/petero
 
 # Tatoeba Chinese-English Vocabulary<br>
 <b>About 說明 / 说明</B><br>
-A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded December 2020, with 47969 phrases. “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br><br>Chinese words segmented using <a href=https://github.com/fxsjy/jieba>jieba</a><br><br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>With thanks to <a href=https://digitalwords.net/anki/tatoeba-audio/index.eng.html>"Generating Anki decks with audio from the Tatoeba Project"</a>, accessed December 2020.  <br><br>F
-<br>
+A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded December 2020, with 47969 phrases. “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br><br>WithThanks to <a href=https://digitalwords.net/anki/tatoeba-audio/index.eng.html>"Generating Anki decks with audio from the Tatoeba Project"</a>, accessed December 2020.  Chinese words segmented using <a href=https://github.com/fxsjy/jieba>jieba</a><br><br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>
 <br><b>Licence 許可證 / 许可证</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Tatoeba%20Chinese-English%20Vocabulary/Licence%20-%20CC%20BY%202.0%20FR>CC BY 2.0 FR<a/><br>
 <br><br>
