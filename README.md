@@ -174,7 +174,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables
 	
 # Dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a> (mirror)
 
-The dictionaries here by WFG are hosted here for those who might search the web in English and not otherwise find them, and also for posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
+The dictionaries by WFG below are hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
 <br><br><br>
 	
 # Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
