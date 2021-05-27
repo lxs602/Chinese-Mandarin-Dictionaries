@@ -201,14 +201,14 @@ A Taiwanese character dictionary by WFG, with; pinyin and Zhuyin, stroke order, 
 
 <br><b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2020/07/blog-post_3.html <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku/%E5%85%A8%E5%AD%97%E5%BA%AB%20-%20Full%20Description%20-%20from%20Authors%20webpage%20-%20english.zip>English translation (Google translate)</a><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku/%E5%85%A8%E5%AD%97%E5%BA%AB%20-%20Full%20Description%20-%20from%20Authors%20webpage%20-%20english.zip>English translation (Google translate)</a><br><br>
 
 # 干祿字書 Ganlu Zishu
 A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun.
 
 <br><b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2019/04/blog-post.html <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu/Full%20description%20-%20Ganlu%20Zishu%20-%20WFG%20-%20english.html>English translation (Google translate)</a><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu/Full%20description%20-%20Ganlu%20Zishu%20-%20WFG%20-%20english.html>English translation (Google translate)</a><br><br>
 
 
 # 康熙字典 Kangxi Radical Dictionary
@@ -218,7 +218,7 @@ This is a large dictionary. One of the files has been split into three (康熙�
 
 <br><b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.html>English translation (Google translate)</a><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.html>English translation (Google translate)</a><br><br>
 
 
 # 說文解字 Shuowen Jiezi
@@ -228,7 +228,7 @@ This is another large dictionary. One of the files has been split into three (�
 
 <br><b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2019/02/blog-post.html <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.html>English translation (Google translate)</a><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.html>English translation (Google translate)</a><br><br>
 
 
 # Acknowledgements 鳴謝 / 鸣谢
