@@ -165,9 +165,9 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded
 A compilation of freely avaialble Chinese input method codes, as listed in this <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md>table</a> or <a href=https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924>here</a>.
 	
 <br>
-資料來源 Original Files:
-https://github.com/chinese-opendesktop/cin-tables
-https://github.com/openvanilla/openvanilla/tree/master/DataTables	
+資料來源 Original Files:<br>
+https://github.com/chinese-opendesktop/cin-tables <br>
+https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>	 
 	
 <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81><b>Licences 許可證 / 许可证</b></a>
@@ -199,15 +199,15 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 # 全字庫 Quan Zi Ku
 A Taiwanese character dictionary by WFG, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes.
 
-<br><b>Original Files 資料來源</b>
-http://fgwang.blogspot.com/2020/07/blog-post_3.html
+<br><b>Original Files 資料來源</b> <br>
+http://fgwang.blogspot.com/2020/07/blog-post_3.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku/%E5%85%A8%E5%AD%97%E5%BA%AB%20-%20Full%20Description%20-%20from%20Authors%20webpage%20-%20english.zip>English translation (Google translate)</a>
 
 # 干祿字書 Ganlu Zishu
 A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun.
 
-<br><b>Original Files 資料來源</b>
-http://fgwang.blogspot.com/2019/04/blog-post.html 
+<br><b>Original Files 資料來源</b> <br>
+http://fgwang.blogspot.com/2019/04/blog-post.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu/Full%20description%20-%20Ganlu%20Zishu%20-%20WFG%20-%20english.html>English translation (Google translate)</a>
 
 
@@ -216,8 +216,8 @@ A character dictionary compiled by order of the Kangxi emperor of the Qing dynas
 
 This is a large dictionary. One of the files has been split into three (康熙字典.mdd.zip, 康熙字典.mdd.z01, 康熙字典.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
-<br><b>Original Files 資料來源</b>
-http://fgwang.blogspot.com/2018/12/blog-post_10.html
+<br><b>Original Files 資料來源</b><br>
+http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.html>English translation (Google translate)</a>
 
 
@@ -226,8 +226,8 @@ The 2nd Century Han character dictionary, by 許慎 Xu Shen.
 
 This is another large dictionary. One of the files has been split into three (說文解字.mdd.zip, 說文解字.mdd.z01, 說文解字.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
-<br><b>Original Files 資料來源</b>
-http://fgwang.blogspot.com/2019/02/blog-post.html 
+<br><b>Original Files 資料來源</b><br>
+http://fgwang.blogspot.com/2019/02/blog-post.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.html>English translation (Google translate)</a>
 
 
