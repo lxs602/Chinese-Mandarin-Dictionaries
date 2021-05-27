@@ -36,9 +36,10 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>26.  </td><td>WFG fonts</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-	<tr><td>27.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>28.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>27.  </td><td>WFG fonts</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+	<tr><td>28.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>29.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
 </table>
 
 <br>
