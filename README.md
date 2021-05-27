@@ -1,4 +1,4 @@
-# Chinese Mandarin Dictionaries <br> 中文词典 / 中文詞典
+# <center>Chinese Mandarin Dictionaries <br> 中文词典 / 中文詞典 </center>
 
 # Readme: Work in progress
 
@@ -157,7 +157,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded
 # 新华字典 Xīnhuá Zìdiǎn character dictionary
 <b>About 說明 / 说明</b><br>
 ...
-	
+<br><br><br>
 	
 # 數字輸入法 Chinese Input Methods
 <b>About 說明 / 说明</b><br>
@@ -172,7 +172,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81><b>Licences 許可證 / 许可证</b></a>
 <br><br>
 	
-# Mirror of dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a>
+	# <center>Dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a> (mirror)</center>
 
 The dictionaries here by WFG are hosted here for those who might search the web in English and not otherwise find them, and also for posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
 	
