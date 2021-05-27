@@ -162,7 +162,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded
 	
 # 數字輸入法 Chinese Input Methods
 <b>About 說明 / 说明</b><br>
-A compilation of freely avaialble Chinese input method codes, as listed in this <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.html>table</a>
+A compilation of freely avaialble Chinese input method codes, as listed in this <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md>table</a>
 	
 <br>
 資料來源 Original Files:
