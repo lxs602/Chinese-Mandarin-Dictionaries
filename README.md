@@ -69,24 +69,6 @@ HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictiona
 <br><br>
 
 
-# Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
-<b>About 說明 / 说明</b>
-<br>This is a mirror of an <a href=http://fgwang.blogspot.com/2018/02/blog-post_14.html>excellent dictionary</a> made by WFG. It is hosted here for those searching the web in English, who might not otherwise find it (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>). Total entries: 163, 085.
-<br>
-<br><b>Authorisation / 授權</b> (from the author's webpage):
-<li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
-<li>"Follow the "Creative CC-Name Marking-Prohibited to Change to Taiwan Version 3.0 License Terms" to share my production. I hope that these valuable information can be used more conveniently by everyone. Please also ask friends who can find defects. Let me know any errors so that I can make subsequent corrections." (Google-translate)</li>
-
-<br><b>Version 版本</b>
-<br>2015, revised 10th Oct 2020
-
-<br><b>Licence 許可證 / 许可证</b>
-<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
-<br><b>Original Files 資料來源</b>
-<br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
-<br>http://fgwang.blogspot.com/2018/02/blog-post_14.html
-<br><br>
-
 # CC-CEDICT - with enlarged characters<br>
 <b>About 說明 / 说明</B><br>
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions which shouldn't be there.
@@ -156,7 +138,7 @@ A Chinese-English dictionary, from the ADSO project by David Lancashire, https:/
 <br><br>
 
 # Chinese Lexicon - Etymology<br>
-<b>About 說明 / 说明</B><br>
+<b>About 說明 / 说明</b><br>
 A character etymology dictionary, derived from <a href=https://github.com/peterolson/chinese-lexicon>Chinese Lexicon</a> by Peter Olsen (<a href=https://www.dong-chinese.com>dong-chinese.com</a>). Contains decomposition data, helpful images of iconographs and short definitions from CC-CEDICT. Total of 5054 terms.
 <br>
 <br><b>Licence 許可證 / 许可证</b>
@@ -166,12 +148,85 @@ A character etymology dictionary, derived from <a href=https://github.com/petero
 <br><br>
 
 # Tatoeba Chinese-English Vocabulary<br>
-<b>About 說明 / 说明</B><br>
+<b>About 說明 / 说明</b><br>
 A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded December 2020, with 47969 phrases. “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br><br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using <a href=https://github.com/fxsjy/jieba>jieba</a>. Thanks also to <a href=https://digitalwords.net/anki/tatoeba-audio/index.eng.html>"Generating Anki decks with audio from the Tatoeba Project"</a>, accessed December 2020.  <br>
 <br><b>Licence 許可證 / 许可证</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Tatoeba%20Chinese-English%20Vocabulary/Licence%20-%20CC%20BY%202.0%20FR>CC BY 2.0 FR<a/><br>
 <br><br>
 
+# 新华字典 Xīnhuá Zìdiǎn character dictionary
+<b>About 說明 / 说明</b><br>
+...
+	
+	
+# 數字輸入法 Chinese Input Methods
+<b>About 說明 / 说明</b><br>
+A compilation of freely avaialble Chinese input method codes, as listed in this <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.html>table</a>
+	
+<br>
+資料來源 Original Files:
+https://github.com/chinese-opendesktop/cin-tables
+https://github.com/openvanilla/openvanilla/tree/master/DataTables	
+	
+<br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81><b>Licences 許可證 / 许可证</b></a>
+<br><br>
+	
+# Mirror of dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a>
+
+The dictionaries here by WFG are hosted here for those who might search the web in English and not otherwise find them, and also for posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
+	
+# Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
+<b>About 說明 / 说明</b>
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. 
+<br>
+<br><b>Authorisation / 授權</b> (from the author's webpage):
+<li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
+<li>"Follow the "Creative CC-Name Marking-Prohibited to Change to Taiwan Version 3.0 License Terms" to share my production. I hope that these valuable information can be used more conveniently by everyone. Please also ask friends who can find defects. Let me know any errors so that I can make subsequent corrections." (Google-translate)</li>
+
+<br><b>Version 版本</b>
+<br>2015, revised 10th Oct 2020
+
+<br><b>Licence 許可證 / 许可证</b>
+<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
+<br><b>Original Files 資料來源</b>
+<br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
+<br>http://fgwang.blogspot.com/2018/02/blog-post_14.html
+<br><br>
+
+# 全字庫 Quan Zi Ku
+A Taiwanese character dictionary by WFG, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes.
+
+<br><b>Original Files 資料來源</b>
+http://fgwang.blogspot.com/2020/07/blog-post_3.html
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku/%E5%85%A8%E5%AD%97%E5%BA%AB%20-%20Full%20Description%20-%20from%20Authors%20webpage%20-%20english.zip>English translation (Google translate)</a>
+
+# 干祿字書 Ganlu Zishu
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun.
+
+<br><b>Original Files 資料來源</b>
+http://fgwang.blogspot.com/2019/04/blog-post.html 
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu/Full%20description%20-%20Ganlu%20Zishu%20-%20WFG%20-%20english.html>English translation (Google translate)</a>
+
+
+# 康熙字典 Kangxi Radical Dictionary
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries.
+
+This is a large dictionary. One of the files has been split into three (康熙字典.mdd.zip, 康熙字典.mdd.z01, 康熙字典.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
+
+<br><b>Original Files 資料來源</b>
+http://fgwang.blogspot.com/2018/12/blog-post_10.html
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.html>English translation (Google translate)</a>
+
+
+# 說文解字 Shuowen Jiezi
+The 2nd Century Han character dictionary, by 許慎 Xu Shen.
+
+This is another large dictionary. One of the files has been split into three (說文解字.mdd.zip, 說文解字.mdd.z01, 說文解字.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
+
+<br><b>Original Files 資料來源</b>
+http://fgwang.blogspot.com/2019/02/blog-post.html 
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.html>English translation (Google translate)</a>
 
 
 # Acknowledgements 鳴謝 / 鸣谢
