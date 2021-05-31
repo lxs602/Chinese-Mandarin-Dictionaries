@@ -220,6 +220,7 @@ This is a large dictionary. One of the files has been split into three (康熙�
 http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.md>English translation (Google translate)</a><br><br>
 
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>CC BY-SA 3.0</a><br>
 
 # 說文解字 Shuowen Jiezi
 The 2nd Century Han character dictionary, by 許慎 Xu Shen.
