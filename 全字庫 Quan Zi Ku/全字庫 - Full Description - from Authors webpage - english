@@ -5,20 +5,20 @@ Friday, July 3, 2020
 
 I made a new version of Quan Song Ti and the data sorted by the parts retrieval process, and made a "Quan Zi Library" dictionary. Although there is no actual interpretation and is not very useful, the prefix data of the entire font library is completely included and recorded. Unicode correspondence is more complete than official data. Search the word through the component, query this "full-character database" dictionary, you can find the CNS code of the word, and you can directly click to jump to the official corresponding page, which is actually more convenient and accurate than the query function of the official website .
 
-[![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/01.png)](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/01.png)
+[![](https://1.bp.blogspot.com/-erE4E6DuaOc/Xv7GyI1j6BI/AAAAAAAAAoQ/o9WnjIeidm0UVdIqtpdTsj9mxDRWr3egACLcBGAsYHQ/s1600/01.png)](https://1.bp.blogspot.com/-erE4E6DuaOc/Xv7GyI1j6BI/AAAAAAAAAoQ/o9WnjIeidm0UVdIqtpdTsj9mxDRWr3egACLcBGAsYHQ/s1600/01.png)
 
  This dictionary is made with the data of the 2018-10-02 edition published by the full-character library. It contains some data that I am concerned about, some infrequently used pinyin codes, and land related data, which are not included because they have nothing to do with my production theme.
  The Unicode code of the word is marked with a small red letter on the upper right of the prefix, and the number in the box after that is the CNS code. Click this box directly to jump to the official website to view all related data. If the Unicode code word CNS is not included, then the CNS code is all represented by 0, of course, there is no data in the full font library.
 
-[![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/02.png)](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/02.png)
+[![](https://1.bp.blogspot.com/-VJfA5B9MFo8/Xv7cFnAojtI/AAAAAAAAAo0/PoIgFnfytn4jE6UYS1kYSoXz5CM300o2gCLcBGAsYHQ/s1600/02.png)](https://1.bp.blogspot.com/-VJfA5B9MFo8/Xv7cFnAojtI/AAAAAAAAAo0/PoIgFnfytn4jE6UYS1kYSoXz5CM300o2gCLcBGAsYHQ/s1600/02.png)
 
  Share this dictionary, mainly because it records the correspondence between Unicode vs. CNS that I have compiled. This correspondence can be obtained by searching the character (Unicode) through the component search and querying the "Quanziku" dictionary (obtaining CNS).
 
-[![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/03.png)](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/03.png)
+[![](https://1.bp.blogspot.com/-s30aBNmIWbY/Xv7OcvftJbI/AAAAAAAAAoc/JpIXTGfck4IWm6cRWPdOSSliY5P6-y_oQCLcBGAsYHQ/s1600/03.png)](https://1.bp.blogspot.com/-s30aBNmIWbY/Xv7OcvftJbI/AAAAAAAAAoc/JpIXTGfck4IWm6cRWPdOSSliY5P6-y_oQCLcBGAsYHQ/s1600/03.png)
 
  In the example above, we can search for this new character in G area (U+3001F) by inputting "incomplete" using the component search, and then we can know that CNS 19-233F has actually included this character. Click on the CNS number to jump to the official website:
 
-[![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/04.png)](https://1.bp.blogspot.com/-dLwPDhAbFpU/Xv7RsMQddSI/AAAAAAAAAoo/k928i-RP14EbNa-XT408IwBPH80LEyS7QCLcBGAsYHQ/s1600/04.png)
+[![](https://1.bp.blogspot.com/-dLwPDhAbFpU/Xv7RsMQddSI/AAAAAAAAAoo/k928i-RP14EbNa-XT408IwBPH80LEyS7QCLcBGAsYHQ/s640/04.png)](https://1.bp.blogspot.com/-dLwPDhAbFpU/Xv7RsMQddSI/AAAAAAAAAoo/k928i-RP14EbNa-XT408IwBPH80LEyS7QCLcBGAsYHQ/s1600/04.png)
 
  From the Unicode column of the official website, you can see that the official has not yet associated this word with the actual Unicode, and only treats it as a foreign word.
  Is it because the G area characters are too new for the official to deal with? Of course it is, but in fact, including E area, F area, and quite a large number of characters, the official has not yet associated with Unicode.
@@ -31,13 +31,13 @@ I made a new version of Quan Song Ti and the data sorted by the parts retrieval 
  Download link: [Cangjie code table.7z](https://drive.google.com/file/d/1y74W62N-mIcl9r6H63oXkzV3aC4YDQRP/view?usp=sharing) (Because everyone’s habits are different, only the Chinese characters are reserved. Please incorporate it into your usual code table. )
  After two years of hard work, we will now make the new version of the All Song Ti and the by-product of the component search-the "Quanziku" dictionary, unconditionally and publicly share it. I am happy to see the application in academic research, education work, and personal reading. But do not use it for any form of commercial profit-making behavior . I hope that these valuable information can be used more conveniently by everyone, and friends who use it, please let me know about the defects and wrong reactions that I find, so that I can make subsequent corrections.
 
-Author: [WFG](https://www.blogger.com/profile/14004240365298046569 "author profile") [](https://www.blogger.com/profile/14004240365298046569 "author profile") at [4:36 pm](http://fgwang.blogspot.com/2020/07/blog-post_3.html "permanent link") [](http://fgwang.blogspot.com/2020/07/blog-post_3.html "permanent link") [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/icon18_edit_allbkg.gif)](https://www.blogger.com/post-edit.g?blogID=8083418832420346104&postID=5532976964392250968&from=pencil "Edit article")
+Author: [WFG](https://www.blogger.com/profile/14004240365298046569 "author profile") [](https://www.blogger.com/profile/14004240365298046569 "author profile") at [4:36 pm](http://fgwang.blogspot.com/2020/07/blog-post_3.html "permanent link") [](http://fgwang.blogspot.com/2020/07/blog-post_3.html "permanent link") [![](https://resources.blogblog.com/img/icon18_edit_allbkg.gif)](https://www.blogger.com/post-edit.g?blogID=8083418832420346104&postID=5532976964392250968&from=pencil "Edit article")
 
 Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2%E7%B7%9A%E8%BE%AD%E5%85%B8)
 
 #### 19 comments:
 
-1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [Arvin](https://www.blogger.com/profile/13925352715866277325)[2020年9月21日 下午7:08](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600686520289#c804094651647676334)
 
@@ -75,7 +75,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年9月22日 上午12:19](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600705196985#c4860845660528094584)
 
@@ -88,7 +88,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-2.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+2.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [阿文](https://www.blogger.com/profile/13925352715866277325)[2020年9月22日 上午3:25](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600716328483#c5819272380155955321)
 
@@ -145,7 +145,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年9月22日 上午9:55](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600739759671#c4434783841639993687)
 
@@ -155,7 +155,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-3.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+3.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [阿文](https://www.blogger.com/profile/13925352715866277325)[2020年9月22日 下午10:05](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600783538309#c5333974356933345655)
 
@@ -170,7 +170,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年9月22日 下午10:40](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600785626681#c3032124202265734636)
 
@@ -182,7 +182,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-4.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+4.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [阿文](https://www.blogger.com/profile/13925352715866277325)[2020年9月23日 上午4:45](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600807531151#c1478957346669821106)
 
@@ -219,7 +219,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年9月23日 上午10:05](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600826704374#c314671271169092996)
 
@@ -230,7 +230,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-5.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+5.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [阿文](https://www.blogger.com/profile/13925352715866277325)[2020年9月23日 下午3:03](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600844621934#c8340561527715078785)
 
@@ -250,7 +250,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年9月23日 下午3:23](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600845832448#c3696620287937312573)
 
@@ -260,7 +260,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-    2.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    2.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年9月23日 下午3:29](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1600846141107#c4757581173474862497)
 
@@ -270,7 +270,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-6.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+6.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [阿文](https://www.blogger.com/profile/13925352715866277325)[2020年10月3日 上午12:42](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1601656949162#c6270604039498523884)
 
@@ -283,7 +283,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年10月3日 下午1:32](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1601703179938#c3747289344389878643)
 
@@ -293,7 +293,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-7.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+7.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [阿文](https://www.blogger.com/profile/13925352715866277325)[2020年10月8日 上午10:24](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1602123866495#c2968534341724108907)
 
@@ -307,7 +307,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [回覆](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[2020年10月8日 上午11:33](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1602128015035#c284350304615573967)
 
@@ -317,7 +317,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
         [Reply](javascript:;)
 
-8.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+8.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [Lee](https://www.blogger.com/profile/03392153822124846347)[December 22, 2020 at 2:44 pm](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1608619472818#c2100980259490449629)
 
@@ -327,17 +327,17 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [Reply](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[December 23, 2020 at 10:32 am](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1608690773370#c876000971631021239)
 
-        Please refer to the introduction of "Establishment of Chinese Characters Usage Environment (1)", especially the description of "Dictionary" in Chapter (3).
+        Please refer to the previous introduction of "Establishment of Chinese Characters Usage Environment (1)", especially the description of "Dictionary" in Chapter (3).
 
         [delete](https://www.blogger.com/delete-comment.g?blogID=8083418832420346104&postID=876000971631021239)
 
         [Reply](javascript:;)
 
-9.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+9.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
     [Miles](https://www.blogger.com/profile/02130512691540777439)[February 16, 2021 at 7:04 pm](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1613473444461#c2645727788701156410)
 
@@ -354,7 +354,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
     [Reply](javascript:;)
 
-    1.  ![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/blogger_logo_round_35.png)
+    1.  ![](//www.blogger.com/img/blogger_logo_round_35.png)
 
         [WFG](https://www.blogger.com/profile/14004240365298046569)[February 17, 2021 at 5:47 pm](http://fgwang.blogspot.com/2020/07/blog-post_3.html?showComment=1613555222913#c1907205187652546795)
 
@@ -368,7 +368,7 @@ Category: [Offline Dictionary](http://fgwang.blogspot.com/search/label/%E9%9B%A2
 
 Load more...
 
-[](https://www.blogger.com/comment-iframe.g?blogID=8083418832420346104&postID=5532976964392250968&blogspotRpcToken=2196846)
+[](https://www.blogger.com/comment-iframe.g?blogID=8083418832420346104&postID=5532976964392250968&blogspotRpcToken=6629528)
 
 [Newer article](http://fgwang.blogspot.com/2019/04/blog-post.html "Newer article") [Older article](http://fgwang.blogspot.com/2020/07/blog-post.html "Older article") [Home page](http://fgwang.blogspot.com/)
 
@@ -380,42 +380,42 @@ Search this blog
 ||
 |||
 
-![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/icon18_wrench_allbkg.png)
+![](https://resources.blogblog.com/img/icon18_wrench_allbkg.png)
 
 popular articles
 ----------------
 
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/教育部重編國語辭典(第五版).png)](http://fgwang.blogspot.com/2018/02/blog-post_14.html)
+-   [![](https://1.bp.blogspot.com/-BpA4_OL50Bk/WoK8vMwBRpI/AAAAAAAAAQw/ZqZLm44BMxA5T09p3EUchB0zs6ah6q66gCLcBGAs/w72-h72-p-k-no-nu/%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E9%2587%258D%25E7%25B7%25A8%25E5%259C%258B%25E8%25AA%259E%25E8%25BE%25AD%25E5%2585%25B8%2528%25E7%25AC%25AC%25E4%25BA%2594%25E7%2589%2588%2529.png)](http://fgwang.blogspot.com/2018/02/blog-post_14.html)
     [The Ministry of Education re-edited the Mandarin Dictionary (Fifth Edition)](http://fgwang.blogspot.com/2018/02/blog-post_14.html)
     ☆ 2020/12/30 cumulative revision update, mainly to correct some foreign language errors reported by brother Skippy, please download the original link again. ☆ 2020/07/09 cumulative revision update, mainly revised some foreign languages, please download the original link again. ☆ 2019/02/15 cumulative revision update, please download the original link again. ☆ 2018/02/21 revision...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/說文解字01.png)](http://fgwang.blogspot.com/2019/02/blog-post.html)
+-   [![](https://2.bp.blogspot.com/-_77glQ0vhuY/XGOXoI4lKgI/AAAAAAAAAck/7GX2flqn10cI2tx50zs2lPmHdvmPgXwQQCLcBGAs/w72-h72-p-k-no-nu/%25E8%25AA%25AA%25E6%2596%2587%25E8%25A7%25A3%25E5%25AD%259701.png)](http://fgwang.blogspot.com/2019/02/blog-post.html)
     [Dictionary of "Shuo Wen Jie Zi"](http://fgwang.blogspot.com/2019/02/blog-post.html)
-    ☆ 2019/02/15 Corrected some errors reported by netizens, and made slight adjustments to the features of the mobile APP. Please download the original link again. Five or six years ago, for reading needs, I made the first version of the "Shu Wen Jie Zi" dictionary, but I have not been very satisfied. Until two years ago, the relevant production skills and experience gradually matured, so I decided to redo it. I used the "Shu Wen Jie Zi" donated by Teacher Jiang Menma to synthesize...
+    ☆ 2019/02/15 Corrected some errors reported by netizens, and made slight adjustments to the features of the mobile APP. Please download the original link again. Five or six years ago, for the need of reading, I made the first version of the "Shu Wen Jie Zi" dictionary, but I have not been very satisfied. Until two years ago, the relevant production skills and experience gradually matured, so I decided to redo it. I used the "Shu Wen Jie Zi" donated by Teacher Jiang Menma to synthesize...
 -   [Ministry of Education "Idioms Dictionary" offline dictionary](http://fgwang.blogspot.com/2015/12/blog-post.html)
     ☆ 2018/05/29 minor revision update, please download again. A few days ago, it was discovered that the Ministry of Education had updated the authorization method of the "Idioms Dictionary". It turned out that the Ministry of Education revised the authorization method of related Mandarin dictionaries at the beginning of last month: For authorization, see: Ministry of Education Mandarin Dictionary Public Authorization Network Republic of China Education Ministry of "Revised Chinese Dictionary", "Mandarin Dictionary", "Mandarin Dictionary"...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/安裝前.png)](http://fgwang.blogspot.com/2018/02/blog-post.html)
+-   [![](https://2.bp.blogspot.com/-aKnNhhVCCqc/Wnv5sYCPWHI/AAAAAAAAAPg/Jy4F7aVEgi8aqCQnFP_C9YCRx61NQZkJQCEwYBhgL/w72-h72-p-k-no-nu/%25E5%25AE%2589%25E8%25A3%259D%25E5%2589%258D.png)](http://fgwang.blogspot.com/2018/02/blog-post.html)
     [Establishment of Chinese Characters Usage Environment (1)-Display](http://fgwang.blogspot.com/2018/02/blog-post.html)
-    ☆ On March 29, 2021, the support will be updated to 150,000 Chinese characters. For details, please refer to the establishment of the Chinese character usage environment-150,000 Chinese characters debut. ☆ 2020/06/30 Update to support Unicode 13.0 and all encoded Chinese characters of the Taiwan CNS standard. For details, please refer to the All Times New Romanization Update. ☆ 2018/12/12 added some supplementary words...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/康熙字典.png)](http://fgwang.blogspot.com/2018/12/blog-post_10.html)
+    ☆ On March 29, 2021, the support will be updated to 150,000 Chinese characters. For details, please refer to the establishment of the Chinese character usage environment-150,000 Chinese characters will be released. ☆ 2020/06/30 Update to support Unicode 13.0 and all encoded Chinese characters of the Taiwan CNS standard. For details, please refer to the update of All Times New Roman. ☆ 2018/12/12 added some supplementary words...
+-   [![](https://2.bp.blogspot.com/-261aYp8NrYg/XA8eADUVuhI/AAAAAAAAAaM/DLrYr8fT6UQxJWGLb4d2bC3VnIjVrR-8gCLcBGAs/w72-h72-p-k-no-nu/%25E5%25BA%25B7%25E7%2586%2599%25E5%25AD%2597%25E5%2585%25B8.png)](http://fgwang.blogspot.com/2018/12/blog-post_10.html)
     ["Kangxi Dictionary"](http://fgwang.blogspot.com/2018/12/blog-post_10.html)
     ☆ On 12/11/2018, a friend suggested that the labels of "tone" and "example" should be separated by color, and the "example" should be unified with "tone", so the context is clear. I think this suggestion is good, so the color scheme has been modified. Please download the original link again. The "Opening Kangxi" edited by brother Zhipan brought great convenience to reference when reading. But maybe the text of the same textbook he used at the time was not clear enough and difficult to recognize, and there were still many texts...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/開卷助理.jpg)](http://fgwang.blogspot.com/2018/12/blog-post.html)
+-   [![](https://4.bp.blogspot.com/-Jwo0LYIVRXs/Wg0yOsifXyI/AAAAAAAAALo/Xh6gg7b8wxM3a3sc2rt1gnSYRNrPiR-TgCLcBGAs/w72-h72-p-k-no-nu/%25E9%2596%258B%25E5%258D%25B7%25E5%258A%25A9%25E7%2590%2586.jpg)](http://fgwang.blogspot.com/2018/12/blog-post.html)
     [The establishment of the environment for the use of Chinese characters (iv)-open volume](http://fgwang.blogspot.com/2018/12/blog-post.html)
     When I search a dictionary, I often need to further refer to the original book and shadow of the dictionary, especially some ancient text books, dictionaries, and rhyme books. On the one hand, there may still be errors and omissions in the textualized text. On the other hand, it may be that the original book still has some content that is difficult to present in textualization, such as some glyphs, styles, illustrations, and so on. But if you still have to manually go through the books one by one, it is difficult and inefficient. The MDict dictionary brings fast...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/部件檢索.png)](http://fgwang.blogspot.com/2018/02/blog-post_9.html)
+-   [![](https://2.bp.blogspot.com/-uIcSxGh8pQc/Wn1McN9d_tI/AAAAAAAAAQI/ivkAhWX7PEwQmgY9ypXwVCVhJWJsNIRDwCLcBGAs/w72-h72-p-k-no-nu/%25E9%2583%25A8%25E4%25BB%25B6%25E6%25AA%25A2%25E7%25B4%25A2.png)](http://fgwang.blogspot.com/2018/02/blog-post_9.html)
     [Establishment of Chinese Characters Usage Environment (ii)-Input](http://fgwang.blogspot.com/2018/02/blog-post_9.html)
     ☆ 2021/03/29 更新支援至十五萬漢字，詳情請見  漢字使用環境的建置 —— 十五萬漢字粉墨登場 。 ☆ 2020/07/02 更新支援 Unicode 13.0 以及台灣 CNS 標準的所有編碼漢字，詳情請見 部件檢索更新 。 漢字輸入 漢字的輸入一直以來都是...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/5178.png)](http://fgwang.blogspot.com/2015/03/blog-post.html)
+-   [![](https://1.bp.blogspot.com/-C_jA9EnUX4M/WgbGbO7NaFI/AAAAAAAAAIA/Ymkxks_0qL84hzhFvq_UXxcFbiIq-YX5gCPcBGAYYCw/w72-h72-p-k-no-nu/5178.png)](http://fgwang.blogspot.com/2015/03/blog-post.html)
     [開放康熙離線字典](http://fgwang.blogspot.com/2015/03/blog-post.html)
     因著開始閱讀詩經的緣故，每逢發現了可以輔助閱讀的相關資料，我便會想辦法將它轉製成 MDict 離線辭典以方便查找，算算這兩年多來也累積製作了超過三十餘部的大小辭典。在我做的這些辭典之中，"康熙字典" 的製作要算是波折最多的一部了。
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/7570J.png)](http://fgwang.blogspot.com/2014/11/blog-post.html)
-    [國際電腦漢字及異體字字典](http://fgwang.blogspot.com/2014/11/blog-post.html)
-    隨著兩年多來閱讀詩經的持續進行，我對這些古老詩歌的閱讀深度也自然而然地逐步加強。有時候我會翻遍手邊所有的辭典，只為了對某一個單字或複詞的意義有更深入的理解。這時候，我自己收集製作的七、八部離線辭典通常就能幫上大忙，讓我可以方便、可靠地查到我想要找的資料。不過現有的幾部主力辭典基本...
--   [![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/unnamed.jpg)](http://fgwang.blogspot.com/2015/12/blog-post_30.html)
+-   [![](https://lh3.googleusercontent.com/proxy/dPBZmwQdlZWPfBSNljF9pXG6sFdNlVfA0-2Fv27vpCLdnsihFVdQg2zLGzhQqGF62FOFuC_5lCnwculsLGnUYJHDLuPnbZ4q5-lcbG-tAVr3iW8dAnkZSwQYKcA=w72-h72-p-k-no-nu)](http://fgwang.blogspot.com/2015/12/blog-post_30.html)
     [部件檢索公開授權](http://fgwang.blogspot.com/2015/12/blog-post_30.html)
     ☆ 2021/03/29 更新支援至十五萬漢字，詳情請見  漢字使用環境的建置 —— 十五萬漢字粉墨登場 。 ☆ 2020/07/02 更新支援 Unicode 13.0 以及台灣 CNS 標準的所有編碼漢字，詳情請見  部件檢索更新 。 最近我設計的「部件檢索」受到了一些朋...
+-   [![](https://4.bp.blogspot.com/-6oPK-fVsndY/WgazJdzEutI/AAAAAAAAAHA/itvgdxLMsXY7szC4D8Ha4_8mI1lwaU3RgCLcBGAs/w72-h72-p-k-no-nu/7570J.png)](http://fgwang.blogspot.com/2014/11/blog-post.html)
+    [國際電腦漢字及異體字字典](http://fgwang.blogspot.com/2014/11/blog-post.html)
+    隨著兩年多來閱讀詩經的持續進行，我對這些古老詩歌的閱讀深度也自然而然地逐步加強。有時候我會翻遍手邊所有的辭典，只為了對某一個單字或複詞的意義有更深入的理解。這時候，我自己收集製作的七、八部離線辭典通常就能幫上大忙，讓我可以方便、可靠地查到我想要找的資料。不過現有的幾部主力辭典基本...
 
-![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/icon18_wrench_allbkg.png)
+![](https://resources.blogblog.com/img/icon18_wrench_allbkg.png)
 
 網誌封存
 --------
@@ -472,7 +472,7 @@ popular articles
 
     -   [► ](javascript:void(0)) [一月](http://fgwang.blogspot.com/2013/01/) (1)
 
-![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/icon18_wrench_allbkg.png)
+![](https://resources.blogblog.com/img/icon18_wrench_allbkg.png)
 
 About myself
 ------------
@@ -481,16 +481,16 @@ About myself
 
 [View my full profile](https://www.blogger.com/profile/14004240365298046569)
 
-![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/icon18_wrench_allbkg.png)
+![](https://resources.blogblog.com/img/icon18_wrench_allbkg.png)
 
 ||
 |||
 
-Watermark theme. Technology provided by: [Blogger](https://www.blogger.com/) .
+Watermark theme. Technology provided by: [Blogger](https://www.blogger.com) .
 
-![](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/icon18_wrench_allbkg.png)
+![](https://resources.blogblog.com/img/icon18_wrench_allbkg.png)
 
-![Google Translate](./WFG_%20_Whole%20Character%20Library_%20Dictionary%20-%20english_files/translate_24dp.png)
+![Google Translate](https://www.gstatic.com/images/branding/product/1x/translate_24dp.png)
 
 Original text
 =============
