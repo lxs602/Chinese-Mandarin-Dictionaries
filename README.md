@@ -75,7 +75,7 @@ HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictiona
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions which shouldn't be there.
 
 <b>Licence 許可證 / 许可证</b><br>
-Creative Commons BY-SA 3.0 <br><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20(with%20enlarged%20characters)/Licence%20CC%20BY-SA%203.0.txt>Creative Commons BY-SA 3.0</a> <br><br>
 <b>Original Files 資料來源</b><br>
 https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 <br><br>
@@ -219,7 +219,7 @@ This is a large dictionary. One of the files has been split into three (康熙�
 <br><b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.md>English translation (Google translate)</a><br><br>
-
+<br><b>Licence 許可證</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>CC BY-SA 3.0</a><br>
 
 # 說文解字 Shuowen Jiezi
