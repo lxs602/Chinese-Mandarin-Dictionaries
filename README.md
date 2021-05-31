@@ -207,8 +207,8 @@ http://fgwang.blogspot.com/2020/07/blog-post_3.html <br>
 A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun.
 
 <br><b>Original Files 資料來源</b> <br>
-http://fgwang.blogspot.com/2019/04/blog-post.md <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu/Full%20description%20-%20Ganlu%20Zishu%20-%20WFG%20-%20english.html>English translation (Google translate)</a><br><br>
+http://fgwang.blogspot.com/2019/04/blog-post.html <br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu/Full%20description%20-%20Ganlu%20Zishu%20-%20WFG%20-%20english.md>English translation (Google translate)</a><br><br>
 
 
 # 康熙字典 Kangxi Radical Dictionary
