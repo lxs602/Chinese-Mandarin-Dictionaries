@@ -195,7 +195,7 @@ The CUV and The World English Bible (WEB) are both free and in the public domain
 	
 The CUVs version is pending.
 	
-It may also be worth <i>having a look</i> at this <a href=https://github.com/michaelchanwahyan/Bible>comparison Bible</a> by michaelchanwahyan, which has several English and Chinese versions.
+It may also be worth <i>having a look at this <a href=https://github.com/michaelchanwahyan/Bible>comparison Bible</a></i> by michaelchanwahyan, which has several English and Chinese versions.
 <br><br>
 <b>資料來源 Original Files:</b><br>
 https://ebible.org/webbe/ <br>
@@ -203,7 +203,7 @@ https://www.o-bible.com/ <br>
 <br>	 	
 <br>
 <b>Licences 許可證 / 许可证</b><br>
-CUV bible: Public Domain
+CUV bible: Public Domain<br>
 World English Bible: Public Domain
 
 "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
