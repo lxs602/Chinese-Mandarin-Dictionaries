@@ -173,7 +173,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81><b>Licences 許可證 / 许可证</b></a>
 <br><br><br>
 	
-# CUV Bible concordance (with World English Bible translation)
+# 串珠聖經和合本 CUV Bible concordance (with World English Bible translation)
 
 <b>About 說明 / 说明</b><br>
 
