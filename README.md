@@ -186,6 +186,8 @@ It is therefore a free resource for both studying God's word and for learning Ch
 	
 <b>This dictionary has been made possible by advances in machine-translation to allow word segmentation, but it has not been humanly checked, so <i>there will be errors</i> - please let me know.</b>, Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  Nonetheless, the CUV was chosen as it is avaiable already segmented by Strong's numbers. Additionally, the word list should mean that place and people names should be generally accurate (e.g. 耶和华 / 耶和華 - Jehovah). 
 	
+The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lost_christmas0.
+	
 The CUV and The World English Bible (WEB) are both free and in the public domain. The WEB was chosen as perhaps the most accurate but also readable free English version available. The CUVs version is pending.
 	
 It may also be worth <i>having a look at this <a href=https://github.com/michaelchanwahyan/Bible>comparison Bible</a></i> by michaelchanwahyan, which has several English and Chinese versions.
