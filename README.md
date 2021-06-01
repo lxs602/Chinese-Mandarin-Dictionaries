@@ -173,6 +173,42 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81><b>Licences 許可證 / 许可证</b></a>
 <br><br><br>
 	
+# CUV Bible concordance
+	<b>with World English Bible translation</b>
+
+<b>About 說明 / 说明</b><br>
+
+串珠聖經和合本 (Concordance) 例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible) 。
+	
+A searchable Chinese Bible concordance for the Chinese Union Version (CUV), with the English translation from the World English Bible.
+	
+The Bible is a highly translated document, and is freely available in Chinese and English, and so has a large amount of free Chinese-English vocabulary.
+It is therefore a free resource both for learning Chinese, and for studying God's word.
+	
+For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation. If you are already familiar with the passage in English, studying an equivalent passage in Chinese may promote language assimilation.
+	
+Additionally, while there are many Bible concordances in English, I am aware of only one in Chinese, for the New Testament: akow.org/?s=Analytical+Concordance .  Hopefully this may be useful for study of the Chinese Bible and for learning English.
+	
+	<b>The Chinese text has been segmented into words by machine-translation</b>, with <a href=https://github.com/voidism/pywordseg>pywordseg</a>, using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>. <b>It has not been checked, so there  be errors - please let me know.</b> Nonetheless, the CUV was chosen as it is avaiable already segmented by Strong's numbers. Additionally, the word list should mean that place and people names should be generally accurate (e.g. 耶和华 / 耶和華 - Jehovah). 
+	
+The CUV and The World English Bible (WEB) are both free and in the public domain. The WEB was chosen as perhaps the most accurate but also readable free English version available.
+	
+The CUVs version is pending.
+<br>
+<b>資料來源 Original Files:</b><br>
+https://ebible.org/webbe/ <br>
+https://www.o-bible.com/ <br>
+<br>	 	
+<br>
+<b>Licences 許可證 / 许可证</b><br>
+CUV bible: Public Domain
+World English Bible: Public Domain
+
+"World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
+	
+<br><br><br>
+	
+	
 # Dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a> (mirror)
 
 The dictionaries by WFG below are hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
