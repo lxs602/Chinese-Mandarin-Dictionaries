@@ -174,7 +174,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <br><br><br>
 	
 # CUV Bible concordance
-	<b>with World English Bible translation</b>
+<b>with World English Bible translation</b>
 
 <b>About 說明 / 说明</b><br>
 
@@ -183,17 +183,19 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 A searchable Chinese Bible concordance for the Chinese Union Version (CUV), with the English translation from the World English Bible.
 	
 The Bible is a highly translated document, and is freely available in Chinese and English, and so has a large amount of free Chinese-English vocabulary.
-It is therefore a free resource both for learning Chinese, and for studying God's word.
+It is therefore a free resource for both studying God's word and for learning Chinese.
 	
-For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation. If you are already familiar with the passage in English, studying an equivalent passage in Chinese may promote language assimilation.
+For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation. If you are already familiar with the passage in English, and vice-versa, studying an equivalent passage in Chinese may promote language assimilation.
 	
 Additionally, while there are many Bible concordances in English, I am aware of only one in Chinese, for the New Testament: akow.org/?s=Analytical+Concordance .  Hopefully this may be useful for study of the Chinese Bible and for learning English.
 	
-	<b>The Chinese text has been segmented into words by machine-translation</b>, with <a href=https://github.com/voidism/pywordseg>pywordseg</a>, using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>. <b>It has not been checked, so there  be errors - please let me know.</b> Nonetheless, the CUV was chosen as it is avaiable already segmented by Strong's numbers. Additionally, the word list should mean that place and people names should be generally accurate (e.g. 耶和华 / 耶和華 - Jehovah). 
+<b>The Chinese text has been segmented into words by machine-translation</b>, with <a href=https://github.com/voidism/pywordseg>pywordseg</a>, using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>. <b>It has not been checked, so there  be errors - please let me know.</b> Nonetheless, the CUV was chosen as it is avaiable already segmented by Strong's numbers. Additionally, the word list should mean that place and people names should be generally accurate (e.g. 耶和华 / 耶和華 - Jehovah). 
 	
 The CUV and The World English Bible (WEB) are both free and in the public domain. The WEB was chosen as perhaps the most accurate but also readable free English version available.
 	
 The CUVs version is pending.
+	
+It may be worth having a look at this <a href=https://github.com/michaelchanwahyan/Bible>comparison Bible</a> by michaelchanwahyan, which has several English and Chinese versions.
 <br>
 <b>資料來源 Original Files:</b><br>
 https://ebible.org/webbe/ <br>
