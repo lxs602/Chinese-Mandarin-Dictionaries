@@ -1,0 +1,28 @@
+吴语臺語字輸入法 Wu and Tiawanese Input Methods dictionary
+
+Licence - 授權條款 - 执照 - 授权条款
+
+蘇州吳語 - SouTzoe - GPL v3
+吴语拼音 - Wu -  Free
+臺語注音 - Taiwanese - Free
+台式閩南語注音 - Taiwan Minnan Zhuyin - Free
+臺語 - TRS Taigi - Public Domain
+台語 TLPA - TLPA - Free
+灣娘臺漢 Uan Niu Ban Lam - GPL v3
+通用海陸 Hoi Liuk  -  本檔是由陳念波 <nienpo@yahoo.com> 依據  # 《台灣客家話辭典》編者徐兆泉老師提供的  # CC BY-NC-SA 2.5 TW http://creativecommons.org/licenses/by-nc-sa/2.5/tw/deed.zh_TW
+通用四縣 Si Yen  -  -  本檔是由陳念波 <nienpo@yahoo.com> 依據  # 《台灣客家話辭典》編者徐兆泉老師提供的  # CC BY-NC-SA 2.5 TW http://creativecommons.org/licenses/by-nc-sa/2.5/tw/deed.zh_TW
+海陸客語 Hai Lu - Public Domain
+四縣客語 SiXian - Public Domain
+台語漢羅 - KKS - Free
+客语汉罗 - Hakka KKS - Free
+客語台羅 - Hakka Tai Lo KKS - Free
+白話字漢羅 - Poj Holo -  GPL v2
+普實台文 - Phofsi    -   Public Domain
+臺客四縣 Hakka Pinyin 1 /  臺客海陸 Hakka Pinyin 2/ 臺客大埔 Hakka Pinyin 3/ 臺客饒平 Hakka Pinyin 4 /臺客詔安 Hakka Pinyin 5   /   臺客南四 Hakka Pinyin 6 / 臺灣閩漢 TLIM2
+# 本安裝套件係由教育部開發，免費供公眾散布使用。使用者可以免費下載、使用、
+# 重製、散布本安裝套件，惟重製和散布時，必須保持本安裝套件完整。使用者如為
+# 下載、使用、重製、散布以外之其他目的，須先得到教育部之書面授權，惟本安裝
+# 套件之任何使用目的均不得涉及主要為獲取商業利益或私人金錢報酬之方式。若因
+# 使用本軟體所產生之任何損害，本部一概不負任何責任。
+# 教育部國語推行委員會
+# 網址：http://www.edu.tw/mandr/
