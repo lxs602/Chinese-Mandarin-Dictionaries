@@ -182,9 +182,9 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <br><br><br>
 	
 # 串珠聖經和合本 CUV / English Bible concordance
-<br><br>
+<br>
 <b>About 說明 / 说明</b><br>
-<br><br>
+<br>
 A CUVs version is pending.
 <br><br>	
 串珠聖經和合本 (Concordance) 例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible) 。
