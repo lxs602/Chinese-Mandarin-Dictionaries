@@ -164,42 +164,50 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded
 <b>About 說明 / 说明</b><br>
 A compilation of freely avaialble Chinese input method codes, as listed in this <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md>table</a> or <a href=https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924>here</a>.
 	
-Also: 
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan>吳語臺語字輸入法 Wu and Minnan</a>
+Also: <br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan>吳語臺語字輸入法 Wu and Minnan</a><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2(%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0)%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20(JKVT)%20Input%20Methods>亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)</a>
 	
 <br>
-資料來源 Original Files:<br>
+<b>資料來源 Original Files:</b><br>
 https://github.com/chinese-opendesktop/cin-tables <br>
 https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>	 
 	
 <br>
-<b>Licences 許可證 / 许可证</b>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81>數字輸入法 Chinese Input Methods</a>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan/Licence%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>吳語臺語字輸入法 Wu and Minnan</a>
+<b>Licences 許可證 / 许可证</b><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81>數字輸入法 Chinese Input Methods</a><br>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan/Licence%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>吳語臺語字輸入法 Wu and Minnan</a><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2(%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0)%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20(JKVT)%20Input%20Methods/Licence%20-%20About.md>亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)</a>
 	
 <br><br><br>
 	
-# 串珠聖經和合本 
-# CUV Bible concordance (with World English Bible translation)
+# 串珠聖經和合本 CUV / English Bible concordance
 
 <b>About 說明 / 说明</b><br>
 
 串珠聖經和合本 (Concordance) 例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible) 。
 	
-A searchable Chinese Bible concordance for the Chinese Union Version (CUV), with an English translation from the World English Bible.
+A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible.
 	
-The Bible is a highly translated document, and is freely available in Chinese and English, and so has a large amount of free Chinese-English vocabulary.
-It is therefore a free resource for both studying God's word and for learning Chinese. For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation. If you are already familiar with the passage in English, studying an equivalent passage may promote language assimilation in Chinese, and vice-versa. Additionally, while there are many Bible concordances in English, I am aware of only one in Chinese, for the <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>New Testament</a>.  Hopefully this may be useful for Bible study in Chinese.
+The Bible is free and available in Chinese and English, and has a large amount of free Chinese-English vocabulary.
+
+Furthermore, though there are many Bible concordances in English, there appear to be none in Chinese except this one: <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>New Testament</a>.
+
+Hopefully, this will be a resource for both learning English/Chinese, and studying the Bible. For passages already familiar in one language, studying the equivalent passage in a language to be learned may promote assimilation.
 	
-<b>This dictionary has been made possible by advances in machine-translation to allow word segmentation, but it has not been humanly checked, so <i>there will be errors</i> - please let me know.</b>, Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  Nonetheless, the CUV was chosen as it is avaiable already segmented by Strong's numbers. Additionally, the word list should mean that place and people names should be generally accurate (e.g. 耶和华 / 耶和華 - Jehovah). 
+For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
+
+<b>Compilation</b>
+<b>This dictionary has been made with automatic word segmentation, and has not been humanly checked, so there will be errors. Please let me know.</b>, Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
 	
-The CUV and The World English Bible (WEB) are both free and in the public domain. The WEB was chosen as perhaps the most accurate but also readable free English version available. The CUVs version is pending.
+The CUV is available already segmented by Strong's numbers, and was chosen for this reason, as well being in the public domain. The WEB was chosen as a free, accurate but also readable English version. 
 	
-It may also be worth <i>having a look at this <a href=https://github.com/michaelchanwahyan/Bible>comparison Bible</a></i> by michaelchanwahyan, which has several English and Chinese versions.
+The CUVs version is pending.
+
+<b>Related Texts</b><br>
+Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
 <br><br>
 <b>資料來源 Original Files:</b><br>
 https://ebible.org/webbe/ <br>
