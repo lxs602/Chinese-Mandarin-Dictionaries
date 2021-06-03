@@ -182,9 +182,11 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <br><br><br>
 	
 # 串珠聖經和合本 CUV / English Bible concordance
-
+<br><br>
 <b>About 說明 / 说明</b><br>
-
+<br><br>
+A CUVs version is pending.
+<br><br>	
 串珠聖經和合本 (Concordance) 例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible) 。
 	
 A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible.
@@ -196,17 +198,15 @@ Furthermore, though there are many Bible concordances in English, there appear t
 Hopefully, this will be a resource for both learning English/Chinese, and studying the Bible. For passages already familiar in one language, studying the equivalent passage in a language to be learned may promote assimilation.
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
-<br>
+<br><br>
 <b>Compilation</b><br>
 <b>This dictionary has been made with automatic word segmentation, and has not been humanly checked, so there will be errors. Please let me know.</b> Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
-<br>
-<br><b>Choice of Text</b>
+<br><br>
+<br><b>Choice of Text</b><br>
 The CUV is available already segmented by Strong's numbers, and was chosen for this reason, as well being in the public domain. The WEB was chosen as a free, accurate but also readable English version. 
-	
-The CUVs version is pending.
-
+<br><br>
 <b>Related Texts</b><br>
 Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
 <br><br>
