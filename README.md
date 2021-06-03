@@ -164,13 +164,21 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded
 <b>About 說明 / 说明</b><br>
 A compilation of freely avaialble Chinese input method codes, as listed in this <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md>table</a> or <a href=https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924>here</a>.
 	
+Also: 
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan>吳語臺語字輸入法 Wu and Minnan</a>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2(%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0)%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20(JKVT)%20Input%20Methods>亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)</a>
+	
 <br>
 資料來源 Original Files:<br>
 https://github.com/chinese-opendesktop/cin-tables <br>
 https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>	 
 	
 <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81><b>Licences 許可證 / 许可证</b></a>
+<b>Licences 許可證 / 许可证</b>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81>數字輸入法 Chinese Input Methods</a>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan/Licence%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>吳語臺語字輸入法 Wu and Minnan</a>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2(%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0)%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20(JKVT)%20Input%20Methods/Licence%20-%20About.md>亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)</a>
+	
 <br><br><br>
 	
 # 串珠聖經和合本 
