@@ -182,7 +182,6 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <br><br><br>
 	
 # 串珠聖經和合本 CUV / English Bible concordance
-<br>
 <b>About 說明 / 说明</b><br>
 A CUVs version is pending.
 <br><br>	
@@ -194,7 +193,7 @@ The Bible is free in Chinese and English, and has a large amount of availalbe Ch
 
 Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese.
 
-Hopefully, this will be a resource both for learning English/Chinese, and studying the Bible. Studying the equivalent passage of one already familiar may help assimilation of a second language.
+This dictionary was made to be a resource for learning English/Chinese, and studying the Bible in both. Studying the equivalent of a familiar passage hopefully may help assimilation of a second language.
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 <br><br>
@@ -227,7 +226,7 @@ World English Bible: Public Domain
 The dictionaries by WFG below are hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
 <br><br><br>
 	
-# Taiwan Ministry of Education Dictionary (moedict)<br> 教育部國語辭典 - 重編國語辭典 修訂本
+# 教育部國語辭典 - 重編國語辭典 修訂本 Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. 
 <br>
