@@ -184,7 +184,6 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 # 串珠聖經和合本 CUV / English Bible concordance
 <br>
 <b>About 說明 / 说明</b><br>
-<br>
 A CUVs version is pending.
 <br><br>	
 串珠聖經和合本 (Concordance) 例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible) 。
@@ -199,7 +198,7 @@ Hopefully, this will be a resource both for learning English/Chinese, and studyi
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 <br><br>
-<b>Compilation</b><br>
+<b>Compilation</b>
 <br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know those you find.</b><br>
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
