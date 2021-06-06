@@ -195,18 +195,17 @@ The Bible is free in Chinese and English, and has a large amount of availalbe Ch
 
 Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese.
 
-Hopefully, this will be a resource both for learning English/Chinese, and studying the Bible. Especially with passages already familiar in one language, the study of the equivalent passage in a second language may help assimilation.
+Hopefully, this will be a resource both for learning English/Chinese, and studying the Bible. Studying the equivalent passage of one already familiar may help assimilation of a second language.
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 <br><br>
 <b>Compilation</b><br>
-<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know those you find.</b><br><br>
+<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know those you find.</b><br>
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
-<br><br>
+<br>
 <br><b>Choice of Text</b><br>
-The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. The WEB was chosen as a free, accurate and also readable English version. 
-<br><br>
+The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. The WEB was chosen as a free, accurate and also readable English version. <br><br>
 <b>Related Texts</b><br>
 Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
 <br><br>
