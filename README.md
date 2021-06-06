@@ -191,21 +191,21 @@ A CUVs version is pending.
 	
 A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible.
 	
-The Bible is free and available in Chinese and English, and has a large amount of free Chinese-English vocabulary.
+The Bible is free in Chinese and English, and has a large amount of availalbe Chinese-English vocabulary.
 
-Furthermore, though there are many Bible concordances in English, there appear to be none in Chinese except this one: <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>New Testament</a>.
+Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese.
 
-Hopefully, this will be a resource for both learning English/Chinese, and studying the Bible. For passages already familiar in one language, studying the equivalent passage in a language to be learned may promote assimilation.
+Hopefully, this will be a resource both for learning English/Chinese, and studying the Bible. Especially with passages already familiar in one language, the study of the equivalent passage in a second language may help assimilation.
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 <br><br>
 <b>Compilation</b><br>
-<b>This dictionary has been made with automatic word segmentation, and has not been humanly checked, so there will be errors. Please let me know.</b> Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  
+<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know those you find.</b><br><br>
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
 <br><br>
 <br><b>Choice of Text</b><br>
-The CUV is available already segmented by Strong's numbers, and was chosen for this reason, as well being in the public domain. The WEB was chosen as a free, accurate but also readable English version. 
+The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. The WEB was chosen as a free, accurate and also readable English version. 
 <br><br>
 <b>Related Texts</b><br>
 Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
