@@ -1,1 +1,1 @@
-<b>8 Jun 2021 /	2021年6月8日</b> - Corrected verse numbering for ROM 14:24-16:27 and reuploaded 繁體中文和合本和英文WEB串珠聖經 CUVt-WEB Chinese (trad) - English, added Stardict format
+<table><tr><td><b>8 Jun 2021 /	2021年6月8日</td><td></b> - Corrected verse numbering for 繁體中文和合本和英文WEB串珠聖經 CUVt-WEB Chinese (trad) - English (ROM 14:24-16:27), and added Slob and Stardict formats</td></tr></table>
