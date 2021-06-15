@@ -240,14 +240,14 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 <br><br>
 
 # 全字庫 Quan Zi Ku
-A Taiwanese character dictionary by WFG, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>.
+A Taiwanese character dictionary by WFG, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>.
 
 <br><b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2020/07/blog-post_3.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku/%E5%85%A8%E5%AD%97%E5%BA%AB%20-%20Full%20Description%20-%20from%20Authors%20webpage%20-%20english.md>English translation (Google translate)</a><br><br>
 
 # 干祿字書 Ganlu Zishu
-A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>.
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>.
 
 <br><b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2019/04/blog-post.html <br>
@@ -255,7 +255,7 @@ http://fgwang.blogspot.com/2019/04/blog-post.html <br>
 
 
 # 康熙字典 Kangxi Radical Dictionary
-A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>.
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>.
 
 This is a large dictionary. One of the files has been split into three (康熙字典.mdd.zip, 康熙字典.mdd.z01, 康熙字典.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
@@ -266,7 +266,7 @@ http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>CC BY-SA 3.0</a><br><br>
 
 # 說文解字 Shuowen Jiezi
-The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>.
+The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>.
 
 This is another large dictionary. One of the files has been split into three (說文解字.mdd.zip, 說文解字.mdd.z01, 說文解字.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
