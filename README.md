@@ -194,7 +194,7 @@ The Bible is free in Chinese and English, and has a large amount of available Ch
 
 Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese.
 
-This dictionary was made to be a resource for learning English/Chinese, and studying the Bible in both. Studying the equivalent of a familiar passage hopefully may help assimilation of a second language.
+This dictionary was made to be a resource for learning English/Chinese, and studying the Bible in both. Studying a familiar passage hopefully will help learning a second language.
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 <br><br>
@@ -204,7 +204,7 @@ For example, searching for "企望" (hope) will show all verses with this word, 
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
 <br>
 <br><b>Choice of Text</b><br></b>
-The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br>
+The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br><br>
 <b>Related Texts</b><br>
 Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
 <br><br>
@@ -216,9 +216,7 @@ https://www.o-bible.com/ <br>
 <b>Licences 許可證 / 许可证</b><br>
 CUV bible: Public Domain<br>
 World English Bible: Public Domain
-
 "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
-	
 <br><br><br>
 	
 	
