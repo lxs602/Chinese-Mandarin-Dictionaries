@@ -1,3 +1,10 @@
+### Searching for LORD / Jehovah
+As upper and lower cases are not distinguished on dictionary software, to find <i>LORD</i> (Jehovah) instead of <i>Lord</i>, search instead for <i>Jehovah</i>.
+
+
+### Included words
+All Chinese words were indexed, in case of errors with word segmentation.
+
 English words not indexed in the concordance:
 
 a
