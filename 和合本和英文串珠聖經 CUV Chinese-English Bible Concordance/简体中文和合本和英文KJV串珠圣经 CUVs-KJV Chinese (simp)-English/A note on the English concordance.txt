@@ -5,7 +5,7 @@ As upper and lower cases are not distinguished on dictionary software, to find <
 ### Included words
 All Chinese words were indexed, in case of errors with word segmentation.
 
-English words not indexed in the concordance:
+English words not indexed in the KJV concordance:
 
 a
 about
