@@ -190,13 +190,9 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible - British English or the King James Version.
 	
-The Bible is free in Chinese and English, and has a large amount of available Chinese-English vocabulary.
-
-Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese.
-
-This dictionary was made to be a resource for learning English/Chinese, and studying the Bible in both. Studying a familiar passage hopefully will help learning a second language.
-	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
+	
+The Bible is free in Chinese and English, and has a large amount of available Chinese-English vocabulary. Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese. This dictionary was made to be a resource for learning English/Chinese, and studying the Bible in both. Studying a familiar passage hopefully will help learning a second language.
 <br><br>
 <b>Compilation</b>
 <br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know if you find any.</b> <br><br>To avoid errors converting from traditional to simplified, the traditional and simplified versions of the CUV were  segmented separately. However, This may mean some mistakes are present in one version and not the other.
