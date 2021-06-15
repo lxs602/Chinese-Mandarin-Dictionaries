@@ -22,7 +22,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td>To convert</td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td>To download</td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>?upload other formats</td></tr>
-	<tr><td>12.  </td><td>BCC English-Chinese Wordlist (BCC 英汉词典) </td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>13.  </td><td>XDICT English-Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
@@ -104,7 +104,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br><br>
   
   
-# BCC Corpus English-Chinese Dictionary (BCC 英汉词典)<br>
+# BCC 英汉词典 - BCC Corpus English-Chinese Dictionary<br>
 <b>Note:</b><br>
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms.<br>
 <br>
@@ -112,7 +112,7 @@ The original file had some spelling errors, and though it has been proof-read in
 <br>
 Contains some uncommon words and national variants, so would be a good accompaniment to other dictionaries.<br>
 <br>
-<br><b>Original Files 資料來源</b>
+<br><b>资料来源 Original Files</b>
 <br>http://bcc.blcu.edu.cn/downloads/resources/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8.zip
 <br><br>
 
