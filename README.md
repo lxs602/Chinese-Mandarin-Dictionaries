@@ -18,7 +18,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>To complete</td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba (?using word segmentation) / CUV Bible (?already segemented)</td><td></td></tr>
+	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba / CUV Bible</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td>To convert</td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td>To download</td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>?upload other formats</td></tr>
@@ -183,11 +183,12 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 # 串珠聖經和合本 CUV / English Bible concordance
 <b>About 說明 / 说明</b><br>
-A CUVs version is pending.
 <br><br>	
-串珠聖經和合本 (Concordance) 例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible) 。
+串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
+
+串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。钦定版圣经于 1611 年出版。建议 WEB-BE，因为它更简单。<br><br>
 	
-A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible.
+A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible - British English or the King James Version.
 	
 The Bible is free in Chinese and English, and has a large amount of availalbe Chinese-English vocabulary.
 
@@ -198,12 +199,12 @@ This dictionary was made to be a resource for learning English/Chinese, and stud
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 <br><br>
 <b>Compilation</b>
-<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know those you find.</b><br>
+<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know if you find any. <br><br>To avoid errors converting from traditional to simplified, the traditional and simplified versions of the CUV were  segmented separately. However, This may mean some mistakes are present in one version and not the other.
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
 <br>
 <br><b>Choice of Text</b><br>
-The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. The WEB was chosen as a free, accurate and also readable English version. <br><br>
+The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br>
 <b>Related Texts</b><br>
 Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
 <br><br>
