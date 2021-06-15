@@ -1,4 +1,4 @@
-### Chinese Mandarin Dictionaries <br> 中文词典 / 中文詞典
+# Chinese Mandarin Dictionaries <br> 中文词典 / 中文詞典
 
 # Readme: Work in progress
 
@@ -222,7 +222,7 @@ World English Bible: Public Domain
 <br><br><br>
 	
 	
-### Dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a> (mirror)
+# Dictionaries by <a href=http://fgwang.blogspot.com/>WFG</a> (mirror)
 
 The dictionaries by WFG below are hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
 <br><br><br>
