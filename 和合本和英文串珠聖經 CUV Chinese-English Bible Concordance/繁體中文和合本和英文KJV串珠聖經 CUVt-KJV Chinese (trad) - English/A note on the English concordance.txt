@@ -1,5 +1,5 @@
 ### Searching for LORD / Jehovah
-As upper and lower cases are not distinguished on dictionary software, to find *LORD* (Jehovah) instead of *Lord*, search instead for *Jehovah*.
+Upper and lower cases are not distinguished in dictionary software. To find *LORD* (meaning 'Jehovah'), instead of *Lord*, do a search for *Jehovah*.
 
 
 ### Included words
