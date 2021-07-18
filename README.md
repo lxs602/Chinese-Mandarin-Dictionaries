@@ -184,15 +184,17 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 # 串珠聖經和合本 CUV / English Bible concordance
 <b>About 說明 / 说明</b><br>
 <br>
-串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
+串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
 
-串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。钦定版圣经于 1611 年出版。建议 WEB-BE，因为它更简单。<br><br>
+串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。<br><br>
 	
 A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible - British English or the King James Version.
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
+
+This dictionary was made to be a resource for learning English/Chinese, as the Bible is free in both languages, and has a very large amount of Chinese-English vocabulary available.  For those already familiar with any part of the text who are learning the accompanying language, it may be additionally helpful 
 	
-The Bible is free in Chinese and English, and has a large amount of available Chinese-English vocabulary. Secondly, there are many Bible concordances in English, but there appear to be perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a>, for the New Testament, in Chinese. This dictionary was made to be a resource for learning English/Chinese, and studying the Bible in both. Studying a familiar passage hopefully will help learning a second language.
+Additionally, for anyone studying God's word, though it has many concordances in English, there is perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a> in Chinese, for the New Testament only.
 <br><br>
 <b>Compilation</b>
 <br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not humanly checked, so there will be errors. Please let me know if you find any.</b> <br><br>To avoid errors converting from traditional to simplified, the traditional and simplified versions of the CUV were  segmented separately. However, This may mean some mistakes are present in one version and not the other.
