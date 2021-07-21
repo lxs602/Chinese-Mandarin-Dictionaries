@@ -213,7 +213,7 @@ https://www.o-bible.com/ <br>
 <br>
 <b>Licences 許可證 / 许可证</b><br>
 CUV Bible: Public Domain<br>
-KJV Bible: Crown copyright
+KJV Bible: Crown copyright<br>
 World English Bible: Public Domain<br>
 "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
 <br><br><br>
