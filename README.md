@@ -192,12 +192,12 @@ A searchable concordance for the Chinese Union Version (CUV) Bible, with an Engl
 	
 For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
 
-This dictionary was made to be a resource for learning English/Chinese, as the Bible is free in both languages, and has a very large amount of Chinese-English vocabulary available.  For those already familiar with any part of the text who are learning the accompanying language, it may be additionally helpful 
+This dictionary was made to be a resource for learning English/Chinese, as the Bible is free in both languages, and has a very large amount of Chinese-English vocabulary available.  It may be particularly helpful to those already familiar with parts of the text. Studying a passage in the corresponding language should aid learning.
 	
-Additionally, for anyone studying God's word, though it has many concordances in English, there is perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a> in Chinese, for the New Testament only.
+Additionally, for anyone interested primarily in studying God's word, though in English it has many concordances, there is perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a> in Chinese, for the New Testament only. 
 <br><br>
 <b>Compilation</b>
-<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  <b>This dictionary was made with automatic word segmentation, and not checked in person, so there will be errors. Please let me know if you find any.</b> <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified. This may mean there are different mistakes in each version.  
+<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  This dictionary was made with automatic word segmentation, and not checked in person, so there will be errors. <b>Please report any you find.</b> <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified. This may mean there are different mistakes in each version.  
 	
 The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
 <br>
