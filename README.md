@@ -181,8 +181,8 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 <br><br><br>
 	
-# 串珠聖經和合本 CUV / English Bible concordance
-<b>About 說明 / 说明</b><br>
+# 串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation
+<b>說明 / 说明 About </b><br>
 <br>
 串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
 
@@ -196,12 +196,15 @@ This dictionary was made to be a resource for learning English/Chinese, as the B
 	
 Additionally, for anyone interested primarily in studying God's word, though in English it has many concordances, there is perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a> in Chinese, for the New Testament only. 
 <br><br>
-<b>Compilation</b>
-<br>Segmentation was with <a href=https://github.com/voidism/pywordseg>pywordseg</a> (with thanks to the project author), using ELMo, and with CC-CEDICT and a <a href=https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf>Chinese word list</a>.  This dictionary was made with automatic word segmentation, and not checked in person, so there will be errors. <b>Please report any you find.</b> <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified. This may mean there are different mistakes in each version.  
+<b>發展 / 发展 Compilation</b><br>
+中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系統未經校核親自的。請經文錯誤回報給開發者。<br>
+中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系统未经校核亲自的。请经文错误回报给开发者。<br><br>
 	
-The concordance was generated using <a href=https://github.com/lostchristmas0/word_line_concordance_application>word_line_concordance_app</a>, by lostchristmas0.
+Chinese words have been segmented automatically, without checking in person. <i>Please report any errors you find.</i><br><br>
+	
+Word segmentation was with pywordseg (ELMo) (https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of Bible names and places (https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using word_line_concordance_app (https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified. This may mean there are different mistakes in each version.  
 <br>
-<br><b>Choice of Text</b><br></b>
+<br><b>文本  Choice of Text</b><br></b>
 The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br><br>
 <b>Related Texts</b><br>
 Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
@@ -211,7 +214,7 @@ https://ebible.org/webbe/ <br>
 https://www.o-bible.com/ <br>
 <br>	 	
 <br>
-<b>Licences 許可證 / 许可证</b><br>
+<b>許可證 / 许可证 Licences </b><br>
 CUV Bible: Public Domain<br>
 KJV Bible: Crown copyright<br>
 World English Bible: Public Domain. "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
