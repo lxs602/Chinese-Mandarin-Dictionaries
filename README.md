@@ -199,10 +199,8 @@ Additionally, for anyone interested primarily in studying God's word, though in 
 <b>發展 / 发展 Compilation</b><br>
 中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系統未經校核親自的。請經文錯誤回報給開發者。<br>
 中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系统未经校核亲自的。请经文错误回报给开发者。<br><br>
-	
 Chinese words have been segmented automatically, without checking in person. <i>Please report any errors you find.</i><br><br>
-	
-Word segmentation was with pywordseg (ELMo) (https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of Bible names and places (https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using word_line_concordance_app (https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified. This may mean there are different mistakes in each version.  
+Word segmentation was with pywordseg (ELMo) (https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of Bible names and places (https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using word_line_concordance_app (https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified, so there may be different mistakes in each version.  
 <br>
 <br><b>文本  Choice of Text</b><br></b>
 The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br><br>
