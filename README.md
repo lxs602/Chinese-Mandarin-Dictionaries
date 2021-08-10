@@ -182,7 +182,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <br><br><br>
 	
 # ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
-<br><br>
+<br>
 # <b>Not avaialble - pending corrections</b><br>	
 <b>說明 / 说明 About </b><br>
 <br>
