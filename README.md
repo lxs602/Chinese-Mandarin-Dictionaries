@@ -181,8 +181,10 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 <br><br><br>
 	
-# 串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation
-<b>說明 / 说明 About </b><br>
+# ~~ 串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation ~~
+<br><br>
+<b>Pending corrections<br>	
+~~<b>說明 / 说明 About </b><br>
 <br>
 串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
 
@@ -216,7 +218,7 @@ https://www.o-bible.com/ <br>
 CUV Bible: Public Domain<br>
 KJV Bible: Crown copyright<br>
 World English Bible: Public Domain. "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
-<br><br><br>
+<br><br><br>~~
 	
 	
 	
