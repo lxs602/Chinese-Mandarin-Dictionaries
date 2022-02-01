@@ -170,7 +170,7 @@ Also: <br>
 
 Example: 話<br>
 ![image](https://user-images.githubusercontent.com/44102215/152024144-8a1d3dc6-1b44-42ae-b7a6-266fdd289b49.png)<br>
-![image](https://user-images.githubusercontent.com/44102215/152024501-91121872-46b7-40ab-a4e2-fb58027972c7.png)<br>
+![image](https://user-images.githubusercontent.com/44102215/152024994-fd480424-634f-4232-9883-344ccb6804f3.png)<br>
 ![image](https://user-images.githubusercontent.com/44102215/152024624-d033b7a2-7d37-4907-a112-7d47b99af401.png)
 	
 <br>
