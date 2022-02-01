@@ -168,7 +168,7 @@ Also: <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan>吳語臺語字輸入法 Wu and Minnan</a><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2(%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0)%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20(JKVT)%20Input%20Methods>亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)</a>
 
-Example (truncated): 話<br>
+Example: 話<br>
 ![image](https://user-images.githubusercontent.com/44102215/152024144-8a1d3dc6-1b44-42ae-b7a6-266fdd289b49.png)<br>
 ![image](https://user-images.githubusercontent.com/44102215/152024501-91121872-46b7-40ab-a4e2-fb58027972c7.png)<br>
 ![image](https://user-images.githubusercontent.com/44102215/152024624-d033b7a2-7d37-4907-a112-7d47b99af401.png)
