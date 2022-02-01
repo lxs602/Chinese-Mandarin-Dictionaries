@@ -233,11 +233,11 @@ Contains the complete range of characters from the Unihan project, and selected 
 	
 Unicode version: 13.0 (2020-02-18), with addition of 9 new characters from Unicode 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff).
 
-Example: 隷|U+FA2F, showing both character by font and SVG
+Example: 隷|U+FA2F, shown on both sides by font and SVG picture
 
 ![image](https://user-images.githubusercontent.com/44102215/152023633-3b385c53-c80d-41bf-8edf-eff2ca13399a.png)
 	
-Example: 𫜷|2b737, missing from the font on the left, and displayed only by the SVG right.
+Example: 𫜷|2b737, missing from the font on the left, and displayed only by the SVG picture on the right.
 ![image](https://user-images.githubusercontent.com/44102215/152025899-051f078c-9367-4626-bc31-2d5e00da3c7a.png)
 
 	
