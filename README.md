@@ -184,44 +184,6 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 <br><br><br>
 	
-# ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
-<br>
-# <b>**Not avaialble - pending corrections**</b><br><br>	
-<b>說明 / 说明 About </b><br>
-<br>
-串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
-
-串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。<br><br>
-	
-A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible - British English or the King James Version.
-	
-For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
-
-This dictionary was made to be a resource for learning English/Chinese, as the Bible is free in both languages, and has a very large amount of Chinese-English vocabulary available.  It may be particularly helpful to those already familiar with parts of the text. Studying a passage in the corresponding language should aid learning.
-	
-Additionally, for anyone interested primarily in studying God's word, though in English it has many concordances, there is perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a> in Chinese, for the New Testament only. 
-<br><br>
-<b>發展 / 发展 Compilation</b><br>
-中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系統未經校核親自的。請經文錯誤回報給開發者。<br>
-中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系统未经校核亲自的。请经文错误回报给开发者。<br><br>
-Chinese words have been segmented automatically, without checking in person. <i>Please report any errors you find.</i><br><br>
-Word segmentation was with pywordseg (ELMo) (https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of Bible names and places (https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using word_line_concordance_app (https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified, so there may be different mistakes in each version.  
-<br>
-<br><b>文本  Choice of Text</b><br></b>
-The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br><br>
-<b>Related Texts</b><br>
-Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
-<br><br>
-<b>資料來源 Original Files:</b><br>
-https://ebible.org/webbe/ <br>
-https://www.o-bible.com/ <br>
-<br>	 	
-<br>
-<b>許可證 / 许可证 Licences </b><br>
-CUV Bible: Public Domain<br>
-KJV Bible: Crown copyright<br>
-World English Bible: Public Domain. "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
-<br><br><br>
 	
 
 	
@@ -242,11 +204,9 @@ Acknowledgements 鳴謝 / 鸣谢<br>
 Unicode code point to character look-up performed using: https://r12a.github.io/app-conversion/<br><br>
 		
 <br><b>Licences 許可證 / 许可证</b>
-<br>Unihan:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>.
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+<br>Unihan:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>, Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 <br><br>Glyphwiki:<br> <a href=http://en.glyphwiki.org/wiki/GlyphWiki:License>freely available</a><br><br>	
 
-	
 # CJKVI Decomposition
 <b>About 說明 / 说明</b><br>
 
@@ -315,6 +275,46 @@ http://fgwang.blogspot.com/2019/02/blog-post.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.md>English translation (Google translate)</a><br><br>
 
 
+# ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
+<br>
+# <b>**Not available - pending corrections**</b><br><br>	
+<b>說明 / 说明 About </b><br>
+<br>
+串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br><br>
+
+串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。<br><br>
+	
+A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible - British English or the King James Version.
+	
+For example, searching for "企望" (hope) will show all verses with this word, and the matching English translation.
+
+This dictionary was made to be a resource for learning English/Chinese, as the Bible is free in both languages, and has a very large amount of Chinese-English vocabulary available.  It may be particularly helpful to those already familiar with parts of the text. Studying a passage in the corresponding language should aid learning.
+	
+Additionally, for anyone interested primarily in studying God's word, though in English it has many concordances, there is perhaps only <a href=http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one</a> in Chinese, for the New Testament only. 
+<br><br>
+<b>發展 / 发展 Compilation</b><br>
+中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系統未經校核親自的。請經文錯誤回報給開發者。<br>
+中文分词利用<a href=https://github.com/voidism/pywordseg>pywordseg</a> (ELMo) 系统未经校核亲自的。请经文错误回报给开发者。<br><br>
+Chinese words have been segmented automatically, without checking in person. <i>Please report any errors you find.</i><br><br>
+Word segmentation was with pywordseg (ELMo) (https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of Bible names and places (https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using word_line_concordance_app (https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified, so there may be different mistakes in each version.  
+<br>
+<br><b>文本  Choice of Text</b><br></b>
+The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br><br>The KJV is also free, but is not recommended for those without a very good use of English.<br><br>
+<b>Related Texts</b><br>
+Another project which may be of interest is this <i><a href=https://github.com/michaelchanwahyan/Bible>Chinese-English comparison Bible</a></i> by michaelchanwahyan, which has several free English and Chinese versions.
+<br><br>
+<b>資料來源 Original Files:</b><br>
+https://ebible.org/webbe/ <br>
+https://www.o-bible.com/ <br>
+<br>	 	
+<br>
+<b>許可證 / 许可证 Licences </b><br>
+CUV Bible: Public Domain<br>
+KJV Bible: Crown copyright<br>
+World English Bible: Public Domain. "World English Bible" is a trademark of ebible.org; see https://ebible.org/web/copyright.htm 
+<br><br><br>
+
+
 # Acknowledgements 鳴謝 / 鸣谢
 
 GoldenDict https://github.com/goldendict/goldendict
@@ -328,3 +328,4 @@ https://github.com/liuyug/mdict-utils
 
 Peazip by Giorgio Tani
 https://peazip.github.io/
+
