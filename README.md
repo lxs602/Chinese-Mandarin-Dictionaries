@@ -168,12 +168,10 @@ Also: <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan>吳語臺語字輸入法 Wu and Minnan</a><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2(%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0)%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20(JKVT)%20Input%20Methods>亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)</a>
 
-Example: 話<br>
-![image](https://user-images.githubusercontent.com/44102215/152024144-8a1d3dc6-1b44-42ae-b7a6-266fdd289b49.png)<br>
-![image](https://user-images.githubusercontent.com/44102215/152024994-fd480424-634f-4232-9883-344ccb6804f3.png)<br>
-![image](https://user-images.githubusercontent.com/44102215/152024624-d033b7a2-7d37-4907-a112-7d47b99af401.png)
+Example: 簡<br>
+<table border="1" cellspacing="0" cellpadding="3"><tbody><tr><td style="padding:10px 10px 10px 10px; text-align:center; background-color:#ecf9f1"><b>文字 Character(s):</b></td><td style="padding:10px 10px 10px 10px; text-align:center; background-color:#ecf9f1"><font size="+3">	簡</font></td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>648</td></tr><tr><td style="text-align:center; background-color:#c6ecd6" colspan="2"><b>字形 Glyph /  雜項 Other</b></td></tr><tr><td>三角編號 3 Corners</td><td>827961</td></tr><tr><td>行列10 Array10</td><td>93101</td></tr><tr><td>行列30 Array30</td><td>lep</td></tr><tr><td>表形码 Biaoxing</td><td>kxb</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>zmd</td></tr><tr><td>縱橫碼 CKC</td><td>88</td></tr><tr><td>全拼形導碼 Daomax</td><td>kkbb</td></tr><tr><td>筆結基因 DNA</td><td>62629202</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>kmj</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>ha</td></tr><tr><td>華象直覺  HS pictograph</td><td>KMB</td></tr><tr><td>晶晶碼 Jin Jin</td><td>knb</td></tr><tr><td>晶数码 Jin Shu </td><td>756731568</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>zmd</td></tr><tr><td>海峰五笔 Wubi 98</td><td>tujf</td></tr><tr><td>王林快码 WLKM</td><td>uiqj</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>kmq</td></tr><tr><td style="text-align:center; background-color:#9fdfbb" colspan="2"><b>拼音 Pinyin</b></td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>gaan</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>gaan2</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>gaan2</td></tr><tr><td>正體拼音 Pinyin</td><td>jian3</td></tr><tr><td style="text-align:center; background-color:#9fdfbb" colspan="2"><b>以拼音为基 Pinyin-based</b></td></tr><tr><td>二笔快版 Er Bi - Kuai</td><td>iqnj</td></tr><tr><td>T9</td><td>phnphnszhhszhhszhh</td></tr><tr><td style="text-align:center; background-color:#79d2a0" colspan="2"><b>注音 Zhuyin</b></td></tr><tr><td>正體注音 Bopomofo (official)</td><td>ru03</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>ru03</td></tr><tr><td>臺語注音 Taiwanese</td><td>e04</td></tr><tr><td>粵語注音 Zyujam</td><td>e06</td></tr><tr><td style="text-align:center; background-color:#53c685" colspan="2"><b>以笔顺为基  Stroke-based</b></td></tr><tr><td>筆順碼 Bsm</td><td>84</td></tr><tr><td>大易二碼 Dayi2</td><td>/d</td></tr><tr><td>大易三碼 Dayi3</td><td>/6d</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>/6D</td></tr><tr><td>大易四碼 Dayi4</td><td>/6d</td></tr><tr><td>龍飛 Dragonfly</td><td>/6d</td></tr><tr><td>六碼筆畫 G6 Code</td><td>314511</td></tr><tr><td>筆畫數 Strokes</td><td>1812</td></tr><tr><td> 筆順五碼 Stroke5</td><td>",m.,m"</td></tr><tr><td>郑码 Zheng Ma</td><td>mxk</td></tr><tr><td style="text-align:center; background-color:#39ac6b" colspan="2"><b>以倉頡为基 Cangjie-based</b></td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>hana</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>hana</td></tr><tr><td>微倉三 Changjei3 </td><td>hana</td></tr><tr><td>自由大新 FreeNewCJ</td><td>haa</td></tr><tr><td>正體簡易 SimpleCJ</td><td>ha</td></tr><tr><td>簡易五代 Simplex5</td><td>ha</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>hana</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>haa</td></tr><tr><td style="text-align:center; background-color:#2e8b57" colspan="2"><b>字符集 Character Encodings</b></td></tr><tr><td>大五碼 Big5p</td><td>c2b2</td></tr><tr><td>資訊交換碼 CCCII  </td><td>215041</td></tr><tr><td>標準交換碼 CNS11643</td><td>1767c</td></tr><tr><td>四角号码 Four Corner</td><td>8822</td></tr><tr><td>電信碼 Telecode</td><td>4675</td></tr><tr><td>統一漢字 Unicode</td><td>7C21</td></tr></tbody></table>
 	
-<br>
+<br><br>
 <b>資料來源 Original Files:</b><br>
 https://github.com/chinese-opendesktop/cin-tables <br>
 https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>	 
@@ -240,24 +238,23 @@ Example: 隷|U+FA2F, shown on both sides by font and SVG picture
 Example: 𫜷|2b737, missing from the font on the left, and displayed only by the SVG picture on the right.
 ![image](https://user-images.githubusercontent.com/44102215/152025899-051f078c-9367-4626-bc31-2d5e00da3c7a.png)
 
+Acknowledgements 鳴謝 / 鸣谢<br>	
+Unicode code point to character look-up performed using: https://r12a.github.io/app-conversion/<br><br>
 		
 <br><b>Licences 許可證 / 许可证</b>
-<br>Unihan: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>.
+<br>Unihan:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>.
 Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
-# For documentation, see http://www.unicode.org/reports/tr38/ or definition: Documentation / 文档
-<br>Glyphwiki: <a href=http://en.glyphwiki.org/wiki/GlyphWiki:License>freely available</a><br><br>	
-Unicode code point to character look-up performed using: https://r12a.github.io/app-conversion/<br><br>
+<br><br>Glyphwiki:<br> <a href=http://en.glyphwiki.org/wiki/GlyphWiki:License>freely available</a><br><br>	
+
 	
 # CJKVI Decomposition
 <b>About 說明 / 说明</b><br>
 
-Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'.
-	
-As graphical breakdowns, these do not indicate how the character was first formed.
+Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these do not indicate how the character was first formed.
 	
 For further information, see the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md>readme</a>.
 	
-Acknowledgements 鳴謝 / 鸣谢
+Acknowledgements 鳴謝 / 鸣谢<br>
 Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.
 		
 <br><b>Licences 許可證 / 许可证</b>
