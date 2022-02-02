@@ -213,12 +213,11 @@ Shows the decomposition of characters into their constituent parts, e.g. '亭' a
 	
 For further information, see the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md>readme</a>.
 	
-Acknowledgements 鳴謝 / 鸣谢<br>
-Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.
-		
-<br><b>Licences 許可證 / 许可证</b>
-<b>Chise IDS</b><br>No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br><br>Interpretations and Hanyo Denshi analysis:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
-<br><br>
+<b>Acknowledgements 鳴謝 / 鸣谢</b><br>
+Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.		
+<br><b>Licences 許可證 / 许可证</b><br>
+Chise IDS<br>No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br><br>Interpretations and Hanyo Denshi analysis:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
+<br><br><br>
 # 教育部國語辭典 - 重編國語辭典 修訂本 Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
