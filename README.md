@@ -27,7 +27,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>20.  </td><td>Sinica etymology?</td><td>&nbsp;</td><td></td></tr>
@@ -240,14 +240,29 @@ Example: 隷|U+FA2F, shown on both sides by font and SVG picture
 Example: 𫜷|2b737, missing from the font on the left, and displayed only by the SVG picture on the right.
 ![image](https://user-images.githubusercontent.com/44102215/152025899-051f078c-9367-4626-bc31-2d5e00da3c7a.png)
 
-	
-	
+		
 <br><b>Licences 許可證 / 许可证</b>
 <br>Unihan: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>.
 Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For documentation, see http://www.unicode.org/reports/tr38/ or definition: Documentation / 文档
 <br>Glyphwiki: <a href=http://en.glyphwiki.org/wiki/GlyphWiki:License>freely available</a><br><br>	
 Unicode code point to character look-up performed using: https://r12a.github.io/app-conversion/<br><br>
+	
+# CJKVI Decomposition
+<b>About 說明 / 说明</b><br>
+
+Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'.
+	
+As graphical breakdowns, these do not indicate how the character was first formed.
+	
+For further information, see the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md>readme</a>.
+	
+Acknowledgements 鳴謝 / 鸣谢
+Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.
+		
+<br><b>Licences 許可證 / 许可证</b>
+<b>Chise IDS</b><br>No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br><br>Interpretations and Hanyo Denshi analysis:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a><br>see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
+
 	
 # 教育部國語辭典 - 重編國語辭典 修訂本 Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
@@ -268,14 +283,14 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 <br><br>
 
 # 全字庫 Quan Zi Ku
-A Taiwanese character dictionary by WFG, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity.
+A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
 
 <br><b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2020/07/blog-post_3.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku/%E5%85%A8%E5%AD%97%E5%BA%AB%20-%20Full%20Description%20-%20from%20Authors%20webpage%20-%20english.md>English translation (Google translate)</a><br><br>
 
 # 干祿字書 Ganlu Zishu
-A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity.
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
 
 <br><b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2019/04/blog-post.html <br>
@@ -283,7 +298,7 @@ http://fgwang.blogspot.com/2019/04/blog-post.html <br>
 
 
 # 康熙字典 Kangxi Radical Dictionary
-A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity.
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
 
 This is a large dictionary. One of the files has been split into three (康熙字典.mdd.zip, 康熙字典.mdd.z01, 康熙字典.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
@@ -294,7 +309,7 @@ http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>CC BY-SA 3.0</a><br><br>
 
 # 說文解字 Shuowen Jiezi
-The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity.
+The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
 
 This is another large dictionary. One of the files has been split into three (說文解字.mdd.zip, 說文解字.mdd.z01, 說文解字.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
@@ -314,3 +329,5 @@ https://github.com/zhansliu/writemdict
 Mdict-utils by Liuyug
 https://github.com/liuyug/mdict-utils
 
+Peazip by Giorgio Tani
+https://peazip.github.io/
