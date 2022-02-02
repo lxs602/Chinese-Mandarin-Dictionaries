@@ -193,11 +193,11 @@ Contains the complete range of characters from the Unihan project, and selected 
 	
 Unicode version: 13.0 (2020-02-18), with addition of 9 new characters from Unicode 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff).
 
-Example: 隷|U+FA2F, shown on both sides by font and SVG picture
+Example: 隷|U+FA2F, shown on both sides in the font and as an SVG picture:
 
 ![image](https://user-images.githubusercontent.com/44102215/152023633-3b385c53-c80d-41bf-8edf-eff2ca13399a.png)
 	
-Example: 𫜷|2b737, missing from the font on the left, and displayed only by the SVG picture on the right.
+Example: 𫜷|2b737,character missing on the left (in the font), shown only on the right as an SVG picture:
 ![image](https://user-images.githubusercontent.com/44102215/152025899-051f078c-9367-4626-bc31-2d5e00da3c7a.png)
 
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>	
@@ -214,9 +214,9 @@ Shows the decomposition of characters into their constituent parts, e.g. '亭' a
 For further information, see the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md>readme</a>.
 	
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>
-Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.		
+Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.<br>	
 <br><b>Licences 許可證 / 许可证</b><br>
-Chise IDS<br>No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br><br>Interpretations and Hanyo Denshi analysis:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
+Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br>Interpretations and Hanyo Denshi analysis: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
 <br><br><br>
 # 教育部國語辭典 - 重編國語辭典 修訂本 Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
