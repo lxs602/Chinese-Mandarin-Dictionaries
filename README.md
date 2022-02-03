@@ -17,7 +17,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td></tr>
 	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>To complete</td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td></tr>
-	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba / CUV Bible</td><td align=center>✓</td></tr>
+	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba ✓ / CUV Bible</td><td align=center></td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td>To convert</td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td>To download</td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>?upload other formats</td></tr>
