@@ -206,11 +206,10 @@ Unicode code point to character look-up performed using: https://r12a.github.io/
 <b>About 說明 / 说明</b><br>
 Description pending. 
 
-Please note that <b>Japanese</b> meanings are given.
+<i>Please note that <b>Japanese</b> meanings are given.</i>
 	
-<br><b>Licence 許可證 / 许可证</b>
+<b>Licence 許可證 / 许可证</b><br>
 Free distribution.<br>
-
 
 <br><br>
 # CJKVI Decomposition
