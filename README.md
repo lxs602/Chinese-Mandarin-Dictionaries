@@ -15,12 +15,12 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td align=center>?</td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td align=center>✓</td></tr>
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td></tr>
-	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>To complete</td></tr>
+	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td align=center>To complete</td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba<br>CUV Bible</td><td align=center>✓<br>For revision</td></tr>
-	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td>To convert</td></tr>
-	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td>To download</td></tr>
-	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>?upload other formats</td></tr>
+	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td align=center>To convert</td></tr>
+	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td align=center>To download</td></tr>
+	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>?upload other formats</td></tr>
 	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td></tr>
 	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
@@ -28,19 +28,19 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td>?</td></tr>
-	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td>?</td></tr>
+	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>?</td></tr>
+	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td></tr>
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td>To search</td></tr>
+	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td align=center>To search</td></tr>
 	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td></tr>
 	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></tr>
 	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>28.  </td><td>Freemdict dictionaries - add link</td><td>&nbsp;</td><td>To search</td></tr>
-	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td>To enquire</td></tr>
-	<tr><td>30.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>31.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>28.  </td><td>Freemdict dictionaries - add link</td><td>&nbsp;</td><td align=center>To search</td></tr>
+	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td align=center>To enquire</td></tr>
+	<tr><td>30.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td></tr>
+	<tr><td>31.  </td><td>Update this readme</td><td>&nbsp;</td><td align=center></td></tr>
 </table>
 <br><br><br>
 
