@@ -1,4 +1,4 @@
-##Readme<br>
+## Readme
 
 This Chinese input method by WFG is available as either:
 1. Webpage (download for offline use), 
