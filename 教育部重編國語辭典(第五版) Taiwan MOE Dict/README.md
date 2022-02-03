@@ -1,4 +1,4 @@
-Information from original webpage, by WFG, at http://fgwang.blogspot.com/2018/02/blog-post_14.html , accessed 2022-02-03.
+Information from original webpage, by WFG, at http://fgwang.blogspot.com/2018/02/blog-post_14.html , accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
 
 <div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
 <meta content="https://1.bp.blogspot.com/-BpA4_OL50Bk/WoK8vMwBRpI/AAAAAAAAAQw/ZqZLm44BMxA5T09p3EUchB0zs6ah6q66gCLcBGAs/s1600/%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E9%2587%258D%25E7%25B7%25A8%25E5%259C%258B%25E8%25AA%259E%25E8%25BE%25AD%25E5%2585%25B8%2528%25E7%25AC%25AC%25E4%25BA%2594%25E7%2589%2588%2529.png" itemprop="image_url">
@@ -104,6 +104,119 @@ By:
 <span class="post-labels"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 Category:
  </font></font><a href="http://fgwang.blogspot.com/search/label/%E9%9B%A2%E7%B7%9A%E8%BE%AD%E5%85%B8" rel="tag"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Offline Dictionary</font></font></a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+</span>
+</div>
+</div>
+</div>
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://1.bp.blogspot.com/-BpA4_OL50Bk/WoK8vMwBRpI/AAAAAAAAAQw/ZqZLm44BMxA5T09p3EUchB0zs6ah6q66gCLcBGAs/s1600/%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E9%2587%258D%25E7%25B7%25A8%25E5%259C%258B%25E8%25AA%259E%25E8%25BE%25AD%25E5%2585%25B8%2528%25E7%25AC%25AC%25E4%25BA%2594%25E7%2589%2588%2529.png" itemprop="image_url">
+<meta content="8083418832420346104" itemprop="blogId">
+<meta content="4725295231927168980" itemprop="postId">
+<a name="4725295231927168980"></a>
+<h3 class="post-title entry-title" itemprop="name">
+教育部重編國語辭典(第五版)
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-4725295231927168980" itemprop="description articleBody">
+<span style="color: red;">☆ 2021/11/02 累積訂正更新，原連結請重新下載。</span><br>
+<span style="color: red;">☆ 2020/12/30 累積訂正更新，主要修正 Skippy 兄反饋的一些外文錯誤，原連結請重新下載。</span><br>
+<span style="color: red;">☆ 2020/07/09 累積訂正更新，主要修正一些外文，原連結請重新下載。</span><br>
+<span style="color: red;">☆ 2019/02/15 累積訂正更新，原連結請重新下載。</span><br>
+<span style="color: red;">☆ 2018/02/21 修正一些排版上的小瑕疵，原連結請重新下載。</span><br>
+<br>
+2013 年 2 月我為了自己閱讀的需要，製作了《教育部重編國語辭典(修訂本)》這部離線辭典，一晃眼竟然五個年頭過去了。五年來雖然我做了很多訂正，但始終沒有更新到更新的官方版本，一直維持在使用網路第四版的數據。今年初，發現有些詞條官方做了修正，想想，是時候也該更新一下了，於是取了官方公布的最後版本「dict_revised_2015_20160523」的數據，重新製作一部《教育部重編國語辭典(第五版)》離線辭典。<br>
+<a name="more"></a><br>
+這次的製作因為已是第二次，嚴謹度更勝從前。把舊的圖片字對照表重新核對了一遍，多有修正，然後將大部分的缺字都自行造字，補進「全宋體」的補充字之中<sub>【註①】</sub>，並將所有資料都處理成純文字<sub>【註②】</sub>。<br>
+<br>
+我曾經列舉的瑕疵與錯誤，官方數據幾乎都修正了，但還是有些我無法一一列舉的錯誤，官方沒有改到。例如：「琉璃球兒」條， "一" 字誤植為注音符號的 "ㄧ"；「調號」條，符號 "－" 誤植為注音符號的 "ㄧ"。<br>
+<br>
+這次製作我還做了大量的修正。難以逐條列舉，只能大概描述如下：<br>
+<ul>
+<li>原資料中，英數字全形、半形混用，將所有全形的英數字統一改為半形。</li>
+<li>原資料英數字與中文字間空白與否兼有，有些空白在前、有些空白在後，統一改為英數字與前後中文字間均留一空白。</li>
+<li>原資料中，全形的括號 "（）" 與半形的括號 "()" 混用，甚至錯位配對，統一修正為中文敘述用全形括號；英文、數學公式或是一些特殊標示用半形括號。</li>
+<li>所有形式的括號，包含「」、『』、〈〉、《》、（）、()、〔〕均全面做過配對檢查，錯置、誤植者均一一訂正。</li>
+<li>訂正眾多 "「」" 與 "。" 的錯位或冗餘。</li>
+<li>訂正了一些誤植的釋義編號。</li>
+</ul>
+<br>
+此外還針對了書證與例句做了上色處理，利用顏色的深淺拉出層次，讓整個的釋義看起來更加清楚、容易閱讀。完全相同的異體詞條予以刪除、整併；相同詞頭的不同詞條予以合併處理。<br>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-BpA4_OL50Bk/WoK8vMwBRpI/AAAAAAAAAQw/ZqZLm44BMxA5T09p3EUchB0zs6ah6q66gCLcBGAs/s1600/%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E9%2587%258D%25E7%25B7%25A8%25E5%259C%258B%25E8%25AA%259E%25E8%25BE%25AD%25E5%2585%25B8%2528%25E7%25AC%25AC%25E4%25BA%2594%25E7%2589%2588%2529.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="611" data-original-width="566" src="https://1.bp.blogspot.com/-BpA4_OL50Bk/WoK8vMwBRpI/AAAAAAAAAQw/ZqZLm44BMxA5T09p3EUchB0zs6ah6q66gCLcBGAs/s1600/%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E9%2587%258D%25E7%25B7%25A8%25E5%259C%258B%25E8%25AA%259E%25E8%25BE%25AD%25E5%2585%25B8%2528%25E7%25AC%25AC%25E4%25BA%2594%25E7%2589%2588%2529.png"></a></div>
+<br>
+網路第五版不知何故將第四版原有的 116 條「辨析」資料全數刪除。我個人認為這些「辨析」資料仍甚有參考價值，故從第四版數據中將之抽出，仍補入第五版之中。以 <span style="background: rgb(64, 64, 128); border-radius: 3px; color: white; font-size: 90%; padding: 0px 2px 0px 1px;">辨</span> 標示，並加襯灰底，以提醒使用者注意這並非第五版的原生數據，特地補入只為方便對照參考。<br>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-ybEIDba7U9g/WoK99u3nKmI/AAAAAAAAAQ4/GGu964_nteskHPYW2p-kO-YAE9RlT8f3ACLcBGAs/s1600/%25E8%25BE%25A8%25E6%259E%2590.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="452" data-original-width="565" src="https://1.bp.blogspot.com/-ybEIDba7U9g/WoK99u3nKmI/AAAAAAAAAQ4/GGu964_nteskHPYW2p-kO-YAE9RlT8f3ACLcBGAs/s1600/%25E8%25BE%25A8%25E6%259E%2590.png"></a></div>
+<br>
+請參閱前兩篇「<a href="https://fgwang.blogspot.tw/2018/02/blog-post.html">漢字使用環境的建置 ㈠ —— 顯示篇</a>」、「<a href="https://fgwang.blogspot.tw/2018/02/blog-post_9.html">漢字使用環境的建置 ㈡ —— 輸入篇</a>」的說明安裝字型與檢字工具，以利完整顯示和輸入查詢。<br>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-1lEFaiEh55U/WoOWmuSZVzI/AAAAAAAAARM/sS4D5d9xIacKxKQn_h5gGPywVIxl9zf2ACLcBGAs/s1600/%25E8%25A3%259C%25E5%2585%2585%25E6%25BC%25A2%25E5%25AD%2597.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="245" data-original-width="562" src="https://4.bp.blogspot.com/-1lEFaiEh55U/WoOWmuSZVzI/AAAAAAAAARM/sS4D5d9xIacKxKQn_h5gGPywVIxl9zf2ACLcBGAs/s1600/%25E8%25A3%259C%25E5%2585%2585%25E6%25BC%25A2%25E5%25AD%2597.png"></a></div>
+<br>
+版本編號：2015_20160523<br>
+詞條總數：163085<br>
+單字數目：11403<br>
+複詞數目：151682<br>
+圖片數目：44<br>
+下載連結：<a href="https://drive.google.com/file/d/1gRtoIS1wzWzVhLQPD0OxlT9-yk3bFXO5/view?usp=sharing">教育部重編國語辭典(第五版).zip</a> (<span style="color: red;">請依照教育部的授權規定使用</span>)<br>
+<br>
+另外我也大概比對了第四版與第五版的詞條差異，發現：上行星、下行星、動物保護法、客家語、度假、美乃滋、賦與、賦韻、鬍子拉碴等詞條被刪除；新增了九大行星、內行星、北迴歸線、矮行星等詞條。若干地名因行政調整而有改動，整體來說變動很小。<br>
+<br>
+授權參見：<a href="https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html">教育部國語辭典公眾授權網</a><br>
+<div style="padding-left: 30px;">
+<span style="color: blue;">中華民國教育部《重編國語辭典修訂本》、《國語辭典簡編本》與《國語小字典》相關資料採「創用CC-姓名標示-禁止改作 臺灣3.0版授權條款」釋出。</span><br>
+<span style="color: blue;">本授權條款允許使用者重製、散布、傳輸著作（包括商業性利用），但不得修改該著作，使用時必須遵照「使用說明」之內容要求。</span></div>
+<br>
+在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。<br>
+<br>
+<hr>
+<small><br>
+【註①】在辭典中若使用了「全宋體」的補充漢字，我一律標示為紅字，以提醒使用者注意。這些補充漢字並非 Unicode 官方訂定的通用標準，故於論文、著作一類的正式場合引用辭典內容時，請特別小心處理、標註，以免參閱者看不見該補充漢字。<br>
+<br>
+【註②】有少部分與本字差異極小的異體字，按 Unicode 的原則應該視為相同，這些異體字暫時不補入補充字，仍保留用圖片字的形式呈現。這些字的詞頭索引能用構字式表達的用構字式，難以表達的用圖片編號表示，外面再以 ［ ］ 包圍。雖然如此會難以檢索，但它們本來的參考意義就不大(應該查閱它們的本字)，對使用沒什麼影響。<br>
+</small><br>
+<br>
+<br>
+<br>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+作者：
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://www.blogger.com/profile/14004240365298046569" itemprop="url">
+<a class="g-profile" href="https://www.blogger.com/profile/14004240365298046569" rel="author" title="author profile" data-gapiscan="true" data-onload="true" data-gapiattached="true">
+<span itemprop="name">WFG</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+於
+<meta content="http://fgwang.blogspot.com/2018/02/blog-post_14.html" itemprop="url">
+<a class="timestamp-link" href="http://fgwang.blogspot.com/2018/02/blog-post_14.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2018-02-14T10:00:00+08:00">上午10:00</abbr></a>
+</span>
+<span class="post-comment-link">
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-149868981">
+<a href="https://www.blogger.com/post-edit.g?blogID=8083418832420346104&amp;postID=4725295231927168980&amp;from=pencil" title="編輯文章">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18">
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+分類：
+<a href="http://fgwang.blogspot.com/search/label/%E9%9B%A2%E7%B7%9A%E8%BE%AD%E5%85%B8" rel="tag">離線辭典</a>
 </span>
 </div>
 <div class="post-footer-line post-footer-line-3">
