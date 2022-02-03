@@ -6,7 +6,7 @@
 
 A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.
 <br>
-## Todo 接下來要做
+### Todo 接下來要做
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
@@ -25,7 +25,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><<td align=center>✓</td></tr>
+	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
@@ -41,7 +41,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>29.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>30.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
 </table>
-
+<br><br><br>
 
 ## Chinese Word Frequencies 词频分析 / 詞頻分析
 
