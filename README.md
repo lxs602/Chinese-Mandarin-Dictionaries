@@ -195,7 +195,7 @@ Description pending.
 <i>Please note that <b>Japanese</b> meanings are given.</i>
 	
 <b>Licence 許可證 / 许可证</b><br>
-Free distribution.<br>
+Free distribution.<br><br><br>
 
 
 	
