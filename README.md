@@ -215,7 +215,7 @@ Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chis
 	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
-This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
 <br>
 <br><b>Authorisation / 授權</b> (from the author's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -233,7 +233,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 <br>
 ## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
 <b>About 說明 / 说明</b><br>
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by WFG.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by WFG. These files are hosted here for those searching the web in English, and as a mirror.
 
 <b>Please note:</b>
 From the compiler's webpage:
@@ -247,7 +247,7 @@ From the compiler's webpage:
 
 ## 部件檢索<br>Component Search Input Method and 全宋體 - FSung font
 <b>About 說明 / 说明</b><br>
-A new input method, available as a webpage for offline use, with a dictionary module also available.
+A new input method, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror.
 
 See also the FSung font by WFG, coding approximately 170,000 characters, including Unicode ext. A-G.
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
