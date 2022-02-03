@@ -197,8 +197,9 @@ Description pending.
 <b>Licence 許可證 / 许可证</b><br>
 Free distribution.<br>
 
-<br>
+
 ## CJKVI Decomposition
+
 <b>About 說明 / 说明</b><br>
 Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these do not indicate how the character was first formed.
 	
