@@ -13,7 +13,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>✓</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td align=center>✓</tr>	
-	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td> ? </td></tr>
+	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td align=center>?</td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td align=center>✓</td></tr>
 	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td></tr>
 	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>To complete</td></tr>
@@ -36,7 +36,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td></tr>
-	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></tr>
 	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>28.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>29.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
@@ -252,7 +252,7 @@ From the compiler's webpage:
 'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.'
 
 <br><b>Licence 許可證 / 许可证</b>
-Non-Commercial use only (see <a href=http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage</a>)
+<b>Non-Commercial use only</b> (see <a href=http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage</a>)
 <br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
 
 
@@ -264,11 +264,8 @@ See also the FSung font by WFG, coding approximately 170,000 characters, includi
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b>
-Non-Commercial use only (see <a http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage</a>)
+<b>Non-Commercial use only</b> (see <a http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage</a>)
 <br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
-
-
-
 
 
 # 全字庫 Quan Zi Ku
@@ -352,15 +349,14 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 
 # Acknowledgements 鳴謝 / 鸣谢
 
-GoldenDict https://github.com/goldendict/goldendict
+<a href=https://github.com/goldendict/goldendict>GoldenDict</a>
 <br>Dictionary software for Linux, Windows and Mac.
 
-WriteMDict by Zhansilu
-https://github.com/zhansliu/writemdict
+<a href=https://github.com/zhansliu/writemdict>WriteMDict</a> by Zhansilu
 	
-Mdict-utils by Liuyug
-https://github.com/liuyug/mdict-utils
+<a href=https://github.com/liuyug/mdict-utils>Mdict-utils</a> by Liuyug
 
-Peazip by Giorgio Tani
-https://peazip.github.io/
+<a href=https://peazip.github.io>Peazip</a> by Giorgio Tani
+
+<a href=https://en.bandisoft.com/bandizip>Bandizip</a>
 
