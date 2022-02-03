@@ -37,9 +37,10 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td></tr>
 	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></tr>
 	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>28.  </td><td>Enquire Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>29.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>30.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>28.  </td><td>Freemdict dictionaries - add link</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>29.  </td><td>Enquire Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>30.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
+	<tr><td>31.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
 </table>
 <br><br><br>
 
