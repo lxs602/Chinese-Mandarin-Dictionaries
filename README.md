@@ -198,6 +198,7 @@ Description pending.
 Free distribution.<br>
 
 
+	
 ## CJKVI Decomposition
 
 <b>About 說明 / 说明</b><br>
@@ -210,7 +211,8 @@ Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a 
 <br><b>Licences 許可證 / 许可证</b><br>
 Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br>Interpretations and Hanyo Denshi analysis: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
 
-<br>
+
+	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
