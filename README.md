@@ -205,9 +205,14 @@ Unicode code point to character look-up performed using: https://r12a.github.io/
 # Kanjinetworks - Etymological Dictionary of Han Chinese Characters
 <b>About 說明 / 说明</b><br>
 Description pending. 
+
+Please note that <b>Japanese</b> meanings are given.
 	
-<b>Please note that Japanese meanings are given.</b>
-<br>
+<br><b>Licence 許可證 / 许可证</b>
+Free distribution.<br>
+
+
+<br><br>
 # CJKVI Decomposition
 <b>About 說明 / 说明</b><br>
 Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these do not indicate how the character was first formed.
