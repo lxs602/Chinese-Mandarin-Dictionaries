@@ -1,7 +1,7 @@
 ## Readme
-Information from original webpage, by WFG, at http://fgwang.blogspot.com/2015/12/blog-post.html , accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
+Information from original webpage, by WFG, at http://fgwang.blogspot.com/2021/12/blog-post_29.html, accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
 
-Please note in particular this text:
+<b>Please note in particular this text:</b><br>
 'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.'
 
 <div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
