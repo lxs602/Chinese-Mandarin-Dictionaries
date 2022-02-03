@@ -209,7 +209,7 @@ For further information, see the <a href=https://github.com/lxs602/Chinese-Manda
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>
 Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a href=https://github.com/cjkvi/cjkvi-ids>cjkvi-ids</a> as part of the <a href=http://kanji-database.sourceforge.net>Kanji Database</a>. This dictionary uses data modified to remove as many entity references as possible, at <a href=https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode</a>, by Transfusion.<br>	
 <br><b>Licences 許可證 / 许可证</b><br>
-Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br>Interpretations and Hanyo Denshi analysis: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
+Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br>Interpretations and Hanyo Denshi analysis: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net<br><br><br>
 
 
 	
