@@ -246,11 +246,12 @@ From the compiler's webpage:
 <br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
 
 
-## 部件檢索<br>Component Search Input Method and 全宋體 - FSung font
+## 部件檢索 Component Search Input Method
+## 全宋體 - FSung font
 <b>About 說明 / 说明</b><br>
 A new input method, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror.
 
-See also the FSung font by WFG, coding approximately 170,000 characters, including Unicode ext. A-G.
+See also the FSung font by WFG, coding approximately 170,000 characters, including Unicode ext. A-G.<br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b>
