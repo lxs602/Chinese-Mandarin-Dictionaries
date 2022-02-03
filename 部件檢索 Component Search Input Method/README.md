@@ -1,10 +1,11 @@
 ## Readme
 
 This Chinese input method by WFG is available as either:
-1. Webpage (download for offline use), 
-2. Mdict .mdx dictionary version
+1. <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20-%20Component%20Input%20Method.htm>Webpage</a> (can be downloaded for offline use), 
+2. <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%E8%BE%AD%E5%85%B820210713%20-%20Component%20Input%20Method%20-%20Dictionary.mdx.zip>Mdict .mdx dictionary version</a>
+   <b>Note</b> - to use the .mdx dictionary, <i>search for the term</i> ' 部件检索 '/
 
-You may also need to install the fonts in this folder, also made by WFG.
+You may also need to install the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>全宋體 FSung font</a>, which covers Unicode ext. A-G, also made by WFG.
 
 Information from original webpage, by WFG, at http://fgwang.blogspot.com/2015/12/blog-post.html , accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
 
