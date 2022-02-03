@@ -4,6 +4,8 @@ This Chinese input method by WFG is available as either:
 1. Webpage (download for offline use), 
 2. Mdict .mdx dictionary version
 
+You may also need to install the fonts in this folder, also made by WFG.
+
 Information from original webpage, by WFG, at http://fgwang.blogspot.com/2015/12/blog-post.html , accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
 
 <div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
