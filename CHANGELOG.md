@@ -1,6 +1,6 @@
 <table>
   <tr><th>Date</th><th>Change</th></tr>
-  <tr><td rowspan=6>2022-Feb-03</td>
+  <tr><td rowspan=7>2022-Feb-03</td>
     <td>部件檢索 Component Search Input Method added, by WFG</td></tr>
     <tr><td>教育部重編國語辭典(第五版) Taiwan MOE Dict updated, minor updates by WFG</td></tr>
     <tr><td>教育部異體字索引字典 Taiwan MOE Index of Variant Characters by WFG added</td></tr>
