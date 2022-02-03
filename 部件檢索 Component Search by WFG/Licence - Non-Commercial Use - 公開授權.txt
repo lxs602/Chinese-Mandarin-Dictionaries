@@ -1,0 +1,17 @@
+Non-Commercial Use only
+
+From http://fgwang.blogspot.com/2015/12/blog-post_30.html :
+
+Authorization Instructions
+Although I have positioned the current "component retrieval" in the beta version, almost all query and retrieval functions have been completed, which can provide an effective retrieval method for uncommon Chinese characters, so it is authorized to be used by friends who need it in advance. 1. From now on, "Component Retrieval" provides unconditional authorization to all non-commercial profit- making websites or personal use
+
+that is conducive to academic research, educational learning, and reading public . 2. Whether it is used " online "
+on the website or " offline " on the local terminal , as long as it does not violate the premise of the preceding paragraph, it is a reasonable authorized use. 3. The sources of the split data are compiled from the " Chinese Character Configuration Database " and " Character IDSデータ", and then revised by themselves. This part of the authorization follows the rules of the original data source, and cites the website using "Component Search". Please clearly mark the above-mentioned data source to show respect.
+
+授權說明
+目前的「部件檢索」雖然我還將其定位在測試版，但是幾乎所有的查詢、檢索功能都已經完備，可以提供生僻漢字一個有效的檢索方式，故提前開放授權給需要的朋友們使用。
+
+1. 「部件檢索」即日起無條件提供授權給一切非商業營利，有助於學術研究、有益於教育學習、有利於閱讀大眾的網站或個人使用。
+2. 不論於網站上「線上」使用，或是於本地端「離線」使用，只要不違背前項的前提，均屬於合理的授權使用。
+3. 拆分資料的來源整理自「漢字構形資料庫」與「字形ＩＤＳデータ」，再經自行修訂而成。此部分授權謹遵循原資料來源的規定，援引使用「部件檢索」的網站，請明確標示上述的資料來源，以示尊重。
+(我不是很熟悉這些授權規定，只是一顆單純分享的心，若有不周之處尚請指正。)
