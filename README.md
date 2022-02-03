@@ -202,6 +202,12 @@ Unicode code point to character look-up performed using: https://r12a.github.io/
 <br>Unihan:<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>, Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 <br><br>Glyphwiki:<br> <a href=http://en.glyphwiki.org/wiki/GlyphWiki:License>freely available</a><br><br>	
 
+# Kanjinetworks - Etymological Dictionary of Han Chinese Characters
+<b>About 說明 / 说明</b><br>
+Description pending. 
+	
+<b>Please note that Japanese meanings are given.</b>
+<br>
 # CJKVI Decomposition
 <b>About 說明 / 说明</b><br>
 Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these do not indicate how the character was first formed.
