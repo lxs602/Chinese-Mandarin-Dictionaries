@@ -72,7 +72,7 @@ HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictiona
 
 # CC-CEDICT - with enlarged characters<br>
 <b>About 說明 / 说明</B><br>
-The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions which shouldn't be there.
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions that otherwise do not belong in a dictionary.
 
 <b>Licence 許可證 / 许可证</b><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20(with%20enlarged%20characters)/Licence%20CC%20BY-SA%203.0.txt>Creative Commons BY-SA 3.0</a> <br><br>
