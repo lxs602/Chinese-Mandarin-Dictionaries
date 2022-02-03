@@ -11,33 +11,33 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td style='text-align:center'>✓</td></tr>
-	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td>&nbsp;&nbsp;&nbsp;✓</tr>	
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>✓</td></tr>
+	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td align=center>✓</tr>	
 	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td> ? </td></tr>
-	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td align=center>✓</td></tr>
+	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td></tr>
 	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td>To complete</td></tr>
-	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba / CUV Bible</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td></tr>
+	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba / CUV Bible</td><td align=center>✓</td></tr>
 	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td>To convert</td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td>To download</td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td>?upload other formats</td></tr>
-	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td></tr>
+	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
+	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
+	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
+	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><<td align=center>✓</td></tr>
+	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
+	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>20.  </td><td>Sinica etymology?</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td></tr>
+	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td></td></tr>
-	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
+	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td></tr>
+	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td></tr>
 	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td>&nbsp;&nbsp;&nbsp;✓</td></tr>
-	<tr><td>27.  </td><td>WFG fonts</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>28.  </td><td>Tidy files</td><td>&nbsp;</td><td></td></tr>
 	<tr><td>29.  </td><td>Update this readme</td><td>&nbsp;</td><td></td></tr>
 </table>
@@ -223,6 +223,7 @@ Based on sequences by the <a href=www.chise.org>CHISE</a> project, hosted at <a 
 <br><b>Licences 許可證 / 许可证</b><br>
 Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br>Interpretations and Hanyo Denshi analysis: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2</a>, see  https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net
 <br><br><br>
+
 # 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and also for the sake of posterity (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
@@ -240,6 +241,35 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 <br>https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 <br>http://fgwang.blogspot.com/2018/02/blog-post_14.html
 <br><br>
+
+# 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
+<b>About 說明 / 说明</b><br>
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by WFG.
+
+<b>Please note:</b>
+From the compiler's webpage:
+
+'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.'
+
+<br><b>Licence 許可證 / 许可证</b>
+Non-Commercial use only (see <a href=http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage</a>)
+<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
+
+
+# 部件檢索<br>Component Search Input Method and 全宋體 - FSung font
+<b>About 說明 / 说明</b><br>
+A new input method, available as a webpage for offline use, with a dictionary module also available.
+
+See also the FSung font by WFG, coding approximately 170,000 characters, including Unicode ext. A-G.
+![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
+
+<br><b>Licence 許可證 / 许可证</b>
+Non-Commercial use only (see <a http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage</a>)
+<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
+
+
+
+
 
 # 全字庫 Quan Zi Ku
 A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
@@ -275,6 +305,9 @@ This is another large dictionary. One of the files has been split into three (�
 <br><b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2019/02/blog-post.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.md>English translation (Google translate)</a><br><br>
+
+
+
 
 
 # ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
