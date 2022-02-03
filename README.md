@@ -189,7 +189,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 # 統一漢字典 Unihan character dictionary
 <b>About 說明 / 说明</b><br>
-Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters(as SVGs, from <a href=Glyphwiki.org></a>) are included for those that might not be displayed in the font, being less common or new.
+Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters(as SVGs, from <a href=Glyphwiki.org>Glyphwiki.org</a>) are included for those that might not be displayed in the font, being less common or new.
 	
 Unicode version: 13.0 (2020-02-18), with addition of 9 new characters from Unicode 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff).
 
