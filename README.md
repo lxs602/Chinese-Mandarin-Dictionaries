@@ -309,7 +309,9 @@ This word list gives the headwords of all 12 volumes of the 1st edition, with 69
 The full dictionary, with definitions, is sold in print and electronically; see the <a href=https://en.wikipedia.org/wiki/Hanyu_Da_Cidian>Wikipedia page<a/> (accessed 2022-Feb-04) for details.
 
 <b>Original Files 資料來源</b><br>
-https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt.<br><br>
+https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt.<br>
+<br><b>Licence 許可證</b>
+<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/H%C3%A0ny%C7%94%20D%C3%A0%20C%C3%ADdi%C7%8En%20-%20d%C4%81nc%C3%AD%20bi%C7%8Eo%20-%20wordlist/Licence%20-%20Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81%20-%20GPLv2.txt>GPL v2</a><br><br>
 
 
 ## ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
