@@ -304,9 +304,9 @@ http://fgwang.blogspot.com/2019/02/blog-post.html <br>
 ## 漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list
 "Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993.
 
-This word list gives the headwords of all 12 volumes of the 1st edition, with 692,661 terms in total, but without definitions.
+This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition,  but without definitions.
 
-The full dictionary, with definitions, is sold in print and electronically; see the <a href=https://en.wikipedia.org/wiki/Hanyu_Da_Cidian>Wikipedia page<a/> (accessed 2022-Feb-04) for details.
+The full dictionary, with definitions, is sold in print and electronically; see the <a href=https://en.wikipedia.org/wiki/Hanyu_Da_Cidian>Wikipedia page<a/> for details (accessed 2022-Feb-04).
 
 <b>Original Files 資料來源</b><br>
 https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt.<br>
