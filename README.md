@@ -243,9 +243,9 @@ From the compiler's webpage:
 ## 部件檢索 Component Search Input Method
 ## 全宋體 - FSung font
 <b>About 說明 / 说明</b><br>
-A new input method, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror.
+A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror.
 
-See also the FSung font by WFG, coding approximately 170,000 characters, including Unicode ext. A-G.<br><br>
+See also the FSung font by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b><br>
@@ -302,11 +302,7 @@ http://fgwang.blogspot.com/2019/02/blog-post.html <br>
 
 
 ## 漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list
-"Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993.
-
-This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition,  but without definitions.
-
-The full dictionary, with definitions, is sold in print and electronically; see the <a href=https://en.wikipedia.org/wiki/Hanyu_Da_Cidian>Wikipedia page<a/> for details (accessed 2022-Feb-04).
+"Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993. This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition. It does not have definitions. The full dictionary, with definitions, is available in print and electronically; see the <a href=https://en.wikipedia.org/wiki/Hanyu_Da_Cidian>Wikipedia page<a/> for details (accessed 2022-Feb-04).
 
 <b>Original Files 資料來源</b><br>
 https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt.<br>
