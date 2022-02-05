@@ -312,7 +312,7 @@ Adapted from <a href=https://github.com/wainshine/Chinese-Names-Corpus>Chinese N
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/Apache%20v2.0%20Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81>Apache 2.0</a><br><br>
 
 	
-## Zdic.net Hàndiǎn
+## Zdic.net 汉典 Hàndiǎn
 A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci), which may be in the public domain. 
 	
 <b>Original Files 資料來源</b><br>
