@@ -20,6 +20,6 @@ A word list of Chinese relationship terms. Note no English translation (sorry). 
 数据大小：48万。语料来源：多个人名词典汇总。数据清洗：已清洗，但仍存有少量badcase，以地名居多。本语料的人名识别由网友 “ltccss” 友情提供。<br>
 A collection of 480,000 English names, as well as anglicised spellings of names from other languages, with their genders, and their translation into Chinese. Includes both personal names, family names, as well as personal and family names together. Note that there are many uncorrected errors.
 
-See also: Japanese Names:<br>
-https://github.com/lxs602/East-Asian-Dictionaries/tree/main/Japanese%20Names
+See also: <a href=https://github.com/lxs602/East-Asian-Dictionaries/tree/main/Japanese%20Names>Japanese Names</a>
+
 
