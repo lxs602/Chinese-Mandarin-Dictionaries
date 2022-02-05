@@ -306,7 +306,7 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt.<br>
 A collection of Chinese family and personal names (with gender), and English (and Anglicised spellings of names from other languages) translated into Chinese.See <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/README.md>Readme</a> file for further details.<br><br>
 <b>Original Files 資料來源</b><br>
 Adapted from <a href=https://github.com/wainshine/Chinese-Names-Corpus>Chinese Names Corpus</a> by Wainshine / ltccss<br>
-<br><b>Licence 許可證</b><br>
+<br><b>Licence 许可证 / 許可證</b><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/Apache%20v2.0%20Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81>Apache 2.0</a><br><br>
 	
 
