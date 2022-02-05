@@ -42,7 +42,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>30.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td></tr>
 	<tr><td>31.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td></tr>
 	<tr><td>32.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td></tr>
-	<tr><td>33.  </td><td>Update this readme</td><td>&nbsp;</td><td align=center></td></tr>
+	<tr><td>33.  </td><td>Update this readme</td><td>Add Simplified / Trad. / both tags</td><td align=center></td></tr>
 </table>
 <br><br><br>
 
