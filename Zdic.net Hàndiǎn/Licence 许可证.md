@@ -1,8 +1,12 @@
 May be Public Domain : 
 
-Converted on 2022-Feb-05 to dictionary format from <a href=https://github.com/pwxcoo/chinese-xinhua>original files</a> by pwxcoo, which may be in the public domain. Script files for this project show that data was retrieved from zd9999.com/ci , which has the following notice (accessed 2022-Feb-05): "本站信息均由互联网搜集而来,本站不对信息的正确性负责,仅供大家参考研讨,有不妥之处还请来信指出,谢谢!" . 
+Converted on 2022-Feb-05 to dictionary format from original files by pwxcoo ( https://github.com/pwxcoo/chinese-xinhua ), which may be in the public domain. 
 
-A websearch appears to show that the downloaded data originates from zdic.net, which has the Copyright notice (access 2022-Feb-05, English auto-translation by Google follows Chinese): 版權聲明
+Script files for this project show that data was retrieved from zd9999.com/ci , which has the following notice (accessed 2022-Feb-05): "本站信息均由互联网搜集而来,本站不对信息的正确性负责,仅供大家参考研讨,有不妥之处还请来信指出,谢谢!" (Google auto-translation: 'The information on this site is collected from the Internet. This site is not responsible for the correctness of the information. It is only for your reference and discussion. If there is any inappropriateness, please send a letter to point out, thank you!')
+
+A search of the web appears to show that the downloaded data originates from zdic.net, which has the Copyright notice (https://www.zdic.net/aboutus/copyright/ , accessed 2022-Feb-05, English auto-translation by Google follows Chinese): 
+
+版權聲明
 內容來源
 一、字典部分：
 
@@ -65,6 +69,3 @@ The above data may be added, deleted or corrected after data mining or revision 
 
 CC0 1.0 Public Domain Contribution Statement
 The Chinese dictionary follows the "CC0 1.0 Public Domain Dedication", announcing that the main site word dictionary (www.zdic.net), Chinese classics (gj.zdic.net), Chinese poetry (sc.zdic.net), Chinese calligraphy (sf. zdic.net) works are contributed to the public domain (excluding works published by users of the Chinese Dian Forum bbs.zdic.net), and the copyrights enjoyed by the works, including all related and adjacent legal rights, are waived.
-
-
-
