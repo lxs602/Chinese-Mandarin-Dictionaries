@@ -37,7 +37,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td></tr>
 	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></tr>
 	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>28.  </td><td>Zdic9999 (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>To do</td></tr>
+	<tr><td>28.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td align=center>To enquire</td></tr>
 	<tr><td>30.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td></tr>
 	<tr><td>31.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td></tr>
@@ -310,8 +310,17 @@ A collection of Chinese family and personal names (with gender), and English (an
 Adapted from <a href=https://github.com/wainshine/Chinese-Names-Corpus>Chinese Names Corpus</a> by Wainshine / ltccss<br>
 <br><b>Licence 许可证 / 許可證</b><br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/Apache%20v2.0%20Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81>Apache 2.0</a><br><br>
-	
 
+	
+## Zdic.net Hàndiǎn
+A public dictionary from Zdic.net (downloaded via zd9999.com/ci ), which may be in the public domain.
+	
+<b>Original Files 資料來源</b><br>
+Converted from <a href=https://github.com/pwxcoo/chinese-xinhua>Chinese Xinhua</a> by pwxcoo<br>
+<br><b>Licence 许可证 / 許可證</b><br>
+May be Public Domain, see <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Zdic.net%20H%C3%A0ndi%C7%8En/Licence%20%E8%AE%B8%E5%8F%AF%E8%AF%81.md>Licence</a> for details.<br><br>
+
+	
 ## ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
 
 ## Not available - pending corrections
