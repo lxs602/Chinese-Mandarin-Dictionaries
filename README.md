@@ -10,7 +10,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0</td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0<br>Rewrite explanations, add colour</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td align=center>✓</tr>	
 	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td align=center>?</td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td align=center>✓</td></tr>
