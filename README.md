@@ -318,7 +318,7 @@ A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.c
 <b>Original Files 資料來源</b><br>
 Converted from <a href=https://github.com/pwxcoo/chinese-xinhua>Chinese Xinhua</a> by pwxcoo<br>
 <br><b>Licence 许可证 / 許可證</b><br>
-May be Public Domain, see <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Zdic.net%20H%C3%A0ndi%C7%8En/Licence%20%E8%AE%B8%E5%8F%AF%E8%AF%81.md>Licence</a> for details.<br><br>
+May be Public Domain, see <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En/Licence%20%E8%AE%B8%E5%8F%AF%E8%AF%81.md>Licence</a> for details.<br><br>
 
 	
 ## ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
