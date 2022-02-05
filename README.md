@@ -313,7 +313,7 @@ Adapted from <a href=https://github.com/wainshine/Chinese-Names-Corpus>Chinese N
 
 	
 ## Zdic.net Hàndiǎn
-A public dictionary from Zdic.net (downloaded via zd9999.com/ci ), which may be in the public domain.
+A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci), which may be in the public domain. 
 	
 <b>Original Files 資料來源</b><br>
 Converted from <a href=https://github.com/pwxcoo/chinese-xinhua>Chinese Xinhua</a> by pwxcoo<br>
