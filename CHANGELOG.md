@@ -1,7 +1,7 @@
 <table>
+  <tr><th>Date</th><th>Change</th></tr>
   <tr><td>2022-Feb-05</td><td>Added 中文人名语料库 Chinese / English Names Corpus</td></tr>
   <tr><td>2022-Feb-04</td><td>Added 漢語大詞典/汉语大词典 Hànyǔ Dà Cídiǎn - dāncí biǎo - word list</td></tr>
-  <tr><th>Date</th><th>Change</th></tr>
   <tr><td rowspan=7>2022-Feb-03</td>
     <td>部件檢索 Component Search Input Method, by WFG, added</td></tr>
     <tr><td>教育部重編國語辭典(第五版) Taiwan MOE Dict updated, minor updates by WFG</td></tr>
