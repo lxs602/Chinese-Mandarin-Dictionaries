@@ -252,9 +252,9 @@ See also the FSung font by WFG, coding approximately 170,000 characters (includi
 
 <br><b>Licence 許可證 / 许可证</b><br>
 <b>Non-Commercial use only</b> (see <a href=http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage</a>)
-<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br>
+<br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br><br>
 
-<br>
+
 ## 全字庫 Quan Zi Ku
 A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
 
@@ -281,16 +281,6 @@ http://fgwang.blogspot.com/2018/12/blog-post_10.html <br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Full%20description%20-%20Kangxi%20Dictionary%20-%20WFG%20-%20English.md>English translation (Google translate)</a><br>
 <br><b>Licence 許可證</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>CC BY-SA 3.0</a><br><br>
-
-
-## 說文解字 Shuowen Jiezi
-The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
-
-This is another large dictionary. One of the files has been split into three (說文解字.mdd.zip, 說文解字.mdd.z01, 說文解字.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
-
-<b>Original Files 資料來源</b><br>
-http://fgwang.blogspot.com/2019/02/blog-post.html <br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi/WFG_%20_Shu%20Wen%20Jie%20Zi_%20Dictionary%20-%20english.md>English translation (Google translate)</a><br><br>
 
 
 ## 說文解字 Shuowen Jiezi
