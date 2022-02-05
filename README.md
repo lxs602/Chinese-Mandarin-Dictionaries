@@ -302,7 +302,7 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt.<br>
 <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/H%C3%A0ny%C7%94%20D%C3%A0%20C%C3%ADdi%C7%8En%20-%20d%C4%81nc%C3%AD%20bi%C7%8Eo%20-%20wordlist/Licence%20-%20Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81%20-%20GPLv2.txt>GPL v2</a><br><br>
 
 
-## 中文人名语料库<br>Chinese Names Corpus
+## 中文人名语料库<br>Chinese / English Names Corpus
 A collection of Chinese family and personal names (with gender), and English (and Anglicised spellings of names from other languages) translated into Chinese.See <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/README.md>Readme</a> file for further details.<br><br>
 <b>Original Files 資料來源</b><br>
 Adapted from <a href=https://github.com/wainshine/Chinese-Names-Corpus>Chinese Names Corpus</a> by Wainshine / ltccss<br>
