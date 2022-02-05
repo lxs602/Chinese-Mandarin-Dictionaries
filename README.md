@@ -12,9 +12,9 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th><th>Priority</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0<br>Rewrite explanations, add colour</td><td></td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td align=center>✓</td><td></td></tr>	
-	<tr><td>3.  </td><td>Idioms / Chengyu</td><td>?from academia / BCC idiom dictionary / Chinese name/dict corpus / Hydcd / </td><td align=center>?</td><td></td></tr>
+	<tr><td>3.  </td><td>Idioms / Chengyu</td><td>?from academia / BCC idiom dictionary / Chinese name/dict corpus / Hydcd / other - English translations?</td><td align=center>?</td><td>Low</td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td align=center>✓</td><td></td></tr>
-	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td><td></td><td></td></tr>
+	<tr><td>5.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td><td></td>/tr>
 	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td align=center>To complete</td><td></td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba<br>CUV Bible</td><td align=center>✓<br>For revision</td><td></td></tr>
