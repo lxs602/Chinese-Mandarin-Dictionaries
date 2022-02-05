@@ -9,7 +9,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 ### Todo 接下來要做
 
 <table>
-	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th></tr>
+	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th><th>Priority</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0<br>Rewrite explanations, add colour</td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td align=center>✓</tr>	
 	<tr><td>3.  </td><td>Idioms</td><td>?from academia / BCC idiom dictionary</td><td align=center>?</td></tr>
@@ -18,7 +18,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>6.  </td><td>Pinyin-to-Chinese / dictionary </td><td>with Zhuyin, Pinyin and IPA, English "sounds like" (use FSI/wiki?), add GPL audio </td><td align=center>To complete</td></tr>
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba<br>CUV Bible</td><td align=center>✓<br>For revision</td></tr>
-	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td align=center>To convert</td></tr>
+	<tr><td>9.  </td><td>Idioms - W Scarborough</td><td></td><td align=center>To convert</td><td align=center>Low</td></tr>
 	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td align=center>To download</td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>?upload other formats</td></tr>
 	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td></tr>
@@ -28,8 +28,8 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>?</td></tr>
-	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td></tr>
+	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
+	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td align=center>To search</td></tr>
@@ -38,7 +38,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></tr>
 	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td></tr>
 	<tr><td>28.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td></tr>
-	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td align=center>To enquire</td></tr>
+	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td align=center>To enquire</td><td align=center>Low</td></tr>
 	<tr><td>30.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td></tr>
 	<tr><td>31.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td></tr>
 	<tr><td>32.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td></tr>
