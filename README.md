@@ -40,9 +40,10 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>28.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td align=center>To enquire</td><td align=center>Low</td></tr>
 	<tr><td>30.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td><td></td></tr>
-	<tr><td>31.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
-	<tr><td>32.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td><td></td></tr>
-	<tr><td>33.  </td><td>Update this readme</td><td>Add Simplified / Trad. / both tags</td><td align=center></td><td></td></tr>
+	<tr><td>31.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>Redo English-Chinese, check</td><td></td></tr>
+	<tr><td>32.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
+	<tr><td>33.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td><td></td></tr>
+	<tr><td>34.  </td><td>Update this readme</td><td>Add Simplified / Trad. / both tags</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
 
