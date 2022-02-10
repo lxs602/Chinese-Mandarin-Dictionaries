@@ -177,7 +177,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 <b>About 說明 / 说明</b><br>
 Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters(as SVGs, from <a href=www.Glyphwiki.org>Glyphwiki.org</a>) are included for those that might not be displayed in the font, being less common or new.
 	
-Unihan version: 13.0 (2020-02-18), but with addition of the 9 new characters from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0.
+Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
 
 Example: 隷|U+FA2F, shown in both in the font and as an SVG picture:<br>
 ![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)
