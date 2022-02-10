@@ -124,7 +124,7 @@ A Chinese-English dictionary, from the ADSO project by David Lancashire, https:/
 <i>Using the adso translation project application itself</i> is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at <a href=http://www.popupchinese.com/tools/adso>Popup Chinese</a>
 <br>
 <br><b>Licence 許可證 / 许可证</b>
-<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html>Adsotrans Attribution-NonCommercial License 1.1<</a><br>
+<br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html>Adsotrans Attribution-NonCommercial License 1.1</a><br>
 <br><b>Original Files 資料來源</b>
 <br>https://github.com/wtanaka/adso<br><br>
 	
