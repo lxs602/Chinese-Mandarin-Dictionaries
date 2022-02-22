@@ -58,7 +58,7 @@ https://www.mdbg.net/chinese/dictionary?page=cc-cedict<br><br>
 
 
 ## HanDeDict - English translation<br>
-<b>About 說明 / 说明</B><br>
+<b>About 說明 / 说明</b><br>
 A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
 
 <b>Licence 許可證 / 许可证</b><br>
@@ -68,8 +68,13 @@ https://github.com/gugray/HanDeDict<br><br>
 
 
 ## Make Me a Hanzi<br>
-<b>Memo:</b><br>
-Add note re overlay prob on goldendict if used with cc-cedict<br>
+<b>About 說明 / 说明</b><br>
+![Han](https://user-images.githubusercontent.com/44102215/155223907-72400f35-5794-4d40-9b76-d2b49f041a60.gif)<br>
+
+"Make Me a Hanzi provides dictionary and graphical data for over 9000 of the most common simplified and traditional Chinese characters" (skishore).
+
+Memo:
+Add descrAdd note re overlay prob on goldendict if used with cc-cedict<br>
 <br>
 <b>Licence 許可證 / 许可证</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20(Stroke%20animations)/Licence%20-%20LGPL-3.0.txt>GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007</a><br>
@@ -239,7 +244,7 @@ From the compiler's webpage:
 'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.' (Google-translate)
 
 <b>Licence 許可證 / 许可证</b><br>
-<b>Non-Commercial use only</b> (see <a href=http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage</a>)
+Non-Commercial use only (see <a href=http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage</a>)
 <br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br><br>
 
 
@@ -252,7 +257,7 @@ See also the FSung font by WFG, coding approximately 170,000 characters (includi
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b><br>
-<b>Non-Commercial use only</b> (see <a href=http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage</a>)
+Non-Commercial use only (see <a href=http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage</a>)
 <br>Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)</a><br><br>
 
 
@@ -262,7 +267,7 @@ A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radical
 <b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2020/07/blog-post_3.html<br><br>
 <b>Licence 許可證 / 许可证</b><br>
-<b>Non-Commercial use only</b><br><br>
+Non-Commercial use only<br><br>
 
 
 ## 干祿字書 Ganlu Zishu
@@ -271,7 +276,7 @@ A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official E
 <b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2019/04/blog-post.html <br><br>
 <b>Licence 許可證 / 许可证</b><br>
-<b>Non-Commercial use only</b><br><br>
+Non-Commercial use only<br><br>
 
 
 ## 康熙字典 Kangxi Radical Dictionary
@@ -293,7 +298,7 @@ This is another large dictionary. One of the files has been split into three (�
 <b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2019/02/blog-post.html <br><br>
 <b>Licence 許可證 / 许可证</b><br>
-<b>Non-Commercial use only</b><br><br>
+Non-Commercial use only<br><br>
 
 
 ## 漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list
@@ -314,7 +319,7 @@ Adapted from <a href=https://github.com/wainshine/Chinese-Names-Corpus>Chinese N
 
 	
 ## Zdic.net 汉典 Hàndiǎn
-A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci), which may be in the public domain. 
+A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci).
 	
 <b>Original Files 資料來源</b><br>
 Converted from <a href=https://github.com/pwxcoo/chinese-xinhua>Chinese Xinhua</a> by pwxcoo<br>
