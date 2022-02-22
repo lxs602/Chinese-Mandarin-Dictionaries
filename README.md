@@ -43,31 +43,9 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>31.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>32.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
 	<tr><td>33.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td><td></td></tr>
-	<tr><td>34.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations</td><td align=center></td><td></td></tr>
+	<tr><td>34.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
-
-## Chinese Word Frequencies 词频分析 / 詞頻分析
-
-<b>About 說明 / 说明</b>
-<br>...
-<br>
-
-<b>Details</b>
-<table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>No. of entries*</th><th>Years</th></tr> <tr><td>1a</td><td>Character freq. (Books):</td><td>9,932</td><td>1911-2003</font></td></tr> <tr><td>1b</td><td>Word freq. (Books):</td><td>76,002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character freq. (Movies):</td><td>3,360</td><td>< 2010</td></tr> <tr><td>2b</td><td>Word freq. (Movies):</td><td>69,004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word freq. (Mixed Print):</td><td>24,669</td><td>~1991</td></tr><tr><td>4</td><td>Char freq. (Usenet):</td><td>5,083</td><td>&nbsp;</td></tr><tr><td>5</td><td>Word freq. (Internet):</td><td>50,000</td><td>2006</td></tr> <tr><td>6</td><td>Word freq. (Newswire):</td><td>4,945</td><td>1990-2002</td></tr> <tr><td>7</td><td>HSK Levels:</td><td>5,000</td><td>2010</td></tr> <tr><td>8</td><td>Pinyin ratios:</td><td>5,000</td><td>2010</td></tr></table>  <br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] reranked taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2,124”, with the next entry ranked as “2,126”</li>
-
-<sub><b>Notes:</b>
-<br>*English, Russian, numeral and punctuation characters removed from references [3] & [5].
-<br>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub>
-
-<br>
-<b>Licence 許可證 / 许可证</b><br>
-HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a><br><br>, data according to licences below:
-<b>Sources of word frequency data and their licences:</b>
-<br><br>
-<table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>Corpus reference</th><th>Corpus licence</th><th>Word list Source</th><th>Word list licence</th></tr>  <tr><td>1</td><td>”Chinese Word Frequencies”: <i> this dictionary</i></td><td>&nbsp;</td><td><a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a></td><td>https://github.com/lxs602/Chinese-Mandarin-Dictionaries</font></td><td>&nbsp;</td></tr><tr><td>2</td><td>Character/Word freq. (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td><td>As for corpus</td></tr>  <tr><td>3</td><td>Character/Word freq. (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip</td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls</td><td>&nbsp;</td></tr>  <tr><td>9</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
-<sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br>
-
 
 ## CC-CEDICT - with enlarged characters<br>
 <b>About 說明 / 说明</B><br>
@@ -99,6 +77,28 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br>https://github.com/skishore/makemeahanzi<br><br>
   
   
+## Chinese Word Frequencies 词频分析 / 詞頻分析
+
+<b>About 說明 / 说明</b>
+<br>...
+<br>
+
+<b>Details</b>
+<table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>No. of entries*</th><th>Years</th></tr> <tr><td>1a</td><td>Character freq. (Books):</td><td>9,932</td><td>1911-2003</font></td></tr> <tr><td>1b</td><td>Word freq. (Books):</td><td>76,002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character freq. (Movies):</td><td>3,360</td><td>< 2010</td></tr> <tr><td>2b</td><td>Word freq. (Movies):</td><td>69,004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word freq. (Mixed Print):</td><td>24,669</td><td>~1991</td></tr><tr><td>4</td><td>Char freq. (Usenet):</td><td>5,083</td><td>&nbsp;</td></tr><tr><td>5</td><td>Word freq. (Internet):</td><td>50,000</td><td>2006</td></tr> <tr><td>6</td><td>Word freq. (Newswire):</td><td>4,945</td><td>1990-2002</td></tr> <tr><td>7</td><td>HSK Levels:</td><td>5,000</td><td>2010</td></tr> <tr><td>8</td><td>Pinyin ratios:</td><td>5,000</td><td>2010</td></tr></table>  <br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] reranked taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2,124”, with the next entry ranked as “2,126”</li>
+
+<sub><b>Notes:</b>
+<br>*English, Russian, numeral and punctuation characters removed from references [3] & [5].
+<br>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub>
+
+<br>
+<b>Licence 許可證 / 许可证</b><br>
+HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a><br><br>, data according to licences below:
+<b>Sources of word frequency data and their licences:</b>
+<br><br>
+<table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>Corpus reference</th><th>Corpus licence</th><th>Word list Source</th><th>Word list licence</th></tr>  <tr><td>1</td><td>”Chinese Word Frequencies”: <i> this dictionary</i></td><td>&nbsp;</td><td><a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a></td><td>https://github.com/lxs602/Chinese-Mandarin-Dictionaries</font></td><td>&nbsp;</td></tr><tr><td>2</td><td>Character/Word freq. (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td><td>As for corpus</td></tr>  <tr><td>3</td><td>Character/Word freq. (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip</td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls</td><td>&nbsp;</td></tr>  <tr><td>9</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
+<sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br>
+
+
 ## BCC 英汉词典 - BCC Corpus English-Chinese Wordlist<br>
 <b>Note:</b><br>
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms. The original file had some spelling errors, and though it has been proof-read in English, some may remain. Contains some uncommon words and national variants, so would be a good accompaniment to other dictionaries.<br>
@@ -121,7 +121,7 @@ XDICT是一个freeware,大致按照GPL传播.<br>
 <b>About 說明 / 说明</B><br>
 A Chinese-English dictionary, from the <a href=https://github.com/wtanaka/adso>ADSO project</a> by David Lancashire. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
 <br>
-<i>Using the adso translation project application itself</i> is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at <a href=http://www.popupchinese.com/tools/adso>Popup Chinese</a>.
+<a href=https://github.com/wtanaka/adso><i>Using the adso translation project application itself</i></a> is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at <a href=http://www.popupchinese.com/tools/adso>Popup Chinese</a>.
 <br>
 <br><b>Licence 許可證 / 许可证</b>
 <br><a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html>Adsotrans Attribution-NonCommercial License 1.1</a><br>
@@ -215,7 +215,7 @@ Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chis
 <b>About 說明 / 说明</b><br>
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to <a href=https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386>shawkynasr</a>).
 <br>
-<br><b>Authorisation / 授權</b> (from the author's webpage):
+<br><b>Authorisation / 授權</b> (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
 <li>"Follow the "Creative CC-Name Marking-Prohibited to Change to Taiwan Version 3.0 License Terms" to share my production. I hope that these valuable information can be used more conveniently by everyone. Please also ask friends who can find defects. Let me know any errors so that I can make subsequent corrections." (Google-translate)</li>
 
@@ -236,7 +236,7 @@ An index of more than 106,000 variant characters by the Taiwanese Ministry of Ed
 <b>Please note:</b>
 From the compiler's webpage:
 
-'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.'
+'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.' (Google-translate)
 
 <b>Licence 許可證 / 许可证</b><br>
 <b>Non-Commercial use only</b> (see <a href=http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage</a>)
