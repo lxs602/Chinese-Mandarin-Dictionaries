@@ -23,7 +23,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>?upload other formats</td><td></td></tr>
 	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td><td></td></tr>
 	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>Add SVG pictures</td><td></td></tr>
+	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
@@ -43,7 +43,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>31.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>32.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
 	<tr><td>33.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td><td></td></tr>
-	<tr><td>34.  </td><td>Update this readme</td><td>Add Simplified / Trad. / both tags</td><td align=center></td><td></td></tr>
+	<tr><td>34.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
 
