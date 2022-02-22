@@ -43,7 +43,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>31.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>32.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
 	<tr><td>33.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td><td></td></tr>
-	<tr><td>34.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG</td><td align=center></td><td></td></tr>
+	<tr><td>34.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG<br>Add Unicode font check - c.f. WFG</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
 
