@@ -199,6 +199,11 @@ Created from information from the Unihan project (v 13.0, 2020-02-18).
 	
 Note, the characters that show will depend on what fonts are installed. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
 
+<b>Example:</b>
+
+![image](https://user-images.githubusercontent.com/44102215/179079384-2cc99873-01b6-4ea3-b9cb-ab9a016f8174.png)
+
+
 <b>Licences 許可證 / 许可证</b>
 <br>See Unihan character dictionary above.
 <br><br>
