@@ -205,7 +205,7 @@ Note, the characters that show will depend on what fonts are installed. The <a h
 
 ## 維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library
 <b>About 說明 / 说明</b><br>
-A library of images of historical forms of Chinese characters, from Wikimedia Commons. Intended for offline viewing.
+A library of images of historical forms of Chinese characters, from Wikimedia Commons, for offline viewing.
 
 See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project for further details.
 
