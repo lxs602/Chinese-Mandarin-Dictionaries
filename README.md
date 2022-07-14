@@ -200,7 +200,7 @@ Created from information from the Unihan project (v 13.0, 2020-02-18).
 Note, the characters that show will depend on what fonts are installed. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
 
 <b>Licences 許可證 / 许可证</b>
-See Unihan character dictionary above.
+<br>See Unihan character dictionary above.
 <br><br>
 
 ## 維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library
@@ -210,7 +210,7 @@ A library of images of historical forms of Chinese characters, from Wikimedia Co
 See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project for further details.
 
 <b>Licences 許可證 / 许可证</b>
-Public domain, except as otherwise specified.
+<br>Public domain, except as otherwise specified.
 	
 <b>Example:</b> 
 
