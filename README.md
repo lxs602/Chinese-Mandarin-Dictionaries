@@ -197,24 +197,25 @@ A simple radical dictionary, derived from information from the Unihan project (v
 
 Search by a radical number, from 1 to 214, to see a list of characters that are based on the radical. 
 
-Note, the characters that show will depend on what fonts you have. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
+Note, the characters that show will depend on what fonts are installed. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
 
-<br><b>Licences 許可證 / 许可证</b>
+<br><b>Licences 許可證 / 许可证</b><br>
 See Unihan character dictionary above.
-
+<br><br>
 
 ## 維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library
 <b>About 說明 / 说明</b><br>
 A library of images of historical forms of Chinese characters, from Wikimedia Commons. Intended for offline viewing.
 
 See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project for further details.
-
+<br><b>Licences 許可證 / 许可证</b><br>
+Public domain, except as otherwise specified.
+	
 Example: 
 
 ![image](https://user-images.githubusercontent.com/44102215/179073733-777a03c1-2faa-421c-a4ae-5f2b6d3a5acc.png)
 
-<br><b>Licences 許可證 / 许可证</b>
-Public domain, except as otherwise specified.
+
 
 
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
