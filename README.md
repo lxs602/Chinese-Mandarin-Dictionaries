@@ -198,7 +198,6 @@ A simple radical dictionary. Search by a radical number, from 1 to 214, to see a
 Created from information from the Unihan project (v 13.0, 2020-02-18).
 	
 Note, the characters that show will depend on what fonts are installed. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
-
 <br><b>Licences 許可證 / 许可证</b><br>
 See Unihan character dictionary above.
 <br><br>
@@ -208,7 +207,6 @@ See Unihan character dictionary above.
 A library of images of historical forms of Chinese characters, from Wikimedia Commons. Intended for offline viewing.
 
 See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project for further details.
-	
 <br><b>Licences 許可證 / 许可证</b><br>
 Public domain, except as otherwise specified.
 	
