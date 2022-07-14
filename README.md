@@ -193,10 +193,10 @@ Unicode code point to character look-up performed using: https://r12a.github.io/
 
 ## 部首字典 Radical dictionary
 <b>About 說明 / 说明</b><br>
-A simple radical dictionary, derived from information from the Unihan project (v 13.0, 2020-02-18).
+A simple radical dictionary. Search by a radical number, from 1 to 214, to see a list of characters that are based on the radical. Alternatively, search for "index" for a list of all radicals.
 
-Search by a radical number, from 1 to 214, to see a list of characters that are based on the radical. 
-
+Created from information from the Unihan project (v 13.0, 2020-02-18).
+	
 Note, the characters that show will depend on what fonts are installed. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
 
 <br><b>Licences 許可證 / 许可证</b><br>
@@ -208,16 +208,15 @@ See Unihan character dictionary above.
 A library of images of historical forms of Chinese characters, from Wikimedia Commons. Intended for offline viewing.
 
 See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project for further details.
+	
 <br><b>Licences 許可證 / 许可证</b><br>
 Public domain, except as otherwise specified.
 	
-Example: 
+<b>Example:</b> 
 
 ![image](https://user-images.githubusercontent.com/44102215/179073733-777a03c1-2faa-421c-a4ae-5f2b6d3a5acc.png)
 
-
-
-
+<br><br>
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 <b>About 說明 / 说明</b><br>
 A dictionary of meanings in Japanese, but also useful for etymology in Chinese. By Lawrence J. Howell and Hikaru Morimoto.
