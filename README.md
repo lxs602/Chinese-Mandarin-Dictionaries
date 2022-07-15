@@ -49,7 +49,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions that otherwise do not belong in a dictionary.
 
 <b>Licence 許可證 / 许可证</b><br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20(with%20enlarged%20characters)/Licence%20CC%20BY-SA%203.0.txt>Creative Commons BY-SA 3.0</a> <br><br>
+[Creative Commons BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20(with%20enlarged%20characters)/Licence%20CC%20BY-SA%203.0.txt) <br><br>
 <b>Original Files 資料來源</b><br>
 https://www.mdbg.net/chinese/dictionary?page=cc-cedict<br><br>
 
