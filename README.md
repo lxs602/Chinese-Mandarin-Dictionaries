@@ -224,7 +224,7 @@ See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_projec
 <br><br>
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 <b>About 說明 / 说明</b><br>
-A dictionary of meanings in Japanese, but also useful for etymology in Chinese. By Lawrence J. Howell and Hikaru Morimoto.
+A dictionary of meanings in Japanese, but also useful for etymology in Chinese. 
 	
 <b>Licence 許可證 / 许可证</b><br>
 Freely distributed.<br><br>
