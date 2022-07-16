@@ -34,7 +34,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>23.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>24.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td><td></td></tr>
-	<tr><td>25.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></td><td></td></tr>
+	<tr><td>25.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>26.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>27.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>28.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td><td></td></tr>
@@ -113,7 +113,7 @@ Sources of word frequency data and their licences:
 |8|HSK Levels|&nbsp;|&nbsp;|[Link](http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls)|&nbsp;|  
 |9|Pinyin ratios|kHanyuPinlu field in UniHan database, Unicode version: 11.0.0|[Link](https://www.unicode.org/license.html)|[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip)from: [Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)|As for corpus|
 
-<sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br>
+<sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br><br>
 
 
 ## BCC 英汉词典 - BCC Corpus English-Chinese Wordlist<br>
