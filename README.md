@@ -59,7 +59,7 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, 
 A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
 
 <b>Licence 許可證 / 许可证</b><br>
-Creative Commons BY-SA 2.0 <br><br>
+[Creative Commons BY-SA 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/HanDeDict%20%28English%20machine%20translation%29/Licence%20-%20CC%20BY-SA%202.0) <br><br>
 <b>Original Files 資料來源</b><br>
 [HanDeDict](https://github.com/gugray/HanDeDict)<br><br>
 
@@ -77,7 +77,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <b>Licence 許可證 / 许可证</b>
 <br>[GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animationsi%29/Licence%20-%20LGPL-3.0.txt)<br>
 <br><b>Original Files 資料來源</b>
-<br>https://github.com/skishore/makemeahanzi<br><br>
+<br>[Makemeahanzi](https://github.com/skishore/makemeahanzi)<br><br>
   
   
 ## Chinese Word Frequencies 词频分析 / 詞頻分析
@@ -159,7 +159,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded
 A compilation of freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
 	
 See also: <br>
-[吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/East-Asian-Dictionaries/tree/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods)<br>
+[吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods)<br>
 [亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/East-Asian-Dictionaries/tree/main/East%20Asian%20%28JKVT%29%20Phonetic%20and%20Input%20Methods%20%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6)
 
 Example: 析<br>
@@ -272,7 +272,7 @@ From the compiler's webpage:
 'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.' (Google-translate)
 
 <b>Licence 許可證 / 许可证</b><br>
-Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2021/12/blog-post_29.html>compiler's webpage))
+Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2021/12/blog-post_29.html))
 <br>[Creative Commons NonCommercial 3.0 Unported Licence %28No derivatives%29](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters/Licence%20-%20Non-Commercial%20-%20CC%20BY-ND%203.0.txt)<br><br>
 
 
@@ -285,7 +285,7 @@ See also the FSung font by WFG, coding approximately 170,000 characters (includi
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b><br>
-Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2015/12/blog-post.html>compiler's webpage))<br><br>
+Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2015/12/blog-post.html))<br><br>
 
 
 ## 全字庫 Quan Zi Ku
