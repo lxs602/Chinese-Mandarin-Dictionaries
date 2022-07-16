@@ -19,31 +19,28 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba<br>CUV Bible</td><td align=center>✓<br>For revision</td><td></td></tr>
 	<tr><td>9.  </td><td>Chinese Idioms - W Scarborough</td><td>OCR scan</td><td align=center>To convert</td><td align=center>Low</td></tr>
-	<tr><td>10.  </td><td>Hanziyuan image library</td><td></td><td align=center>To download</td><td></td></tr>
+	<tr><td>10.  </td><td>Wikimedia image library</td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>?upload other formats</td><td></td></tr>
 	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td><td></td></tr>
 	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>15.  </td><td>Guoxuedashi (国学大师) Character Dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>16.  </td><td>Chinese Lexicon</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
+	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>Add supercompositions</td><td></td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
 	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>23.  </td><td>Guoxuedashi (国学大师) Idiom Dictionaries and ?others</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
-	<tr><td>24.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>25.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td><td></td></tr>
-	<tr><td>26.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></td><td></td></tr>
-	<tr><td>27.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>28.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>29.  </td><td>Chinese Characters / Word org - dump, see blog</td><td>&nbsp;</td><td align=center>To enquire</td><td align=center>Low</td></tr>
-	<tr><td>30.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td><td></td></tr>
-	<tr><td>31.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>32.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
-	<tr><td>33.  </td><td>Tidy files</td><td>&nbsp;</td><td align=center></td><td></td></tr>
-	<tr><td>34.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG<br>Add Unicode font check - c.f. WFG</td><td align=center></td><td></td></tr>
+	<tr><td>23.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
+	<tr><td>24.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td><td></td></tr>
+	<tr><td>25.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td></td><td></td></tr>
+	<tr><td>26.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
+	<tr><td>27.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
+	<tr><td>28.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td><td></td></tr>
+	<tr><td>29.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
+	<tr><td>30.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
+	<tr><td>31.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG<br>Add Unicode font check - c.f. WFG</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
 
@@ -52,7 +49,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions that otherwise do not belong in a dictionary.
 
 <b>Licence 許可證 / 许可证</b><br>
-<a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20(with%20enlarged%20characters)/Licence%20CC%20BY-SA%203.0.txt>Creative Commons BY-SA 3.0</a> <br><br>
+[Creative Commons BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20(with%20enlarged%20characters)/Licence%20CC%20BY-SA%203.0.txt) <br><br>
 <b>Original Files 資料來源</b><br>
 https://www.mdbg.net/chinese/dictionary?page=cc-cedict<br><br>
 
@@ -89,7 +86,7 @@ Add descrAdd note re overlay prob on goldendict if used with cc-cedict<br>
 <br>
 
 <b>Details</b>
-<table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>No. of entries*</th><th>Years</th></tr> <tr><td>1a</td><td>Character freq. (Books):</td><td>9,932</td><td>1911-2003</font></td></tr> <tr><td>1b</td><td>Word freq. (Books):</td><td>76,002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character freq. (Movies):</td><td>3,360</td><td>< 2010</td></tr> <tr><td>2b</td><td>Word freq. (Movies):</td><td>69,004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word freq. (Mixed Print):</td><td>24,669</td><td>~1991</td></tr><tr><td>4</td><td>Char freq. (Usenet):</td><td>5,083</td><td>&nbsp;</td></tr><tr><td>5</td><td>Word freq. (Internet):</td><td>50,000</td><td>2006</td></tr> <tr><td>6</td><td>Word freq. (Newswire):</td><td>4,945</td><td>1990-2002</td></tr> <tr><td>7</td><td>HSK Levels:</td><td>5,000</td><td>2010</td></tr> <tr><td>8</td><td>Pinyin ratios:</td><td>5,000</td><td>2010</td></tr></table>  <br><br><b>Notes:</b> <li>*English, Russian, numeral and punctuation characters removed from references [3] & [5].</li><li> Corpus [3],[4] and [5] reranked taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2,124”, with the next entry ranked as “2,126”</li>
+<table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>No. of entries*</th><th>Years</th><tr><td>1a</td><td>Character freq. (Books):</td><td>9,932</td><td>1911-2003</font></td></tr> <tr><td>1b</td><td>Word freq. (Books):</td><td>76,002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character freq. (Movies):</td><td>3,360</td><td>< 2010</td></tr><tr><td>2b</td><td>Word freq. (Movies):</td><td>69,004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word freq. (Mixed Print):</td><td>24,669</td><td>~1991</td></tr><tr><td>4</td><td>Char freq. (Usenet):</td><td>5,083</td><td>&nbsp;</td></tr><tr><td>5</td><td>Word freq. (Internet):</td><td>50,000</td><td>2006</td></tr> <tr><td>6</td><td>Word freq. (Newswire):</td><td>4,945</td><td>1990-2002</td></tr><tr><td>7</td><td>HSK Levels:</td><td>5,000</td><td>2010</td></tr><tr><td>8</td><td>Pinyin ratios:</td><td>5,000</td><td>2010</td></tr></table>
 
 <sub><b>Notes:</b>
 <br>*English, Russian, numeral and punctuation characters removed from references [3] & [5].
@@ -97,7 +94,7 @@ Add descrAdd note re overlay prob on goldendict if used with cc-cedict<br>
 
 <br>
 <b>Licence 許可證 / 许可证</b><br>
-HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a><br><br>, data according to licences below:
+HTML licenced under <a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a><br><br>Data according to licences below:
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
 <table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>Corpus reference</th><th>Corpus licence</th><th>Word list Source</th><th>Word list licence</th></tr>  <tr><td>1</td><td>”Chinese Word Frequencies”: <i> this dictionary</i></td><td>&nbsp;</td><td><a href= https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt>CC BY-NC 4.0 Licence</a></td><td>https://github.com/lxs602/Chinese-Mandarin-Dictionaries</font></td><td>&nbsp;</td></tr><tr><td>2</td><td>Character/Word freq. (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td><td>As for corpus</td></tr>  <tr><td>3</td><td>Character/Word freq. (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip</td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls</td><td>&nbsp;</td></tr>  <tr><td>9</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
@@ -193,14 +190,44 @@ Unicode code point to character look-up performed using: https://r12a.github.io/
 <br>Unihan: <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8%20Unihan%20character%20dictionary/License.html>Unicode licence<a/>, Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 <br>Glyphwiki:<a href=http://en.glyphwiki.org/wiki/GlyphWiki:License>freely available</a><br><br>	
 
-## Kanjinetworks - Etymological Dictionary of Han Chinese Characters
-<b>About 說明 / 说明</b><br>
-Description pending. 
 
-<i>Please note that <b>Japanese</b> meanings are given.</i>
+## 部首字典 Radical dictionary
+<b>About 說明 / 说明</b><br>
+A simple radical dictionary. Search by a radical number, from 1 to 214, to see a list of characters that are based on the radical. Alternatively, search for "index" for a list of all radicals.
+
+Uses character information from the Unihan project (v 13.0, 2020-02-18).
+	
+Note, the characters that show will depend on what fonts are installed. The <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AE%8B%E9%AB%94%20-%20FSung%20font>FSong</a> font by WFG can show all the current Unihan characters.
+
+<b>Example:</b>
+
+![image](https://user-images.githubusercontent.com/44102215/179079384-2cc99873-01b6-4ea3-b9cb-ab9a016f8174.png)
+
+
+<b>Licences 許可證 / 许可证</b>
+<br>See Unihan character dictionary above.
+<br><br>
+
+## 維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library
+<b>About 說明 / 说明</b><br>
+A library of images of historical forms of Chinese characters, from Wikimedia Commons, for offline viewing.
+
+See https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project for further details.
+
+<b>Licences 許可證 / 许可证</b>
+<br>Public domain, except as otherwise specified.
+	
+<b>Example:</b> 
+
+![image](https://user-images.githubusercontent.com/44102215/179073733-777a03c1-2faa-421c-a4ae-5f2b6d3a5acc.png)
+
+<br><br>
+## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
+<b>About 說明 / 说明</b><br>
+A dictionary of meanings in Japanese, but also useful for etymology in Chinese. 
 	
 <b>Licence 許可證 / 许可证</b><br>
-Free distribution.<br><br>
+Freely distributed.<br><br>
 
 	
 ## CJKVI Decomposition
@@ -236,7 +263,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 
 ## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
 <b>About 說明 / 说明</b><br>
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by WFG. These files are hosted here for those searching the web in English, and as a mirror.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by WFG. These files are hosted here for those searching the web in English, and as a mirror of the original.
 
 <b>Please note:</b>
 From the compiler's webpage:
@@ -251,7 +278,7 @@ Non-Commercial use only (see <a href=http://fgwang.blogspot.com/2021/12/blog-pos
 ## 部件檢索 Component Search Input Method
 ## 全宋體 - FSung font
 <b>About 說明 / 说明</b><br>
-A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror.
+A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror of the original.
 
 See also the FSung font by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
@@ -271,7 +298,7 @@ Non-Commercial use only<br><br>
 
 
 ## 干祿字書 Ganlu Zishu
-A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror of the original.
 
 <b>Original Files 資料來源</b> <br>
 http://fgwang.blogspot.com/2019/04/blog-post.html <br><br>
@@ -280,9 +307,7 @@ Non-Commercial use only<br><br>
 
 
 ## 康熙字典 Kangxi Radical Dictionary
-A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
-
-This is a large dictionary. One of the files has been split into three (康熙字典.mdd.zip, 康熙字典.mdd.z01, 康熙字典.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror of the original.
 
 <b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2018/12/blog-post_10.html <br><br>
@@ -292,8 +317,6 @@ http://fgwang.blogspot.com/2018/12/blog-post_10.html <br><br>
 
 ## 說文解字 Shuowen Jiezi
 The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by <a href=http://fgwang.blogspot.com/>WFG</a>. This file is hosted here for those searching the web in English, and as a mirror.
-
-This is another large dictionary. One of the files has been split into three (說文解字.mdd.zip, 說文解字.mdd.z01, 說文解字.mdd.z02), which must be opened together in e.g. Winzip / other, so that they can be recombined.
 
 <b>Original Files 資料來源</b><br>
 http://fgwang.blogspot.com/2019/02/blog-post.html <br><br>
