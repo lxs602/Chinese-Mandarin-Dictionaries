@@ -45,26 +45,35 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 <br><br><br>
 
 ## [CC-CEDICT - with enlarged characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20%28with%20enlarged%20characters%29)
+
 ### About 說明 / 说明
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions that otherwise do not belong in a dictionary.
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20%28with%20enlarged%20characters%29/Licence%20CC%20BY-SA%203.0.txt) <br>
-### Original Files 資料來源
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20%28with%20enlarged%20characters%29)
+
+### Source Files 資料來源
 [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict)<br><br><br>
 
 
 ## [HanDeDict - English translation](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20%28English%20machine%20translation%29)
+
 ### About 說明 / 说明
 A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/HanDeDict%20%28English%20machine%20translation%29/Licence%20-%20CC%20BY-SA%202.0) <br>
-### Original Files 資料來源
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20%28English%20machine%20translation%29)
+
+### Source Files 資料來源
 [HanDeDict](https://github.com/gugray/HanDeDict)<br><br><br>
 
 
 ## [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20%28Stroke%20animations%29)
+
 ### About 說明 / 说明
 ![Han](https://user-images.githubusercontent.com/44102215/155223907-72400f35-5794-4d40-9b76-d2b49f041a60.gif)<br>
 
@@ -76,15 +85,21 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 
 ### Licence 許可證 / 许可证
 [GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)
-### Original Files 資料來源
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20%28Stroke%20animations%29)
+
+### Source Files 資料來源
 [Makemeahanzi](https://github.com/skishore/makemeahanzi)<br><br><br>
   
   
 ## [Chinese Word Frequencies 词频分析 / 詞頻分析](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Word%20Frequencies)
 
+
 ### About 說明 / 说明
 <br>...
 <br>
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Word%20Frequencies)
 
 ### Details
 <table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>No. of entries\*</th><th>Years</th><tr><td>1a</td><td>Character freq. (Books):</td><td>9,932</td><td>1911-2003</font></td></tr> <tr><td>1b</td><td>Word freq. (Books):</td><td>76,002</td><td>1911-2003</td></tr> <tr><td>2a</td><td>Character freq. (Movies):</td><td>3,360</td><td>< 2010</td></tr><tr><td>2b</td><td>Word freq. (Movies):</td><td>69,004</td><td>< 2010</td></tr> <tr><td>3</td><td>Word freq. (Mixed Print):</td><td>24,669</td><td>~1991</td></tr><tr><td>4</td><td>Char freq. (Usenet):</td><td>5,083</td><td>&nbsp;</td></tr><tr><td>5</td><td>Word freq. (Internet):</td><td>50,000</td><td>2006</td></tr> <tr><td>6</td><td>Word freq. (Newswire):</td><td>4,945</td><td>1990-2002</td></tr><tr><td>7</td><td>HSK Levels:</td><td>5,000</td><td>2010</td></tr><tr><td>8</td><td>Pinyin ratios:</td><td>5,000</td><td>2010</td></tr></table>
@@ -116,59 +131,77 @@ Sources of word frequency data and their licences:
 <sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br><br>
 
 
-## [BCC 英汉词典 - BCC Corpus English-Chinese Wordlist](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20(BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8))
+## [BCC 英汉词典 - BCC Corpus English-Chinese Wordlist](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
+
 ### Note:
 Assembled from the freely available BCC corpus dictionary, with 42,784 terms. The original file had some spelling errors, and though it has been proof-read in English, some may remain. Contains some uncommon words and national variants, so would be a good accompaniment to other dictionaries.<br>
 
-### 资料来源 Original Files
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
+
+### 资料来源 Source Files
 [BCC BLCU Resources](http://bcc.blcu.edu.cn/downloads/resources/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8.zip)<br><br><br>
 
 ## [XDICT 英汉词典 (English-Chinese Dictionary)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8)
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8)
 ### About 說明 / 说明
 XDict, the free English to Chinese dictionary, originally developed by Fu Jianjun, with about 177,000 terms.<br>
 
 ### Licence 許可證 / 许可证
 XDICT是一个freeware,大致按照GPL传播.<br>
-### Original Files 資料來源
+### Source Files 資料來源
 [Dict-xdict](http://archive.ubuntu.com/ubuntu/pool/universe/d/dict-xdict/dict-xdict_0.1-4.2_all.deb)<br><br><br>
 
 
 ## [Adso trans](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/ADSO)
+
 ### About 說明 / 说明
 A Chinese-English dictionary, from the [ADSO project](https://github.com/wtanaka/adso) by David Lancashire. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
 
 <i>Using the adso translation project application itself</i>) is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at [Popup Chinese](http://popupchinese.com/tools/adso).
 
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/ADSO)
+
 ### Licence 許可證 / 许可证
 [Adsotrans Attribution-NonCommercial License 1.1](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html)<br>
-### Original Files 資料來源
+### Source Files 資料來源
 https://github.com/wtanaka/adso<br><br><br>
 	
 
 ## [Chinese Lexicon - Etymology](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Lexicon%20-%20Etymology)
+
 ### About 說明 / 说明
 A character etymology dictionary, derived from [Dong Chinese Lexicon](https://github.com/peterolson/chinese-lexicon) by Peter Olsen [dong-chinese.com](https://www.dong-chinese.com). Contains decomposition data, helpful images of iconographs and short definitions from CC-CEDICT. Total of 5054 terms.
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Lexicon%20-%20Etymology)
 
 ### Licence 許可證 / 许可证
 Freely available
 
-### Original Files 資料來源
+### Source Files 資料來源
 https://github.com/peterolson/chinese-lexicon<br><br><br>
 	
 
 ## [Tatoeba Chinese-English Vocabulary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
+
 ### About 說明 / 说明
 A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded December 2020, with 47969 phrases. “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
+
 ### Licence 許可證 / 许可证
 [CC BY 2.0 FR](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Tatoeba%20Chinese-English%20Vocabulary/Licence%20-%20CC%20BY%202.0%20FR)<br><br><br>
 	
 
 ## [新华字典 Xīnhuá Zìdiǎn character dictionary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%20X%C4%ABnhu%C3%A1%20Z%C3%ACdi%C7%8En%20character%20dictionary)
+
 ### About 說明 / 说明
 ...
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%20X%C4%ABnhu%C3%A1%20Z%C3%ACdi%C7%8En%20character%20dictionary)
 <br><br><br>
 	
 ## [數字輸入法 Chinese Input Methods](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods)
+
 ### About 說明 / 说明
 A compilation of freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
 	
@@ -176,13 +209,15 @@ See also: <br>
 [吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods)<br>
 [亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/East-Asian-Dictionaries/tree/main/East%20Asian%20%28JKVT%29%20Phonetic%20and%20Input%20Methods%20%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6)
 
-###Example 事例: 析
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods)
+
+### Example 事例: 析
 <table border="1" cellspacing="0" cellpadding="3"><tbody><tr><td><b>文字 Character(s):</b></td><td>析</font></td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>1207</td></tr><tr><td align=center colspan="2"><b>字形 Glyph /  雜項 Other</b></td></tr><tr><td>三角編號 3 Corners</td><td>492700</td></tr><tr><td>行列10 Array10</td><td>4893</td></tr><tr><td>行列30 Array30</td><td>vo</td></tr><tr><td>表形码 Biaoxing</td><td>mjt</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>tki</td></tr><tr><td>縱橫碼 CKC</td><td>4092</td></tr><tr><td>全拼形導碼 Daomax</td><td>mjt</td></tr><tr><td>筆結基因 DNA</td><td>362765</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>yfs</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>d1</td></tr><tr><td>華象直覺  HS pictograph</td><td>YLT</td></tr><tr><td>晶晶碼 Jin Jin</td><td>mjjt</td></tr><tr><td>晶数码 Jin Shu </td><td>487751</td></tr><tr><td>冰蟾全息 QXM</td><td>mjda</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>tki</td></tr><tr><td>晚風 Wan Feng</td><td>xim</td></tr><tr><td>海峰五笔 Wubi 98</td><td>sr</td></tr><tr><td>王林快码 WLKM</td><td>uf;p</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>yft</td></tr><tr><td align=center colspan="2"><b>拼音 Pinyin</b></td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>sik</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>cik1</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>tsik7</td></tr><tr><td>正體拼音 Pinyin</td><td>xi</td></tr><tr><td>雙拼加加 Shuangpin++</td><td>xi</td></tr><tr><td align=center colspan="2"><b>以拼音为基 Pinyin-based</b></td></tr><tr><td>二笔快版 Er Bi - Kuai</td><td>xxej</td></tr><tr><td>小鹤音形 Flypy</td><td>xim</td></tr><tr><td>T9</td><td>hspnpphs</td></tr><tr><td>自然码 Zi Ran Ma</td><td>xim</td></tr><tr><td align=center colspan="2"><b>注音 Zhuyin</b></td></tr><tr><td>正體注音 Bopomofo (official)</td><td>vu</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>vu</td></tr><tr><td>臺語注音 Taiwanese</td><td>"vu,e"</td></tr><tr><td>粵語注音 Zyujam</td><td>hud4</td></tr><tr><td align=center colspan="2"><b>以笔顺为基  Stroke-based</b></td></tr><tr><td>筆順碼 Bsm</td><td>983</td></tr><tr><td>大易二碼 Dayi2</td><td>i1</td></tr><tr><td>大易三碼 Dayi3</td><td>ih1</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>IHE1</td></tr><tr><td>大易四碼 Dayi4</td><td>ihe1</td></tr><tr><td>龍飛 Dragonfly</td><td>ihe1</td></tr><tr><td>六碼筆畫 G6 Code</td><td>123312</td></tr><tr><td>筆畫數 Strokes</td><td>804</td></tr><tr><td> 筆順五碼 Stroke5</td><td>"m/,.,"</td></tr><tr><td>郑码 Zheng Ma</td><td>fpd</td></tr><tr><td align=center colspan="2"><b>以倉頡为基 Cangjie-based</b></td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>dhml</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>dhml</td></tr><tr><td>仓颉 Chan Jei</td><td>dhml</td></tr><tr><td>微倉三 Changjei3 </td><td>dhml</td></tr><tr><td>自由大新 FreeNewCJ</td><td>dhl</td></tr><tr><td>正體簡易 SimpleCJ</td><td>dl</td></tr><tr><td>簡易五代 Simplex5</td><td>dl</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>dhl</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>dhl</td></tr><tr><td align=center colspan="2"><b>字符集 Character Encodings</b></td></tr><tr><td>大五碼 Big5p</td><td>aa52</td></tr><tr><td>資訊交換碼 CCCII  </td><td>21442b</td></tr><tr><td>標準交換碼 CNS11643</td><td>14e35</td></tr><tr><td>四角号码 Four Corner</td><td>4292</td></tr><tr><td>電信碼 Telecode</td><td>2649</td></tr><tr><td>統一漢字 Unicode</td><td>6790</td></tr></tbody></table><br>
 
 
-### 資料來源 Original Files:
+### 資料來源 Source Files:
 [Chinese open-desktop tables](https://github.com/chinese-opendesktop/cin-tables) <br>
-[Openvanilla tables](https://github.com/openvanilla/openvanilla/tree/master/DataTables) <br>	 
+[Openvanilla tables](https://github.com/openvanilla/openvanilla/tree/master/DataTables) <br>	
 	
 ### Licences 許可證 / 许可证
 [數字輸入法 Chinese Input Methods](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br>
@@ -191,29 +226,35 @@ See also: <br>
 	
 
 ## [統一漢字典 Unihan character dictionary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8)
+
 ### About 說明 / 说明
 Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage)) are included for those that might not be displayed in the font, being less common or new.
 	
 Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8)
 
 ### Example 事例: 
 隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
 ![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)
 
 ### Acknowledgements 鳴謝 / 鸣谢	
-Unicode code point to character look-up performed using: [r12a Unicode conversion](https://r12a.github.io/app-conversion)<br>		
+Unicode code point to character look-up performed using: [r12a Unicode conversion](https://r12a.github.io/app-conversion)<br>
 ### Licences 許可證 / 许可证
 Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html). Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.<br>
 Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br>	
 
 
 ## [部首字典 Radical dictionary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E9%A6%96%E5%AD%97%E5%85%B8%20Radical%20dictionary)
+
 ### About 說明 / 说明
 A simple radical dictionary. Search by a radical number, from 1 to 214, to see a list of characters that are based on the radical. Alternatively, search for "index" for a list of all radicals.
 
 Uses character information from the Unihan project (v 13.0, 2020-02-18).
 	
 Note, the characters that show will depend on what fonts are installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG can show all the current Unihan characters.
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E9%A6%96%E5%AD%97%E5%85%B8%20Radical%20dictionary)
 
 ### Example 事例:
 
@@ -224,10 +265,13 @@ Note, the characters that show will depend on what fonts are installed. The [FSu
 See Unihan character dictionary above.<br><br><br>
 
 ## [維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E7%B6%AD%E5%9F%BA%E5%85%B1%E5%8F%A4%E6%BC%A2%E5%AD%97%E7%9A%84%E5%9C%96%E7%89%87%E8%B3%87%E6%96%99%E5%BA%AB%20Wikimedia%20Chinese%20Character%20Image%20Library)
+
 ### About 說明 / 说明
 A library of images of historical forms of Chinese characters, from Wikimedia Commons, for offline viewing.
 
 See [Wikimedia Ancient Chinese Characters Project](https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project) for further details.
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E7%B6%AD%E5%9F%BA%E5%85%B1%E5%8F%A4%E6%BC%A2%E5%AD%97%E7%9A%84%E5%9C%96%E7%89%87%E8%B3%87%E6%96%99%E5%BA%AB%20Wikimedia%20Chinese%20Character%20Image%20Library)
 
 ### Licences 許可證 / 许可证
 Public domain, except as otherwise specified.
@@ -238,21 +282,27 @@ Public domain, except as otherwise specified.
 
 <br><br><br>
 ## [Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Kanjinetworks%20-%20Etymological%20Dictionary%20of%20Han%20Chinese%20Characters)
+
 ### About 說明 / 说明
 A dictionary of meanings in Japanese, but also useful for etymology in Chinese. 
 
 ### Example 事例
 <font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.
 
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Kanjinetworks%20-%20Etymological%20Dictionary%20of%20Han%20Chinese%20Characters)
+
 ### Licence 許可證 / 许可证
 Freely distributed.<br><br><br>
 
 	
 ## [CJKVI Decomposition](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CJKVI%20Decomposition)
+
 ### About 說明 / 说明
 Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these are only visual suggestions - <i>they do not indicate the etymology</i> (how the character was first formed).
 	
 For further information, see the [readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md).
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CJKVI%20Decomposition)
 	
 ### Acknowledgements 鳴謝 / 鸣谢
 Based on sequences by the (CHISE) project, hosted at [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids), as part of [Kanji Database](http://kanji-database.sourceforge.net). This dictionary uses data modified to remove as many entity references as possible, at [cjkvi-ids-unicode](https://github.com/Transfusion/cjkvi-ids-unicode), by Transfusion.
@@ -262,6 +312,7 @@ Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids)
 
 	
 ## [教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
+
 ### About 說明 / 说明
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 
@@ -272,15 +323,18 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 ### Version 版本
 2015, revised 10th Oct 2020
 
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
+
 ### Licence 許可證 / 许可证
 [Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%28%E7%AC%AC%E4%BA%94%E7%89%88%29%20Taiwan%20MOE%20Dict/Licence%20-%20CC%20BY-ND%203.0.txt)
 
-### Original Files 資料來源
+### Source Files 資料來源
 [Taiwan Ministry of Education](https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html)<br>
 [WFG blog](http://fgwang.blogspot.com/2018/02/blog-post_14.html)<br><br><br>
 
 
 ## [教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8A%E6%88%90%E8%AA%9E%E5%85%B8%E3%80%8B%20Taiwan%20MOE%20Idiom%20Dictionary)
+
 ### About 說明 / 说明
 An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). These files are hosted here for those searching the web in English, and as a mirror of the original.
 
@@ -289,26 +343,34 @@ From the compiler's webpage:
 
 'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.' (Google-translate)
 
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8A%E6%88%90%E8%AA%9E%E5%85%B8%E3%80%8B%20Taiwan%20MOE%20Idiom%20Dictionary)
+
 ### Licence 許可證 / 许可证
 Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2021/12/blog-post_29.html))
 <br>[Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters/Licence%20-%20Non-Commercial%20-%20CC%20BY-ND%203.0.txt)<br><br><br>
 
 
 ## [部件檢索 Component Search Input Method](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method)
+
 ### About 說明 / 说明
-A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror of the original.
+A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror of the original.
 
 See also the [FSung font](https://github.com/lxs602/FSung-font) by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method)
 
 ### Licence 許可證 / 许可证
 Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2015/12/blog-post.html))<br><br><br>
 
 
 ## [全字庫 Quan Zi Ku](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
+
 A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror.
 
-### Original Files 資料來源
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
+
+### Source Files 資料來源
 [WFG blogspot](http://fgwang.blogspot.com/2020/07/blog-post_3.html)
 
 ### Licence 許可證 / 许可证
@@ -316,27 +378,36 @@ A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radical
 
 
 ## [干祿字書 Ganlu Zishu](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu)
+
 A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror of the original.
 
-### Original Files 資料來源
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu)
+
+### Source Files 資料來源
 [WFG blogspot](http://fgwang.blogspot.com/2019/04/blog-post.html) 
 ### Licence 許可證 / 许可证
 [Non-Commercial use only](http://fgwang.blogspot.com/2019/04/blog-post.html)<br><br><br>
 
 
 ## [康熙字典 Kangxi Radical Dictionary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary)
+
 A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror of the original.
 
-### Original Files 資料來源
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary)
+
+### Source Files 資料來源
 [WFG Blogspot](http://fgwang.blogspot.com/2018/12/blog-post_10.html)
 
 ### Licence 許可證
 [CC BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br><br><br>
 
 ## [說文解字 Shuowen Jiezi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi)
+
 The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror.
 
-### Original Files 資料來源
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi)
+
+### Source Files 資料來源
 [WFG Blogspot](http://fgwang.blogspot.com/2019/02/blog-post.html)
 
 ### Licence 許可證 / 许可证
@@ -344,9 +415,12 @@ The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML d
 
 
 ## [漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/H%C3%A0ny%C7%94%20D%C3%A0%20C%C3%ADdi%C7%8En%20-%20d%C4%81nc%C3%AD%20bi%C7%8Eo%20-%20wordlist)
+
 "Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993. This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition. It does not have definitions. The full dictionary, with definitions, is available in print and electronically; see the [Wikipedia page<a/> for details (accessed 2022-Feb-04).
 
-### Original Files 資料來源
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/H%C3%A0ny%C7%94%20D%C3%A0%20C%C3%ADdi%C7%8En%20-%20d%C4%81nc%C3%AD%20bi%C7%8Eo%20-%20wordlist)
+
+### Source Files 資料來源
 [hydcd wordlist](https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt)
 
 ### Licence 許可證
@@ -354,9 +428,12 @@ The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML d
 
 
 ## [中文人名语料库 Chinese / English Names Corpus](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese-English%20Names)
+
 A collection of Chinese family and personal names (with gender), and English (and Anglicised spellings of names from other languages) translated into Chinese.See [Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/README.md) file for further details.
 
-### Original Files 資料來源
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese-English%20Names)
+
+### Source Files 資料來源
 Adapted from [Chinese Names Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by Wainshine / ltccss
 
 ### Licence 许可证 / 許可證
@@ -364,9 +441,12 @@ Adapted from [Chinese Names Corpus](https://github.com/wainshine/Chinese-Names-C
 
 	
 ## [Zdic.net 汉典 Hàndiǎn](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En)
+
 A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci).
-	
-### Original Files 資料來源
+
+### [Download](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En)
+
+### Source Files 資料來源
 Converted from [Chinese Xinhua](https://github.com/pwxcoo/chinese-xinhua) by pwxcoo
 
 ### Licence 许可证 / 許可證
@@ -403,7 +483,7 @@ The CUV was chosen as it is widely used, in the public domain, and available alr
 ### Related Texts
 Another project which may be of interest is this <i>[Chinese-English comparison Bible](https://github.com/michaelchanwahyan/Bible)</i> by michaelchanwahyan, which has several free English and Chinese versions.
 
-### 資料來源 Original Files:
+### 資料來源 Source Files:
 https://ebible.org/webbe/ <br>
 https://www.o-bible.com/ <br>
 
