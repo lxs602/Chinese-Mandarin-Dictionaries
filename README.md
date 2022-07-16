@@ -93,10 +93,12 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br>\*English, Russian, numeral and punctuation characters removed from references [3] & [5].
 <br>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub>
 
+[GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)
+
 <br>
 <b>Licence 許可證 / 许可证</b><br>
 HTML licenced under CC BY-NC 4.0
-<br>[CC BY-NC 4.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)<br>
+
 <br><br>Data according to licences below:<br><br>
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
