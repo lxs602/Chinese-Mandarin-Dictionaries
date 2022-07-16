@@ -44,7 +44,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 </table>
 <br><br><br>
 
-## [CC-CEDICT - with enlarged characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20(with%20enlarged%20characters)
+## [CC-CEDICT - with enlarged characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20%28with%20enlarged%20characters%29)
 ### About 說明 / 说明
 The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions that otherwise do not belong in a dictionary.
 
@@ -54,7 +54,7 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, 
 [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict)<br><br><br>
 
 
-## [HanDeDict - English translation](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20(English%20machine%20translation)
+## [HanDeDict - English translation](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20%28English%20machine%20translation%29)
 ### About 說明 / 说明
 A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
 
@@ -64,7 +64,7 @@ A machine translation of HanDeDict into English (by DeepL translate). Intended t
 [HanDeDict](https://github.com/gugray/HanDeDict)<br><br><br>
 
 
-## [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20(Stroke%20animations)
+## [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20%28Stroke%20animations%29)
 ### About 說明 / 说明
 ![Han](https://user-images.githubusercontent.com/44102215/155223907-72400f35-5794-4d40-9b76-d2b49f041a60.gif)<br>
 
@@ -263,7 +263,7 @@ Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids)
 	
 ## [教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 ### About 說明 / 说明
-This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by [WFG]((http://fgwang.blogspot.com/2018/02/blog-post_14.html). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 
 ### Authorisation / 授權 (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -282,7 +282,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 
 ## [教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8A%E6%88%90%E8%AA%9E%E5%85%B8%E3%80%8B%20Taiwan%20MOE%20Idiom%20Dictionary)
 ### About 說明 / 说明
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG]((http://fgwang.blogspot.com). These files are hosted here for those searching the web in English, and as a mirror of the original.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). These files are hosted here for those searching the web in English, and as a mirror of the original.
 
 ### Please note:
 From the compiler's webpage:
