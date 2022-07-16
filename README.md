@@ -132,7 +132,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 </td><td>
 
-[Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
+[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
 
 </td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>
 
@@ -152,7 +152,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 </td><td>
 
-[Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
+[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
 
 </td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>
 
@@ -164,7 +164,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 </td><td>
 
-[Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
+[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
 
 </td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>
 
@@ -176,7 +176,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 </td><td>
 
-[Link](ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
+[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
 
 from: Chinese Lexicon, by Peter Olson. (See above)
 	
