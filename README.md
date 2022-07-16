@@ -75,7 +75,7 @@ Add description
 Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br>
 <b>Licence 許可證 / 许可证</b>
-<br>[GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animationsi%29/Licence%20-%20LGPL-3.0.txt)<br>
+<br>[GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)<br>
 <br><b>Original Files 資料來源</b>
 <br>[Makemeahanzi](https://github.com/skishore/makemeahanzi)<br><br>
   
@@ -95,7 +95,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 
 <br>
 <b>Licence 許可證 / 许可证</b><br>
-HTML licenced under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt)<br><br>Data according to licences below:<br>
+HTML licenced under [CC_BY_NC_4.0_Licence](Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt)<br><br>Data according to licences below:<br>
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
 <table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>Corpus reference</th><th>Corpus licence</th><th>Word list Source</th><th>Word list licence</th></tr>  <tr><td>1</td><td>”Chinese Word Frequencies”: <i> this dictionary</i></td><td>&nbsp;</td><td>As above</td><td>https://github.com/lxs602/Chinese-Mandarin-Dictionaries</font></td><td>&nbsp;</td></tr><tr><td>2</td><td>Character/Word freq. (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td><td>As for corpus</td></tr>  <tr><td>3</td><td>Character/Word freq. (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip</td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls</td><td>&nbsp;</td></tr>  <tr><td>9</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
@@ -172,13 +172,13 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 	
 <b>Licences 許可證 / 许可证</b><br>
 [數字輸入法 Chinese Input Methods](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br>
-[吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan/Licence%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br>
-[亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6%20East%20Asian%20%28JKVT%29%20Input%20Methods/Licence%20-%20About.md)<br><br>
+[吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods/Licence%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br>
+[亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/Japanese-Dictionaries/blob/main/East%20Asian%20%28JKVT%29%20Phonetic%20and%20Input%20Methods%20%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6/Licence%20-%20About.md)<br><br>
 	
 
 ## 統一漢字典 Unihan character dictionary
 <b>About 說明 / 说明</b><br>
-Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](www.Glyphwiki.org)) are included for those that might not be displayed in the font, being less common or new.
+Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://www.Glyphwiki.org)) are included for those that might not be displayed in the font, being less common or new.
 	
 Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
 
@@ -188,8 +188,8 @@ Example: 隷|U+FA2F, shown in both in the font and as an SVG picture:<br>
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>	
 Unicode code point to character look-up performed using: https://r12a.github.io/app-conversion/<br>		
 <br><b>Licences 許可證 / 许可证</b>
-<br>Unihan: [Unicode licence<a/>, Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
-<br>Glyphwiki:<br>[freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br>	
+<br>Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html), Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+<br>Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br>	
 
 
 ## 部首字典 Radical dictionary
@@ -236,12 +236,12 @@ Freely distributed.<br><br>
 <b>About 說明 / 说明</b><br>
 Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these do not indicate how the character was first formed.
 	
-For further information, see the [readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md>readme).
+For further information, see the [readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md).
 	
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>
-Based on sequences by the (CHISE) project, hosted at [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids>cjkvi-ids), as part of [Kanji Database](http://kanji-database.sourceforge.net). This dictionary uses data modified to remove as many entity references as possible, at [cjkvi-ids-unicode](https://github.com/Transfusion/cjkvi-ids-unicode>cjkvi-ids-unicode), by Transfusion.<br>	
+Based on sequences by the (CHISE) project, hosted at [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids), as part of [Kanji Database](http://kanji-database.sourceforge.net). This dictionary uses data modified to remove as many entity references as possible, at [cjkvi-ids-unicode](https://github.com/Transfusion/cjkvi-ids-unicode), by Transfusion.<br>	
 <br><b>Licences 許可證 / 许可证</b><br>
-Chise IDS: No licence, all rights reserved by chise.org, see https://gitlab.chise.org/CHISE/ids .<br>Interpretations and Hanyo Denshi analysis: [GPLv2](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md>GPLv2), see also https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net<br><br>
+Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids) by chise.org .<br>Interpretations and Hanyo Denshi analysis: [GPLv2](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md), see also https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net<br><br>
 
 	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
@@ -256,10 +256,10 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 <br>2015, revised 10th Oct 2020
 
 <b>Licence 許可證 / 许可证</b>
-<br>[Creative Commons NonCommercial 3.0 Unported Licence %28No derivatives%29](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%28%E7%AC%AC%E4%BA%94%E7%89%88%29%20Taiwan%20MOE%20Dict/Licence%20-%20CC%20BY-ND%203.0.txt)<br>
+<br>[Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%28%E7%AC%AC%E4%BA%94%E7%89%88%29%20Taiwan%20MOE%20Dict/Licence%20-%20CC%20BY-ND%203.0.txt)<br>
 <br><b>Original Files 資料來源</b>
 <br>[Taiwan Ministry of Education](https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html)
-<br>l[WFG blog](http://fgwang.blogspot.com/2018/02/blog-post_14.html)<br><br>
+<br>[WFG blog](http://fgwang.blogspot.com/2018/02/blog-post_14.html)<br><br>
 
 
 ## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
@@ -273,7 +273,7 @@ From the compiler's webpage:
 
 <b>Licence 許可證 / 许可证</b><br>
 Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2021/12/blog-post_29.html))
-<br>[Creative Commons NonCommercial 3.0 Unported Licence %28No derivatives%29](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters/Licence%20-%20Non-Commercial%20-%20CC%20BY-ND%203.0.txt)<br><br>
+<br>[Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters/Licence%20-%20Non-Commercial%20-%20CC%20BY-ND%203.0.txt)<br><br>
 
 
 ## 部件檢索 Component Search Input Method
@@ -289,7 +289,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/201
 
 
 ## 全字庫 Quan Zi Ku
-A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com/>WFG). This file is hosted here for those searching the web in English, and as a mirror.
+A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror.
 
 <b>Original Files 資料來源</b> <br>
 [WFG blogspot](http://fgwang.blogspot.com/2020/07/blog-post_3.html)<br><br>
@@ -298,7 +298,7 @@ A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radical
 
 
 ## 干祿字書 Ganlu Zishu
-A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com/>WFG). This file is hosted here for those searching the web in English, and as a mirror of the original.
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror of the original.
 
 <b>Original Files 資料來源</b> <br>
 [WFG blogspot](http://fgwang.blogspot.com/2019/04/blog-post.html) <br><br>
@@ -307,7 +307,7 @@ Non-Commercial use only<br><br>
 
 
 ## 康熙字典 Kangxi Radical Dictionary
-A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com/>WFG). This file is hosted here for those searching the web in English, and as a mirror of the original.
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror of the original.
 
 <b>Original Files 資料來源</b><br>
 [WFG Blogspot](http://fgwang.blogspot.com/2018/12/blog-post_10.html) <br><br>
@@ -316,7 +316,7 @@ A character dictionary compiled by order of the Kangxi emperor of the Qing dynas
 
 
 ## 說文解字 Shuowen Jiezi
-The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com/>WFG). This file is hosted here for those searching the web in English, and as a mirror.
+The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror.
 
 <b>Original Files 資料來源</b><br>
 [WFG Blogspot](http://fgwang.blogspot.com/2019/02/blog-post.html)<br><br>
