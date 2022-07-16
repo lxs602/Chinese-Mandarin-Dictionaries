@@ -151,6 +151,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 [Link](http://corpus.leeds.ac.uk/internet/i-zh.num)
 
 </td><td>
+
 [Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
 
 </td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>
@@ -177,7 +178,9 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 [Link](ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
 
-, from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
+from: Chinese Lexicon, by Peter Olson. (See above)
+	
+</td><td>As for corpus</td></tr></table>  
 <sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br>
 
 
