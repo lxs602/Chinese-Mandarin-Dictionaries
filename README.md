@@ -93,7 +93,6 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br>\*English, Russian, numeral and punctuation characters removed from references [3] & [5].
 <br>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub>
 
-<br>
 
 ### Licence 許可證 / 许可证
 Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/License.txt)
@@ -131,7 +130,7 @@ XDict, the free English to Chinese dictionary, originally developed by Fu Jianju
 ### Licence 許可證 / 许可证
 XDICT是一个freeware,大致按照GPL传播.<br>
 ### Original Files 資料來源
-[Dict-xdict](http://archive.ubuntu.com/ubuntu/pool/universe/d/dict-xdict/dict-xdict_0.1-4.2_all.deb)<br>
+[Dict-xdict](http://archive.ubuntu.com/ubuntu/pool/universe/d/dict-xdict/dict-xdict_0.1-4.2_all.deb)<br><br><br>
 
 
 ## Adso trans <br>
@@ -161,7 +160,7 @@ https://github.com/peterolson/chinese-lexicon<br><br><br>
 ### About 說明 / 说明
 A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded December 2020, with 47969 phrases. “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
 ### Licence 許可證 / 许可证
-[CC BY 2.0 FR](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Tatoeba%20Chinese-English%20Vocabulary/Licence%20-%20CC%20BY%202.0%20FR)<br>
+[CC BY 2.0 FR](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Tatoeba%20Chinese-English%20Vocabulary/Licence%20-%20CC%20BY%202.0%20FR)<br><br><br>
 	
 
 ## 新华字典 Xīnhuá Zìdiǎn character dictionary
@@ -188,7 +187,7 @@ See also: <br>
 ### Licences 許可證 / 许可证
 [數字輸入法 Chinese Input Methods](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br>
 [吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods/Licence%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br>
-[亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/Japanese-Dictionaries/blob/main/East%20Asian%20%28JKVT%29%20Phonetic%20and%20Input%20Methods%20%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6/Licence%20-%20About.md)<br>
+[亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/Japanese-Dictionaries/blob/main/East%20Asian%20%28JKVT%29%20Phonetic%20and%20Input%20Methods%20%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6/Licence%20-%20About.md)<br><br><br>
 	
 
 ## 統一漢字典 Unihan character dictionary
@@ -197,7 +196,8 @@ Contains the complete range of characters from the Unihan project, and selected 
 	
 Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
 
-Example 事例: 隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
+### Example 事例: 
+隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
 ![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)
 
 ### Acknowledgements 鳴謝 / 鸣谢	
@@ -292,14 +292,14 @@ From the compiler's webpage:
 
 ### Licence 許可證 / 许可证
 Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2021/12/blog-post_29.html))
-<br>[Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters/Licence%20-%20Non-Commercial%20-%20CC%20BY-ND%203.0.txt)<br>
+<br>[Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters/Licence%20-%20Non-Commercial%20-%20CC%20BY-ND%203.0.txt)<br><br><br>
 
 
 ## 部件檢索 Component Search Input Method
 ### About 說明 / 说明
 A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror of the original.
 
-See also the [FSung font](https://github.com/lxs602/FSung-font) by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br>
+See also the [FSung font](https://github.com/lxs602/FSung-font) by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 ### Licence 許可證 / 许可证
@@ -332,8 +332,7 @@ A character dictionary compiled by order of the Kangxi emperor of the Qing dynas
 [WFG Blogspot](http://fgwang.blogspot.com/2018/12/blog-post_10.html)
 
 ### Licence 許可證
-<br>[CC BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br><br><br>
-
+[CC BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br><br><br>
 
 ## 說文解字 Shuowen Jiezi
 The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML designed by [WFG](http://fgwang.blogspot.com). This file is hosted here for those searching the web in English, and as a mirror.
