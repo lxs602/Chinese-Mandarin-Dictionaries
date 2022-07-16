@@ -95,7 +95,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 
 <br>
 <b>Licence 許可證 / 许可证</b><br>
-HTML licenced under [CC_BY_NC_4.0_Licence](Chinese%20Word%20Frequencies/CC%20BY-NC%204.0%20Licence.txt)<br><br>Data according to licences below:<br>
+HTML licenced under [CC_BY_NC_4.0_Licence](Chttps://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/Licence.tx)<br><br>Data according to licences below:<br>
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
 <table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>Corpus reference</th><th>Corpus licence</th><th>Word list Source</th><th>Word list licence</th></tr>  <tr><td>1</td><td>”Chinese Word Frequencies”: <i> this dictionary</i></td><td>&nbsp;</td><td>As above</td><td>https://github.com/lxs602/Chinese-Mandarin-Dictionaries</font></td><td>&nbsp;</td></tr><tr><td>2</td><td>Character/Word freq. (Books)</td><td>Da, Jun. 2004. Chinese text computing. http://lingua.mtsu.edu/chinese-computing </td><td>https://lingua.mtsu.edu/chinese-computing/copyright.html</td><td>Chinese Lexicon, by Peter Olson. https://github.com/peterolson/chinese-lexicon/tree/master/statistics</td><td>As for corpus</td></tr>  <tr><td>3</td><td>Character/Word freq. (Movies)</td><td>Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729. https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003. https://catalog.ldc.upenn.edu/LDC2003T09</td><td>LDC User Agreement for Non-Members https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf</td><td>http://corpus.leeds.ac.uk/frqc/giga-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip</td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna, http://wackybook.sslmit.unibo.it</td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>http://corpus.leeds.ac.uk/internet/i-zh.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>The Lancaster Corpus of Mandarin Chinese  End User License https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm</td><td>http://corpus.leeds.ac.uk/frqc/lcmc.num</td><td>corpus.leeds.ac.uk/list.html “The lists are distributed under the Creative Commons (CC BY) Attribution license”: https://creativecommons.org/licenses/by/2.5/legalcode</td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls</td><td>&nbsp;</td></tr>  <tr><td>9</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>https://www.unicode.org/license.html</td><td>ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
@@ -124,7 +124,7 @@ XDICT是一个freeware,大致按照GPL传播.<br>
 <b>About 說明 / 说明</B><br>
 A Chinese-English dictionary, from the [ADSO project](https://github.com/wtanaka/adso) by David Lancashire. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
 <br>
-<i>Using the adso translation project application itself</i>) is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at [Popup Chinese](http://www.popupchinese.com/tools/adso).
+<i>Using the adso translation project application itself</i>) is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at [Popup Chinese](http://popupchinese.com/tools/adso).
 <br>
 <br><b>Licence 許可證 / 许可证</b>
 <br>[Adsotrans Attribution-NonCommercial License 1.1](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html)<br>
@@ -178,17 +178,17 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>
 
 ## 統一漢字典 Unihan character dictionary
 <b>About 說明 / 说明</b><br>
-Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://www.Glyphwiki.org)) are included for those that might not be displayed in the font, being less common or new.
+Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage)) are included for those that might not be displayed in the font, being less common or new.
 	
 Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
 
-Example: 隷|U+FA2F, shown in both in the font and as an SVG picture:<br>
+Example: 隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
 ![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)
 
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>	
-Unicode code point to character look-up performed using: https://r12a.github.io/app-conversion/<br>		
+Unicode code point to character look-up performed using: [r12a Unicode conversion](https://r12a.github.io/app-conversion)<br>		
 <br><b>Licences 許可證 / 许可证</b>
-<br>Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html), Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+<br>Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html). Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 <br>Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br>	
 
 
@@ -246,7 +246,7 @@ Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids)
 	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
-This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by (WFG). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by (WFG). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 <br>
 <br><b>Authorisation / 授權</b> (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -277,11 +277,10 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/202
 
 
 ## 部件檢索 Component Search Input Method
-## 全宋體 - FSung font
 <b>About 說明 / 说明</b><br>
 A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror of the original.
 
-See also the FSung font by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
+See also the [FSong](https://github.com/lxs602/FSung-font) by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b><br>
@@ -303,7 +302,7 @@ A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official E
 <b>Original Files 資料來源</b> <br>
 [WFG blogspot](http://fgwang.blogspot.com/2019/04/blog-post.html) <br><br>
 <b>Licence 許可證 / 许可证</b><br>
-Non-Commercial use only<br><br>
+[Non-Commercial use only](http://fgwang.blogspot.com/2019/04/blog-post.html)<br><br>
 
 
 ## 康熙字典 Kangxi Radical Dictionary
@@ -312,7 +311,7 @@ A character dictionary compiled by order of the Kangxi emperor of the Qing dynas
 <b>Original Files 資料來源</b><br>
 [WFG Blogspot](http://fgwang.blogspot.com/2018/12/blog-post_10.html) <br><br>
 <b>Licence 許可證</b>
-<br>[CC BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt>CC BY-SA 3.0)<br><br>
+<br>[CC BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary/Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89.txt)<br><br>
 
 
 ## 說文解字 Shuowen Jiezi
@@ -321,7 +320,7 @@ The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compiled and HTML d
 <b>Original Files 資料來源</b><br>
 [WFG Blogspot](http://fgwang.blogspot.com/2019/02/blog-post.html)<br><br>
 <b>Licence 許可證 / 许可证</b><br>
-Non-Commercial use only<br><br>
+[Non-Commercial use only](http://fgwang.blogspot.com/2019/02/blog-post.html) <br><br>
 
 
 ## 漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list
@@ -347,7 +346,8 @@ A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.c
 <b>Original Files 資料來源</b><br>
 Converted from [Chinese Xinhua](https://github.com/pwxcoo/chinese-xinhua) by pwxcoo<br>
 <br><b>Licence 许可证 / 許可證</b><br>
-May be Public Domain, see [Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En/Licence%20%E8%AE%B8%E5%8F%AF%E8%AF%81.md>Licence) for details.<br><br>
+May be Public Domain, see [Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En/Licence%20%E8%AE%B8%E5%8F%AF%E8%AF%81.md) for details.<br><br>
+
 
 	
 ## ~~串珠聖經和英文翻 /串珠圣经和英文翻 Chinese Bible concordance and English Translation~~
@@ -369,8 +369,8 @@ This dictionary was made to be a resource for learning English/Chinese, as the B
 Additionally, for anyone interested primarily in studying God's word, though in English it has many concordances, there is perhaps only [one](http://akow.org/product/%e8%a7%a3%e6%9e%90%e5%bc%8f%e6%96%b0%e7%b4%84%e7%b6%93%e6%96%87%e5%bd%99%e7%b7%a8>one) in Chinese, for the New Testament only. 
 <br><br>
 <b>發展 / 发展 Compilation</b><br>
-中文分词利用[pywordseg](https://github.com/voidism/pywordseg>pywordseg) (ELMo) 系統未經校核親自的。請經文錯誤回報給開發者。<br>
-中文分词利用[pywordseg](https://github.com/voidism/pywordseg>pywordseg) (ELMo) 系统未经校核亲自的。请经文错误回报给开发者。<br><br>
+中文分词利用[pywordseg](https://github.com/voidism/pywordseg) (ELMo) 系統未經校核親自的。請經文錯誤回報給開發者。<br>
+中文分词利用[pywordseg](https://github.com/voidism/pywordseg) (ELMo) 系统未经校核亲自的。请经文错误回报给开发者。<br><br>
 Chinese words have been segmented automatically, without checking in person. <i>Please report any errors you find.</i><br><br>
 Word segmentation was with [pywordseg (ELMo)](https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of [Bible names and places](https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using [word_line_concordance_app](https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br><br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified, so there may be different mistakes in each version.  
 
@@ -392,13 +392,13 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 
 ## Acknowledgements 鳴謝/鸣谢
 
-[GoldenDict](https://github.com/goldendict/goldendict>GoldenDict) - Dictionary software for Linux, Windows and Mac.
+[GoldenDict](https://github.com/goldendict/goldendict) - Dictionary software for Linux, Windows and Mac.
 
-[WriteMDict](https://github.com/zhansliu/writemdict>WriteMDict) by Zhansilu
+[WriteMDict](https://github.com/zhansliu/writemdict) by Zhansilu
 
-[Mdict-utils](https://github.com/liuyug/mdict-utils>Mdict-utils) by Liuyug
+[Mdict-utils](https://github.com/liuyug/mdict-utils) by Liuyug
 
-[Peazip](https://peazip.github.io>Peazip) by Giorgio Tani
+[Peazip](https://peazip.github.io) by Giorgio Tani
 
-[Bandizip](https://en.bandisoft.com/bandizip>Bandizip)
+[Bandizip](https://en.bandisoft.com/bandizip)
 
