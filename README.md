@@ -284,7 +284,7 @@ A simple radical dictionary. Search by a radical number, from 1 to 214, to see a
 
 Uses character information from the Unihan project (v 13.0, 2020-02-18).
 	
-Note, the characters that show will depend on what fonts are installed. The [FSong](https://github.com/lxs602/FSung-font) font by WFG can show all the current Unihan characters.
+Note, the characters that show will depend on what fonts are installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG can show all the current Unihan characters.
 
 <b>Example:</b>
 
@@ -332,7 +332,7 @@ Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids)
 	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 <b>About 說明 / 说明</b><br>
-This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by (WFG). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first released in 2015. Total entries: 163, 085. Compiled and with HTML design by [WFG]((http://fgwang.blogspot.com/2018/02/blog-post_14.html). This file is a mirror of the original version, hosted here for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 <br>
 <br><b>Authorisation / 授權</b> (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -350,7 +350,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 
 ## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
 <b>About 說明 / 说明</b><br>
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by WFG. These files are hosted here for those searching the web in English, and as a mirror of the original.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG]((http://fgwang.blogspot.com). These files are hosted here for those searching the web in English, and as a mirror of the original.
 
 <b>Please note:</b>
 From the compiler's webpage:
@@ -366,7 +366,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/202
 <b>About 說明 / 说明</b><br>
 A new input method by WFG, available as a webpage for offline use, with a dictionary module also available. These files are hosted here for those searching the web in English, and as a mirror of the original.
 
-See also the [FSong](https://github.com/lxs602/FSung-font) by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
+See also the [FSung font](https://github.com/lxs602/FSung-font) by WFG, coding approximately 170,000 characters (including Unicode ext. A-G.) which may be needed.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 <br><b>Licence 許可證 / 许可证</b><br>
