@@ -249,7 +249,7 @@ Freely distributed.<br><br>
 ## CJKVI Decomposition
 
 <b>About 說明 / 说明</b><br>
-Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these do not indicate how the character was first formed.
+Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these are only visual suggestions - <i>they do not indicate the etymology</i> (how the character was first formed).
 	
 For further information, see the [readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md).
 	
