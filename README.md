@@ -253,8 +253,8 @@ Example: 析<br>
 
 
 <b>資料來源 Original Files:</b><br>
-https://github.com/chinese-opendesktop/cin-tables <br>
-https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>	 
+[Chinese open-desktop tables](https://github.com/chinese-opendesktop/cin-tables) <br>
+[Openvanilla tables](https://github.com/openvanilla/openvanilla/tree/master/DataTables) <br>	 
 	
 <b>Licences 許可證 / 许可证</b><br>
 [數字輸入法 Chinese Input Methods](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br>
@@ -327,7 +327,7 @@ For further information, see the [readme](https://github.com/lxs602/Chinese-Mand
 <b>Acknowledgements 鳴謝 / 鸣谢</b><br>
 Based on sequences by the (CHISE) project, hosted at [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids), as part of [Kanji Database](http://kanji-database.sourceforge.net). This dictionary uses data modified to remove as many entity references as possible, at [cjkvi-ids-unicode](https://github.com/Transfusion/cjkvi-ids-unicode), by Transfusion.<br>	
 <br><b>Licences 許可證 / 许可证</b><br>
-Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids) by chise.org .<br>Interpretations and Hanyo Denshi analysis: [GPLv2](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md), see also https://github.com/cjkvi/cjkvi-ids and http://kanji-database.sourceforge.net<br><br>
+Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids) by chise.org .<br>Interpretations and Hanyo Denshi analysis: [GPLv2](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md), see also [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) and [Kanji database](http://kanji-database.sourceforge.net)<br><br>
 
 	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
