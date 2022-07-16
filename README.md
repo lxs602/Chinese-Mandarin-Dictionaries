@@ -118,7 +118,11 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 [Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm)
 
-</td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>
+</td><td>Creative Commons Attribution Licence</td><td>
+	
+[Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)
+	
+</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>
 
 [Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003](https://catalog.ldc.upenn.edu/LDC2003T09)
 
@@ -140,7 +144,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 </td><td>
 
-[Link](ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
+[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
 
 </td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>
 
@@ -178,7 +182,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 [Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
 
-from: Chinese Lexicon, by Peter Olson. (See above)
+from: [Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)
 	
 </td><td>As for corpus</td></tr></table>  
 <sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br>
