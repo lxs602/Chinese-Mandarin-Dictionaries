@@ -93,7 +93,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br>\*English, Russian, numeral and punctuation characters removed from references [3] & [5].
 <br>Corpora [3],[4] and [5] have been re-ranked in order of frequencies, taking into account joint rankings. Where two entries have the same prevalence, they are both ranked e.g. “≥2124”, with the next entry ranked as “2126”.</sub>
 
-
+<br><br><br>
 
 
 <b>Licence 許可證 / 许可证</b>
