@@ -96,7 +96,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 <br><br>
 
 
-<b>Licence 許可證 / 许可证</b>
+<b>Licence 許可證 / 许可证</b><br>
 Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/License.txt)
 
 
