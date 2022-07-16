@@ -103,43 +103,80 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
 <table border='1px' cellspacing='0' cellpadding='3px'><th>&nbsp;</th><th>Heading</th><th>Corpus reference</th><th>Corpus licence</th><th>Word list Source</th><th>Word list licence</th></tr>  <tr><td>1</td><td>”Chinese Word Frequencies”: <i> this dictionary</i></td><td>&nbsp;</td><td>As above</td><td></font></td><td>&nbsp;</td></tr><tr><td>2</td><td>Character/Word freq. (Books)</td><td>
+	
 [Da, Jun. 2004. Chinese text computing](http://lingua.mtsu.edu/chinese-computing)
+
 </td><td>
+
 [Copyright notice](https://lingua.mtsu.edu/chinese-computing/copyright.html)	
+
 </td><td>
+
 [Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)
+
 </td><td>As for corpus</td></tr> <tr><td>3</td><td>Character/Word freq. (Movies)</td><td>
-[Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm) 
+
+[Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm)
+
 </td><td>Creative Commons Attribution Licence</td><td>Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr>  <tr><td>4</td><td>Word freq. (Mixed Print)</td><td>
+
 [Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003](https://catalog.ldc.upenn.edu/LDC2003T09)
+
 </td><td>
+
 [LDC User Agreement for Non-Members](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf)
+
 </td><td>
+
 [Link](http://corpus.leeds.ac.uk/frqc/giga-zh.num)
+
 </td><td>
+
 [Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
+
 </td></tr><tr><td>5</td><td>Character freq. (Usenet)</td><td>kFrequency field in UniHan database, Unicode version: 11.0.0</td><td>
+
 [Link](https://www.unicode.org/license.html)
+
 </td><td>
+
 [Link](ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
+
 </td><td>As for corpus</td></tr>  <tr><td>6</td><td>Word freq. (Internet)</td><td>
+
 [Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna](http://wackybook.sslmit.unibo.it)
+
 </td><td>Creative Commons Attribution-NoDerivs 2.5 License</td><td>
+
 [Link](http://corpus.leeds.ac.uk/internet/i-zh.num)
+
 </td><td>
 [Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
+
 </td></tr>  <tr><td>7</td><td>Word freq. (News)</td><td>McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.</td><td>
+
 [The Lancaster Corpus of Mandarin Chinese End User License](https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm)
+
 </td><td>
+
 [Link](http://corpus.leeds.ac.uk/frqc/lcmc.num)
+
 </td><td>
+
 [Link](http://corpus.leeds.ac.uk/list.html) [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)
+
 </td></tr>  <tr><td>8</td><td>HSK Levels</td><td>&nbsp;</td><td>&nbsp;</td><td>
+
 [Link](http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls)
+
 </td><td>&nbsp;</td></tr>  <tr><td>9</td><td>Pinyin ratios</td><td>kHanyuPinlu field in UniHan database, Unicode version: 11.0.0</td><td>
+
 [Link](https://www.unicode.org/license.html)
+
 </td><td>
+
 [Link](ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip)
+
 , from: Chinese Lexicon, by Peter Olson. (See above)</td><td>As for corpus</td></tr></table>  
 <sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br>
 
