@@ -77,7 +77,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 ### Licence 許可證 / 许可证
 [GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)
 ### Original Files 資料來源
-[Makemeahanzi](https://github.com/skishore/makemeahanzi)<br>
+[Makemeahanzi](https://github.com/skishore/makemeahanzi)<br><br><br>
   
   
 ## Chinese Word Frequencies 词频分析 / 詞頻分析
