@@ -95,9 +95,8 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 
 <br>
 <b>Licence 許可證 / 许可证</b><br>
-HTML licenced under CC BY-NC 4.0 
-[Licence]
-[Licence]: https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/License.txt
+HTML licenced under CC BY-NC 4.0
+<br>[CC BY-NC 4.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)<br>
 <br><br>Data according to licences below:<br><br>
 <b>Sources of word frequency data and their licences:</b>
 <br><br>
