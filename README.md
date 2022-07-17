@@ -142,9 +142,11 @@ Assembled from the freely available BCC corpus dictionary, with 42,784 terms. Th
 [BCC BLCU Resources](http://bcc.blcu.edu.cn/downloads/resources/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8.zip)<br><br><br>
 
 ## [XDICT 英汉词典 (English-Chinese Dictionary)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8)
-### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8)
+
 ### About 說明 / 说明
 XDict, the free English to Chinese dictionary, originally developed by Fu Jianjun, with about 177,000 terms.<br>
+
+### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8)
 
 ### Licence 許可證 / 许可证
 XDICT是一个freeware,大致按照GPL传播.<br>
@@ -157,7 +159,7 @@ XDICT是一个freeware,大致按照GPL传播.<br>
 ### About 說明 / 说明
 A Chinese-English dictionary, from the [ADSO project](https://github.com/wtanaka/adso) by David Lancashire. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
 
-<i>Using the adso translation project application itself</i>) is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. An online version is hosted at [Popup Chinese](http://popupchinese.com/tools/adso).
+<i>Using the adso translation project application itself</i> is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. Install using the source files below, or use an online version is hosted at [Popup Chinese](http://popupchinese.com/tools/adso).
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/ADSO)
 
