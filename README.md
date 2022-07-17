@@ -338,7 +338,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 [WFG blog](http://fgwang.blogspot.com/2018/02/blog-post_14.html)<br><br><br>
 
 
-## [教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8A%E6%88%90%E8%AA%9E%E5%85%B8%E3%80%8B%20Taiwan%20MOE%20Idiom%20Dictionary)
+## [教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 
 ### About 說明 / 说明
 An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
@@ -348,7 +348,9 @@ From the compiler's webpage:
 
 'Since the "Dictionary of Variants of the Ministry of Education" has not been authorized as openly as the "Mandarin Dictionary", I cannot open the complete offline dictionary for everyone to use (infringement will be involved). The compromise method is that I discard all the definitions and leave only the prefixes, and make a "Ministry of Education Variant Character Index Dictionary", so that after checking the words with "component retrieval", you can use this index dictionary to look up the words and check them. After that, click on the font size link to automatically jump to the official page.' (Google-translate)
 
-### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8A%E6%88%90%E8%AA%9E%E5%85%B8%E3%80%8B%20Taiwan%20MOE%20Idiom%20Dictionary)
+由於《教育部異體字字典》尚未像《國語辭典》一樣開放授權，我無法將完整的離線辭典開放給大家使用（會涉及侵權）。折衷的辦法是我捨去所有釋義的內容，只留下字頭，做成一部《教育部異體字索引字典》，方便大家以「部件檢索」檢字之後，利用這個索引字典來查字，查得之後點擊字號連結便能自動跳轉至官方頁面（我曾去函向國教院請教，以連結的方式跳轉至官方頁面，應該沒有侵權的問題）。
+
+### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 
 ### Licence 許可證 / 许可证
 Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2021/12/blog-post_29.html))
