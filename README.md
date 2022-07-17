@@ -133,7 +133,7 @@ Sources of word frequency data and their licences:
 ## [BCC 英汉词典 - BCC Corpus English-Chinese Wordlist](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
 ### Note:
-Assembled from the freely available BCC corpus dictionary, with 42,784 terms. The original file had some spelling errors, and though it has been proof-read in English, some may remain. May be a good accompaniment to other dictioanries, as it contains some uncommon words and national variants.<br>
+Assembled from the freely available BCC corpus dictionary, with 42,784 terms. This has been proofread for spelling errors in English in the source files, , but some may remain. May be a good accompaniment to other dictioanries, as it contains some uncommon words and national variants.<br>
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
