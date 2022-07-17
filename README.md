@@ -133,7 +133,7 @@ Sources of word frequency data and their licences:
 ## [BCC 英汉词典 - BCC Corpus English-Chinese Wordlist](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
 ### Note:
-Assembled from the freely available BCC corpus dictionary, with 42,784 terms. This has been proofread for spelling errors in English in the source files, , but some may remain. May be a good accompaniment to other dictioanries, as it contains some uncommon words and national variants.<br>
+Assembled from the freely available BCC corpus dictionary, with 42,784 terms. This has been proofread for spelling errors in English in the source files, but some may remain. May be a good accompaniment to other dictionaries, as it contains some uncommon words and national variants.<br>
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
@@ -319,7 +319,7 @@ Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids)
 ## [教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 
 ### About 說明 / 说明
-This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first produced in 2015. Total entries: 163, 085. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first produced in 2015. Total entries: 163, 085. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 
 ### Authorisation / 授權 (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -341,7 +341,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 ## [教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 
 ### About 說明 / 说明
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
 ### Please note:
 From the compiler's webpage:
@@ -360,9 +360,9 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/202
 ## [部件檢索 Component Search Input Method](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method)
 
 ### About 說明 / 说明
-A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as a webpage for offline use, with a dictionary module also available. An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as both a webpage and this dictionary module. <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
-A font such as [FSung font](https://github.com/lxs602/FSung-font) by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) may be needed for this to work fully.<br><br>
+A font such as [FSung font](https://github.com/lxs602/FSung-font) by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) is needed for this to work fully.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method)
@@ -373,7 +373,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/201
 .
 ## [全字庫 Quan Zi Ku](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
 
-A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
 
@@ -386,7 +386,7 @@ A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radical
 
 ## [干祿字書 Ganlu Zishu](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu)
 
-A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu)
 
@@ -398,7 +398,7 @@ A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official E
 
 ## [康熙字典 Kangxi Radical Dictionary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary)
 
-A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary)
 
@@ -410,7 +410,7 @@ A character dictionary compiled by order of the Kangxi emperor of the Qing dynas
 
 ## [說文解字 Shuowen Jiezi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi)
 
-The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi)
 
@@ -511,4 +511,3 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 [Peazip](https://peazip.github.io) by Giorgio Tani
 
 [Bandizip](https://en.bandisoft.com/bandizip)
-
