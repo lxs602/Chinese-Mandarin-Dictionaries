@@ -47,7 +47,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 ## [CC-CEDICT - with enlarged characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20%28with%20enlarged%20characters%29)
 
 ### About 說明 / 说明
-The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, and without a small handful of obscene terms or definitions that otherwise do not belong in a dictionary.
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (and without a small handful of obscene terms / definitions removed).
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20%28with%20enlarged%20characters%29/Licence%20CC%20BY-SA%203.0.txt) <br>
@@ -61,7 +61,7 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading, 
 ## [HanDeDict - English translation](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20%28English%20machine%20translation%29)
 
 ### About 說明 / 说明
-A machine translation of HanDeDict into English (by DeepL translate). Intended to accompany cc-cedict, so terms already present in cc-cedict were omitted, along with a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
+A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Only terms not already present in cc-cedict are included, but with the exception of a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/HanDeDict%20%28English%20machine%20translation%29/Licence%20-%20CC%20BY-SA%202.0) <br>
@@ -133,7 +133,7 @@ Sources of word frequency data and their licences:
 ## [BCC 英汉词典 - BCC Corpus English-Chinese Wordlist](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
 ### Note:
-Assembled from the freely available BCC corpus dictionary, with 42,784 terms. The original file had some spelling errors, and though it has been proof-read in English, some may remain. Contains some uncommon words and national variants, so would be a good accompaniment to other dictionaries.<br>
+Assembled from the freely available BCC corpus dictionary, with 42,784 terms. The original file had some spelling errors, and though it has been proof-read in English, some may remain. May be a good accompaniment to other dictioanries, as it contains some uncommon words and national variants.<br>
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
@@ -158,7 +158,7 @@ XDICT是一个freeware,大致按照GPL传播.<br>
 ### About 說明 / 说明
 A Chinese-English dictionary, from the [ADSO project](https://github.com/wtanaka/adso) by David Lancashire. Source file derived from the Speaking English Dictionary, by Warren S. Goff, which also appears to include entries from the LDC wordlist.<br>
 
-<i>Using the adso translation project application itself</i> is recommended over using this particular dictionary, as it has as-you-type translation of <i>phrases</i>, similar to Google or Bing Translate. Install with the source files below, or use a web version, at [Popup Chinese](http://popupchinese.com/tools/adso).
+<i>Using the adso translation project application itself</i> is recommended over using this particular dictionary, as it translates <i>phrases</i> (rather than words) as-you-type, similar to Google or Bing Translate. Install from the source files below, or use the web version, at [Popup Chinese](http://popupchinese.com/tools/adso).
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/ADSO)
 
@@ -185,7 +185,9 @@ Freely available
 ## [Tatoeba Chinese-English Vocabulary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
 
 ### About 說明 / 说明
-A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Dowloaded December 2020, with 47969 phrases. “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
+A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Contains 47969 phrases (dowloaded December 2020). 
+
+“Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
 
@@ -229,7 +231,7 @@ See also: <br>
 ## [統一漢字典 Unihan character dictionary](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8)
 
 ### About 說明 / 说明
-Contains the complete range of characters from the Unihan project, and selected properties, for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage)) are included for those that might not be displayed in the font, being less common or new.
+Contains the complete range of characters from the Unihan project, and character properties suitable for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage)) are included for those that might be less common or new, and not displayed depending on the fonts installed.
 	
 Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
 
