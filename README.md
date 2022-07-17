@@ -255,7 +255,7 @@ A simple radical dictionary. Search by a radical or its number, from 1 to 214, t
 
 Alternatively, search for "index" for a list of all radicals.
 
-Uses character information from the Unihan project (v 13.0, 2020-02-18).
+Based on the the Unihan project (v13.0, 2020-02-18).
 	
 Note, the characters that display will depend on fonts installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG can show all the current Unihan characters.
 
