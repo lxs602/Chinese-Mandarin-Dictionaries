@@ -55,7 +55,7 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20%28with%20enlarged%20characters%29)
 
 ### Source Files 資料來源
-[CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict)<br><br><br>
+[CC-CEDICT project](https://www.mdbg.net/chinese/dictionary?page=cc-cedict)<br><br><br>
 
 
 ## [HanDeDict - English translation](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20%28English%20machine%20translation%29)
@@ -69,7 +69,7 @@ A machine translation of HanDeDict into English (by DeepL translate), intended t
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/HanDeDict%20%28English%20machine%20translation%29)
 
 ### Source Files 資料來源
-[HanDeDict](https://github.com/gugray/HanDeDict)<br><br><br>
+[HanDeDict project](https://github.com/gugray/HanDeDict)<br><br><br>
 
 
 ## [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20%28Stroke%20animations%29)
@@ -362,7 +362,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/202
 ### About 說明 / 说明
 A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as both a webpage and this dictionary module. <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
 
-A font such as [FSung font](https://github.com/lxs602/FSung-font) by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) is needed for this to work fully.<br><br>
+A font such as [FSung](https://github.com/lxs602/FSung-font) by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) is needed for this to work fully.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method)
