@@ -423,7 +423,7 @@ The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compilation and HTM
 
 ## [漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/H%C3%A0ny%C7%94%20D%C3%A0%20C%C3%ADdi%C7%8En%20-%20d%C4%81nc%C3%AD%20bi%C7%8Eo%20-%20wordlist)
 
-"Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993. This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition. It does not give definitions, but should allow checking of whether word exists in this dictionary. The full dictionary, with definitions, is available in print and electronically; see the Wikipedia page (link pending) for details (accessed 2022-Feb-04).
+"Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993. This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition. It does not give definitions, but should allow checking of whether word exists in this dictionary. The full dictionary, with definitions, is available in print and electronically; see the [Wikipedia page](https://zh.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E%E5%A4%A7%E8%A9%9E%E5%85%B8) for details (accessed 2022-Feb-04).
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/H%C3%A0ny%C7%94%20D%C3%A0%20C%C3%ADdi%C7%8En%20-%20d%C4%81nc%C3%AD%20bi%C7%8Eo%20-%20wordlist)
 
@@ -507,6 +507,8 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 [WriteMDict](https://github.com/zhansliu/writemdict) by Zhansilu
 
 [Mdict-utils](https://github.com/liuyug/mdict-utils) by Liuyug
+
+[OpenCC](https://github.com/BYVoid/OpenCC) by BYVoid, mingruimingrui, danny0838, sgalal, kunki, gucong3000, ayaka14732, lotem, xpol, PeterDaveHello, groverlynn, kyleskimo, AntonOfTheWoods, shinzoqchiuq...
 
 [Peazip](https://peazip.github.io) by Giorgio Tani
 
