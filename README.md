@@ -48,7 +48,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 ## [CC-CEDICT - with enlarged characters](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CC-CEDICT%20%28with%20enlarged%20characters%29)
 
 ### About 說明 / 说明
-The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (and without a small handful of obscene terms / definitions removed).
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (with a small handful of obscene terms / definitions removed).
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20%28with%20enlarged%20characters%29/Licence%20CC%20BY-SA%203.0.txt) <br>
