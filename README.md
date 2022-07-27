@@ -343,7 +343,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 ## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
 
 ### About 說明 / 说明
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### Please note:
 From the compiler's webpage:
@@ -362,9 +362,9 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/202
 ## 部件檢索 Component Search Input Method
 
 ### About 說明 / 说明
-A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as both a webpage and this dictionary module. <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as both a webpage and this dictionary module. <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
-A font such as [FSung](https://github.com/lxs602/FSung-font) by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) is needed for this to work fully.<br><br>
+A font such as [FSung](https://github.com/lxs602/FSung-font) also by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) is needed for this to work fully.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E4%BB%B6%E6%AA%A2%E7%B4%A2%20Component%20Search%20Input%20Method)
@@ -375,7 +375,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/201
 .
 ## 全字庫 Quan Zi Ku
 
-A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity.
+A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
 
