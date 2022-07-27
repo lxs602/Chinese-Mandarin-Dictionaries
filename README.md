@@ -481,9 +481,9 @@ May be Public Domain, see [Licence](https://github.com/lxs602/Chinese-Mandarin-D
 ## Not available - pending corrections
 
 ### 說明 / 说明 About
-串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br>
+串珠聖經和合本 (Concordance)<br>例如查"企望"，就會列出所有這個字原文對應聖經和合本翻譯的字及其經節出處，和英文翻譯 (World English Bible - British English / 國王詹姆斯版本 King James Version) 。
 
-串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。<br>
+串珠圣经和合本 (Concordance)<br>例如查"企望"，就会列出所有这个字原文对应圣经和合本翻译的字及其经节出处，和英文翻译 (World English Bible - British English / 国王詹姆斯版本 King James Version) 。
 	
 A searchable concordance for the Chinese Union Version (CUV) Bible, with an English translation from the World English Bible - British English or the King James Version.
 	
@@ -500,6 +500,10 @@ Chinese words have been segmented automatically, without checking in person. <i>
 Word segmentation was with [pywordseg (ELMo)](https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of [Bible names and places](https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using [word_line_concordance_app](https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified, so there may be different mistakes in each version.  
 
 ### 文本  Choice of Text
+欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。
+
+钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。
+
 The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br>The KJV is also free, but is not recommended for those without a very good use of English.
 
 ### Related Texts
