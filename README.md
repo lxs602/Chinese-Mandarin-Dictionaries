@@ -205,7 +205,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Contains 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%20X%C4%ABnhu%C3%A1%20Z%C3%ACdi%C7%8En%20character%20dictionary)
 <br><br><br>
 	
-## 數字輸入法/数字输入法<br>Chinese Input Methods
+## 數字輸入法 / 数字输入法<br>Chinese Input Methods
 
 ### About 說明 / 说明
 A compilation of freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
