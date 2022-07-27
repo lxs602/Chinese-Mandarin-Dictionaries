@@ -291,7 +291,7 @@ Public domain, except as otherwise specified.
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 
 ### About 說明 / 说明
-A dictionary of etymology of Chinese characters, with meanings in Japanese, but still useful for Chinese language study. 
+A dictionary of etymology of Chinese characters, with their meanings related to Japanese, but still useful for Chinese language study. 
 
 ### Example 事例
 <table><tr><td><font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.</td></tr></table>
@@ -342,7 +342,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 [WFG blog](http://fgwang.blogspot.com/2018/02/blog-post_14.html)<br><br><br>
 
 
-## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
+## 教育部異體字索引字典<br>Taiwan Ministry of Education Index of Variant Characters
 
 ### About 說明 / 说明
 An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). 
