@@ -504,7 +504,7 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 
 ## Acknowledgements 鳴謝/鸣谢
 
-[GoldenDict](https://github.com/goldendict/goldendict) - Dictionary software for Linux, Windows and Mac.
+[GoldenDict](https://github.com/goldendict/goldendict) - Dictionary software for Linux, Windows, Mac and Android.
 
 [WriteMDict](https://github.com/zhansliu/writemdict) by Zhansilu
 
