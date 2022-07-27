@@ -206,7 +206,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Contains 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%20X%C4%ABnhu%C3%A1%20Z%C3%ACdi%C7%8En%20character%20dictionary)
 <br><br><br>
 	
-## 數字輸入法 / 数字输入法<br>Chinese Input Methods
+## 數字輸入法 / 数字输入法 Chinese Input Methods
 
 ### About 說明 / 说明
 A compilation of freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
@@ -436,7 +436,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 [Non-Commercial use only](http://fgwang.blogspot.com/2019/02/blog-post.html) <br><br><br>
 
 
-## 漢語大詞典/汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list
+## 漢語大詞典 / 汉语大词典<br>Hànyǔ Dà Cídiǎn - dāncí biǎo - word list
 
 "Hanyu Da Cidian" is a large dictionary of Chinese and Chinese texts compiled by more than 300 scholars, from 1979 to 1993. This word list, with a total of 692,661 terms, gives the headwords of all 12 volumes of the 1st edition. It does not give definitions, but should allow checking of whether word exists in this dictionary. The full dictionary, with definitions, is available in print and electronically; see the [Wikipedia page](https://zh.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E%E5%A4%A7%E8%A9%9E%E5%85%B8) for details (accessed 2022-Feb-04).
 
