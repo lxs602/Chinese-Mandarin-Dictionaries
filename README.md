@@ -127,7 +127,7 @@ Sources of word frequency data and their licences:
 |5|Word freq. (Internet)|[Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna](http://wackybook.sslmit.unibo.it)|Creative Commons Attribution-NoDerivs 2.5 License|[Link](http://corpus.leeds.ac.uk/internet/i-zh.num)|[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)|  
 |6|Word freq. (News)|McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.|[The Lancaster Corpus of Mandarin Chinese End User License](https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm)|[Link](http://corpus.leeds.ac.uk/frqc/lcmc.num)|[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)|  
 |7|HSK Levels|&nbsp;|&nbsp;|[Link](http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls)|&nbsp;|  
-|8|Pinyin ratios|kHanyuPinlu field in UniHan database, Unicode version: 11.0.0|[Unicode licence](https://www.unicode.org/license.html)|[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip)from: [Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)|As for corpus|
+|8|Pinyin ratios|kHanyuPinlu field in UniHan database, Unicode version: 11.0.0|[Unicode licence](https://www.unicode.org/license.html)|[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip) from: [Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)|As for corpus|
 
 <sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br><br>
 
@@ -135,7 +135,7 @@ Sources of word frequency data and their licences:
 ## BCC 英汉词典 - BCC Corpus English-Chinese Wordlist
 
 ### Note:
-Assembled from the freely available BCC corpus dictionary, with 42,784 terms. This has been proofread for spelling errors in English in the source files, but some may remain. May be a good accompaniment to other dictionaries, as it contains some uncommon words and national variants.<br>
+Assembled from the freely available BCC corpus dictionary, with 42,784 terms. This has been proofread for spelling errors in English in the source files, but some may remain. May be a good accompaniment to other dictionaries, as it contains some uncommon English words and national variants.<br>
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/BCC%20English%20Chinese%20dictionary%20%28BCC%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8%29)
 
@@ -167,7 +167,7 @@ A Chinese-English dictionary, from the [ADSO project](https://github.com/wtanaka
 ### Licence 許可證 / 许可证
 [Adsotrans Attribution-NonCommercial License 1.1](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/ADSO/Adso%20Licence.html)<br>
 ### Source Files 資料來源
-https://github.com/wtanaka/adso<br><br><br>
+[Adso github repository](https://github.com/wtanaka/adso)<br><br><br>
 	
 
 ## Chinese Lexicon - Etymology
@@ -291,10 +291,10 @@ Public domain, except as otherwise specified.
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 
 ### About 說明 / 说明
-A dictionary of meanings in Japanese, but also useful for etymology in Chinese. 
+A dictionary of etymology of Chinese characters, with meanings in Japanese, but still useful for Chinese language study. 
 
 ### Example 事例
-<font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.
+<table><tr><td><font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.</td></tr></table>
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Kanjinetworks%20-%20Etymological%20Dictionary%20of%20Han%20Chinese%20Characters)
 
@@ -321,7 +321,9 @@ Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids)
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 
 ### About 說明 / 说明
-This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first produced in 2015. Total entries: 163, 085. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). <br>An exact copy of the original (no credit claimed), for those searching the web in English, and for posterity (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
+This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first produced in 2015. Total entries: 163, 085. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). 
+
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 
 ### Authorisation / 授權 (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -332,7 +334,7 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 
-### Licence 許可證 / 许可证
+### Licence 許可證 / 许可证g
 [Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%28%E7%AC%AC%E4%BA%94%E7%89%88%29%20Taiwan%20MOE%20Dict/Licence%20-%20CC%20BY-ND%203.0.txt)
 
 ### Source Files 資料來源
@@ -343,7 +345,9 @@ This dictionary was produced from the free release by the Taiwanese Ministry of 
 ## 教育部異體字索引字典<br>Taiwan MOE Index of Variant Characters
 
 ### About 說明 / 说明
-An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). 
+
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### Please note:
 From the compiler's webpage:
@@ -375,7 +379,9 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/201
 .
 ## 全字庫 Quan Zi Ku
 
-A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). 
+
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
 
@@ -388,7 +394,9 @@ A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radical
 
 ## 干祿字書 Ganlu Zishu
 
-A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). 
+
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu)
 
@@ -400,7 +408,9 @@ A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official E
 
 ## 康熙字典 Kangxi Radical Dictionary
 
-A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). 
+
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary)
 
@@ -412,7 +422,9 @@ A character dictionary compiled by order of the Kangxi emperor of the Qing dynas
 
 ## 說文解字 Shuowen Jiezi
 
-The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). 
+
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
 
 ### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi)
 
@@ -449,11 +461,11 @@ Adapted from [Chinese Names Corpus](https://github.com/wainshine/Chinese-Names-C
 [Apache 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/Apache%20v2.0%20Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br><br><br>
 
 	
-## Zdic.net 汉典 Hàndiǎn
+## Zdic.net 词典 Hàndiǎn
 
 A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci).
 
-### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En), with xyz terms.
+### [Download 下载 / 下載](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En), with ____ terms.
 
 ### Source Files 資料來源
 Converted from [Chinese Xinhua](https://github.com/pwxcoo/chinese-xinhua) by pwxcoo.
