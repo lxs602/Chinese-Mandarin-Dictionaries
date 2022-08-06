@@ -5,7 +5,8 @@
 ## About 說明 / 说明
 
 免費中文/中英文詞典收藏。<br>
-免費中文/中英文词典收藏。<br>
+免費中文/中英文词典收藏。
+
 A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.<br>
 
 ### Todo 接下來要做
