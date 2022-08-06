@@ -192,7 +192,7 @@ Freely available
 ### About 說明 / 说明
 A Chinese-English vocabulary, from sentences submitted to tatoeba.org, with 47,969 phrases (dowloaded December 2020). 
 
-“Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
+“Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br><br>To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
 
@@ -226,7 +226,7 @@ Freely available
 [Guoxuedashi Zdcy](http://www.guoxuedashi.com/download)
 <br><br><br>
 	
-## 數字輸入法和筆順序典 / 数字输入法和笔顺序<br>Chinese Input Methods and Stroke Order
+## 數字輸入法和筆順序 / 数字输入法和笔顺序<br>Chinese Input Methods and Stroke Order
 
 ### About 說明 / 说明
 A compilation of 62 freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order/README.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
