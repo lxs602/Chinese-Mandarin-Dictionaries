@@ -204,7 +204,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org, with 47,9
 ## 新华字典 Xīnhuá Zìdiǎn character dictionary
 
 ### About 說明 / 说明
-A character dictionary of publically-contributed definitions from the internet, with 20,913 terms.
+A character dictionary of publicly-contributed definitions from the internet, with 20,913 terms.
 
 Adapted from Xinhua dictionary at [Guoxuedashi](www.guoxuedashi.net/download)
 
