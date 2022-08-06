@@ -49,7 +49,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 ## CC-CEDICT - with enlarged characters
 
 ### About 說明 / 说明
-The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (with a small handful of obscene terms / definitions removed).
+The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (with a small handful of obscene terms / definitions removed). Total of 118,861 definitions.
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 3.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CC-CEDICT%20%28with%20enlarged%20characters%29/Licence%20CC%20BY-SA%203.0.txt) <br>
@@ -191,7 +191,7 @@ Freely available
 ## Tatoeba Chinese-English Vocabulary
 
 ### About 說明 / 说明
-A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Contains 47969 phrases (dowloaded December 2020). 
+A Chinese-English vocabulary, from sentences submitted to tatoeba.org, with 47,969 phrases (dowloaded December 2020). 
 
 “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br>NB. To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
 
@@ -204,7 +204,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Contains 
 ## 新华字典 Xīnhuá Zìdiǎn character dictionary
 
 ### About 說明 / 说明
-A character dictionary of publically-contributed definitions from the internet.
+A character dictionary of publically-contributed definitions from the internet, with 20,913 terms.
 
 Adapted from Xinhua dictionary at [Guoxuedashi](www.guoxuedashi.net/download)
 
@@ -240,10 +240,10 @@ See also: <br>
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order)
 
-### Example 事例: 析
-析|6790|U+6790  <table><tr><td style='padding: 10px; text-align:center'><b>文字 Character(s):</b></td><td style='padding: 10px; text-align:center'><span style='font-size: xx-large'>析</span></td></tr><tr><td  colspan=2>筆順序 / 笔顺序 Stroke Order</td></tr><tr><td style="text-align: center" colspan=2>一丨丿丶丿丿一丨</td></tr><tr><td  colspan=2>字形 Glyph /  雜項 Other</td></tr><tr><td>三角編號 3 Corners</td><td>492700</td></tr><tr><td>行列10 Array10</td><td>4893</td></tr><tr><td>行列30 Array30</td><td>vo</td></tr><tr><td>表形码 Biaoxing</td><td>mjt</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>tki</td></tr><tr><td>縱橫碼 CKC</td><td>4092</td></tr><tr><td>全拼形導碼 Daomax</td><td>mjt</td></tr><tr><td>筆結基因 DNA</td><td>362765</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>yfs</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>d1</td></tr><tr><td>華象直覺  HS pictograph</td><td>YLT</td></tr><tr><td>晶晶碼 Jin Jin</td><td>mjjt</td></tr><tr><td>晶数码 Jin Shu </td><td>487751</td></tr><tr><td>冰蟾全息 QXM</td><td>mjda</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>tki</td></tr><tr><td>晚風 Wan Feng</td><td>xim</td></tr><tr><td>海峰五笔 Wubi 98</td><td>sr</td></tr><tr><td>王林快码 WLKM</td><td>uf;p</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>yft</td></tr><tr><td>五笔新世纪版 Wubi</td><td>sr<br>srh</td></tr><tr><td  colspan=2>拼音 Pinyin</td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>sik</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>cik1</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>tsik7</td></tr><tr><td>正體拼
+### Example 事例: 
+<table><tr><td style='padding: 10px; text-align:center'><b>文字 Character(s):</b></td><td style='padding: 10px; text-align:center'><span style='font-size: xx-large'>析</span></td></tr><tr><td  colspan=2>筆順序 / 笔顺序 Stroke Order</td></tr><tr><td style="text-align: center" colspan=2>一丨丿丶丿丿一丨</td></tr><tr><td  colspan=2>字形 Glyph /  雜項 Other</td></tr><tr><td>三角編號 3 Corners</td><td>492700</td></tr><tr><td>行列10 Array10</td><td>4893</td></tr><tr><td>行列30 Array30</td><td>vo</td></tr><tr><td>表形码 Biaoxing</td><td>mjt</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>tki</td></tr><tr><td>縱橫碼 CKC</td><td>4092</td></tr><tr><td>全拼形導碼 Daomax</td><td>mjt</td></tr><tr><td>筆結基因 DNA</td><td>362765</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>yfs</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>d1</td></tr><tr><td>華象直覺  HS pictograph</td><td>YLT</td></tr><tr><td>晶晶碼 Jin Jin</td><td>mjjt</td></tr><tr><td>晶数码 Jin Shu </td><td>487751</td></tr><tr><td>冰蟾全息 QXM</td><td>mjda</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>tki</td></tr><tr><td>晚風 Wan Feng</td><td>xim</td></tr><tr><td>海峰五笔 Wubi 98</td><td>sr</td></tr><tr><td>王林快码 WLKM</td><td>uf;p</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>yft</td></tr><tr><td>五笔新世纪版 Wubi</td><td>sr<br>srh</td></tr><tr><td  colspan=2>拼音 Pinyin</td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>sik</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>cik1</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>tsik7</td></tr><tr><td>正體拼
 音 Pinyin</td><td>xi</td></tr><tr><td>雙拼加加 Shuangpin++</td><td>xi</td></tr><tr><td  colspan=2>以拼音为基 Pinyin-based</td></tr><tr><td>二笔快版
- Er Bi - Kuai</td><td>xxej</td></tr><tr><td>小鹤音形 Flypy</td><td>xim</td></tr><tr><td>T9</td><td>hspnpphs</td></tr><tr><td>自然码 Zi Ran Ma</td><td>xim</td></tr><tr><td  colspan=2>注音 Zhuyin</td></tr><tr><td>正體注音 Bopomofo (official)</td><td>vu</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>vu</td></tr><tr><td>臺語注音 Taiwanese</td><td>"vu,e"</td></tr><tr><td>粵語注音 Zyujam</td><td>hud4</td></tr><tr><td  colspan=2>以笔顺为基  Stroke-based</td></tr><tr><td>筆順碼 Bsm</td><td>983</td></tr><tr><td>大易二碼 Dayi2</td><td>i1</td></tr><tr><td>大易三碼 Dayi3</td><td>ih1</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>IHE1</td></tr><tr><td>大易四碼 Dayi4</td><td>ihe1</td></tr><tr><td>龍飛 Dragonfly</td><td>ihe1</td></tr><tr><td>六碼筆畫 G6 Code</td><td>123312</td></tr><tr><td>筆畫數 Strokes</td><td>804</td></tr><tr><td> 筆順五碼 Stroke5</td><td>"m/,.,"</td></tr><tr><td>郑码 Zheng Ma</td><td>fpd</td></tr><tr><td  colspan=2>以倉頡为基 Cangjie-based</td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>dhml</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>dhml</td></tr><tr><td>仓颉 Chan Jei</td><td>dhml</td></tr><tr><td>微倉三 Changjei3 </td><td>dhml</td></tr><tr><td>自由大新 FreeNewCJ</td><td>dhl</td></tr><tr><td>正體簡易 SimpleCJ</td><td>dl</td></tr><tr><td>簡易五代 Simplex5</td><td>dl</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>dhl</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>dhl</td></tr><tr><td  colspan=2>>字符集 Character Encodings</td></tr><tr><td>大五碼 Big5p</td><td>aa52</td></tr><tr><td>資訊交換碼 CCCII  </td><td>21442b</td></tr><tr><td>標準交換碼 CNS11643</td><td>14e35</td></tr><tr><td>四角号码 Four Corner</td><td>4292</td></tr><tr><td>電信碼 Telecode</td><td>2649</td></tr><tr><td>統一漢字 Unicode</td><td>6790</td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>1207</td></tr></table><br><hr><span style='font-size: x-small; margin top: 10px'><br><br><a href='gdlookup://localhost/About'>關於 / 关于 / About</a></span>
+ Er Bi - Kuai</td><td>xxej</td></tr><tr><td>小鹤音形 Flypy</td><td>xim</td></tr><tr><td>T9</td><td>hspnpphs</td></tr><tr><td>自然码 Zi Ran Ma</td><td>xim</td></tr><tr><td  colspan=2>注音 Zhuyin</td></tr><tr><td>正體注音 Bopomofo (official)</td><td>vu</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>vu</td></tr><tr><td>臺語注音 Taiwanese</td><td>"vu,e"</td></tr><tr><td>粵語注音 Zyujam</td><td>hud4</td></tr><tr><td  colspan=2>以笔顺为基  Stroke-based</td></tr><tr><td>筆順碼 Bsm</td><td>983</td></tr><tr><td>大易二碼 Dayi2</td><td>i1</td></tr><tr><td>大易三碼 Dayi3</td><td>ih1</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>IHE1</td></tr><tr><td>大易四碼 Dayi4</td><td>ihe1</td></tr><tr><td>龍飛 Dragonfly</td><td>ihe1</td></tr><tr><td>六碼筆畫 G6 Code</td><td>123312</td></tr><tr><td>筆畫數 Strokes</td><td>804</td></tr><tr><td> 筆順五碼 Stroke5</td><td>"m/,.,"</td></tr><tr><td>郑码 Zheng Ma</td><td>fpd</td></tr><tr><td  colspan=2>以倉頡为基 Cangjie-based</td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>dhml</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>dhml</td></tr><tr><td>仓颉 Chan Jei</td><td>dhml</td></tr><tr><td>微倉三 Changjei3 </td><td>dhml</td></tr><tr><td>自由大新 FreeNewCJ</td><td>dhl</td></tr><tr><td>正體簡易 SimpleCJ</td><td>dl</td></tr><tr><td>簡易五代 Simplex5</td><td>dl</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>dhl</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>dhl</td></tr><tr><td  colspan=2>>字符集 Character Encodings</td></tr><tr><td>大五碼 Big5p</td><td>aa52</td></tr><tr><td>資訊交換碼 CCCII  </td><td>21442b</td></tr><tr><td>標準交換碼 CNS11643</td><td>14e35</td></tr><tr><td>四角号码 Four Corner</td><td>4292</td></tr><tr><td>電信碼 Telecode</td><td>2649</td></tr><tr><td>統一漢字 Unicode</td><td>6790</td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>1207</td></tr></table><br>
 
 ### Source Files 資料來源
 [Chinese open-desktop tables](https://github.com/chinese-opendesktop/cin-tables) <br>
@@ -265,7 +265,7 @@ See also:
 ### About 說明 / 说明
 Contains the complete range of characters from the Unihan project, and character properties suitable for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage)) are included for those that might be less common or new, and not displayed depending on the fonts installed.
 	
-Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all characters from Unihan 14.0 (up to and including ext. G).
+Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all 93,867 characters from Unihan 14.0 (up to and including ext. G).
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8)
 
@@ -287,7 +287,7 @@ A simple radical dictionary. Search by a radical or its number, from 1 to 214, t
 
 Alternatively, search for "index" for a list of all radicals.
 
-Based on kRSUnicode data from the Unihan project (v13.0, 2020-02-18).
+Based on kRSUnicode data from the Unihan project (v13.0, 2020-02-18), for 93,8658 characters.
 	
 Note, the characters that display will depend on fonts installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG can show all the current Unihan characters.
 
@@ -304,7 +304,7 @@ See Unihan character dictionary above.<br><br><br>
 ## 維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library
 
 ### About 說明 / 说明
-A library of images of historical forms of Chinese characters, from Wikimedia Commons, for offline viewing, compiled in 2022.
+A library of images of historical forms of 2,905 Chinese characters, from Wikimedia Commons, for offline viewing, compiled in 2022.
 
 See [Wikimedia Ancient Chinese Characters Project](https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters_project) for further details.
 
@@ -321,7 +321,7 @@ Public domain, except as otherwise specified.
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 
 ### About 說明 / 说明
-A dictionary of etymology of Chinese characters, with their Japanese meanings, but still useful for Chinese language study. 
+A dictionary of etymology of 6,379 Chinese characters, with their Japanese meanings, but still useful for Chinese language study. 
 
 ### Example 事例
 <table><tr><td><font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.</td></tr></table>
@@ -335,7 +335,7 @@ Freely distributed.<br><br><br>
 ## CJKVI Decomposition
 
 ### About 說明 / 说明
-Shows the decomposition of characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these are only visual suggestions - they do not indicate the <i>etymology</i> (how the character was first formed).
+Shows the decomposition of 93,891 hanzi characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these are only visual suggestions - they do not indicate the <i>etymology</i> (how the character was first formed).
 	
 For further information, see the [readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md).
 
@@ -406,7 +406,7 @@ A font such as [FSung](https://github.com/lxs602/FSung-font) also by WFG (which 
 ### Source Files 資料來源 & Licence 許可證 / 许可证
 Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/2015/12/blog-post.html))<br><br><br>
 
-.
+
 ## 全字庫 Quan Zi Ku
 
 A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). 
@@ -493,9 +493,9 @@ Adapted from [Chinese Names Corpus](https://github.com/wainshine/Chinese-Names-C
 	
 ## Zdic.net 词典 Hàndiǎn
 
-A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci).
+A public dictionary from Zdic.net in Simplified Chinese (downloaded via zd9999.com/ci), with 264,406 terms.
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En), with ____ terms.
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Zdic.net%20%E6%B1%89%E5%85%B8%20H%C3%A0ndi%C7%8En)
 
 ### Source Files 資料來源
 Converted from [Chinese Xinhua](https://github.com/pwxcoo/chinese-xinhua) by pwxcoo.
