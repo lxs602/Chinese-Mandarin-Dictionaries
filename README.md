@@ -225,7 +225,7 @@ See description from compiler's website below.
 Freely available
 
 ### Source Files 資料來源
-[Zdcy](http://www.guoxuedashi.com/download/zdcy.rar)
+[Guoxuedashi Zdcy](http://www.guoxuedashi.com/download)
 <br><br><br>
 	
 ## 數字輸入法和筆順序典 / 数字输入法和笔顺序<br>Chinese Input Methods and Stroke Order
