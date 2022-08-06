@@ -64,10 +64,11 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (
 ## HanDeDict - English translation
 
 ### About 說明 / 说明
-A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Only terms not already present in cc-cedict are included, but with the exception of a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
+A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Only terms not already present in cc-cedict are included, but with the exception of a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity. Total of 150,818 combined definitions, in the original German and then in English.
 
-### Example 事例 (colours not shown 沒有顏色): 正楷字體 / 正楷字体
-<div style="border: 1px solid; padding: 5px"><div><big><div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">体</span></div></big>&nbsp;/&nbsp;<div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">體</span></div><br><big><div style="display: inline-block"><span style="color:blue">zhèng</span><span style="color:green">kǎi</span><span style="color:blue">zì</span><span style="color:green">tǐ</span></div></big></div><div><ul><li>Blockschrift (S)</li>	<br><li>English (machine transl.): 	Block letters (Noun)	</li></ul></div></div>
+### Example 事例
+(Colours not shown 沒有顏色)
+<table><tr><td><div style="border: 1px solid; padding: 5px"><div><big><div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">体</span></div></big>&nbsp;/&nbsp;<div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">體</span></div><br><big><div style="display: inline-block"><span style="color:blue">zhèng</span><span style="color:green">kǎi</span><span style="color:blue">zì</span><span style="color:green">tǐ</span></div></big></div><div><ul><li>Blockschrift (S)</li>	<br><li>English (machine transl.): 	Block letters (Noun)	</li></ul></div></div></td></tr></table>
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/HanDeDict%20%28English%20machine%20translation%29/Licence%20-%20CC%20BY-SA%202.0) <br>
