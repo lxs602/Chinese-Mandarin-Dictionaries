@@ -62,7 +62,7 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (
 ## HanDeDict - English translation
 
 ### About 說明 / 说明
-A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Only terms not already present in cc-cedict are included, but with the exception of a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity. Total of 150,818 combined definitions, in the original German and then in English.
+A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Only terms not already present in cc-cedict are included, but with the exception of a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity. Total of 83,909 combined definitions, in the original German and then in English.
 
 ### Example 事例
 (Colours not shown 沒有顏色)
