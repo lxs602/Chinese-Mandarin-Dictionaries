@@ -68,7 +68,7 @@ A machine translation of HanDeDict into English (by DeepL translate), intended t
 
 ### Example 事例
 (Colours not shown 沒有顏色)
-<table><tr><td><div style="border: 1px solid; padding: 5px"><div><big><div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">体</span>&nbsp;/&nbsp;<span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">體</span><br><span style="color:blue"><i>zhèng</i></span><span style="color:green"><i>kǎi</i></span><span style="color:blue"><i>zì</i></span><span style="color:green"><i>tǐ</i></span></div></big></div><div><br><ul><li>Blockschrift (S)</li><li>English (machine transl.): 	Block letters (Noun)	</li></ul></div></div></td></tr></table>
+<table><tr><td><div style="border: 1px solid; padding: 5px"><div><big><div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">体</span>&nbsp;/&nbsp;<span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">體</span><br><span style="color:blue"><i>zhèng</i></span><span style="color:green"><i>kǎi</i></span><span style="color:blue"><i>zì</i></span><span style="color:green"><i>tǐ</i></span></div></big></div><div><br><ul><li>Blockschrift (S)</li><li><i>English (machine transl.)</i>: 	Block letters (Noun)	</li></ul></div></div></td></tr></table>
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/HanDeDict%20%28English%20machine%20translation%29/Licence%20-%20CC%20BY-SA%202.0) <br>
