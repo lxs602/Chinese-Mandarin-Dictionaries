@@ -32,7 +32,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
 	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
-	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>沒有顏色
+	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>23.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>24.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td><td></td></tr>
