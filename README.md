@@ -22,7 +22,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba<br>CUV Bible</td><td align=center>✓<br>For revision</td><td></td></tr>
 	<tr><td>9.  </td><td>Chinese Idioms - W Scarborough</td><td>OCR scan</td><td align=center>To convert</td><td align=center>Low</td></tr>
 	<tr><td>10.  </td><td>Wikimedia image library</td><td></td><td align=center>✓</td><td></td></tr>
-	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>?upload other formats</td><td></td></tr>
+	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td><td></td></tr>
 	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>14.  </td><td>Unihan Radical Dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
@@ -41,8 +41,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>27.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>28.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td><td></td></tr>
 	<tr><td>29.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>30.  </td><td>Dictionaryphile</td><td>&nbsp;</td><td align=center>To search</td><td></td></tr>
-	<tr><td>31.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG<br>Add Unicode font check - c.f. WFG</td><td align=center></td><td></td></tr>
+	<tr><td>30.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG<br>Add Unicode font check - c.f. WFG</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
 
@@ -231,7 +230,7 @@ Freely available
 ## 數字輸入法和筆順序典 / 数字输入法和笔顺序<br>Chinese Input Methods and Stroke Order
 
 ### About 說明 / 说明
-A compilation of 62 freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order/數字輸入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Orders%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
+A compilation of 62 freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order/README.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
 
 Also includes character stroke order for handwriting, e.g. 尋： 乙一一一丨一丨乙一一丨丶。
 	
