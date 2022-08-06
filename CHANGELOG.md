@@ -12,4 +12,5 @@
     <tr><td>CJKVI Decomposition dictionary - added</td></tr>
     <tr><td>Wu/Minnan and East Asian input dictionaries moved to a new repository for East Asian dictionaries.</td></tr>
   <tr><td>2022-Jul-14</td><td>Added Wikimedia image library. </td></tr>
+  <tr><td>2022-Aug-06</td><td>Updated Input Methods dictionary - added Wubi '06 and character stroke orders.</td></tr>
 </table>

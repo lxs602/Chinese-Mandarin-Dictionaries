@@ -32,7 +32,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
 	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
-	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
+	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>沒有顏色
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>23.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>24.  </td><td>Taiwan Ministry of Education Dictionary of Idioms 教育部《成語典》</td><td></td><td align=center>✓</td><td></td></tr>
@@ -64,6 +64,9 @@ The CC-CEDICT dictionary, with enlarged Chinese characters for ease of reading (
 
 ### About 說明 / 说明
 A machine translation of HanDeDict into English (by DeepL translate), intended to accompany cc-cedict. Only terms not already present in cc-cedict are included, but with the exception of a <i>lot</i> of numerical terms (e.g. definitions for 1, 2, 3... 10,000... 10,001...) and a small amount of profanity.
+
+### Example 事例 (colours not shown 沒有顏色): 正楷字體 / 正楷字体
+<div style="border: 1px solid; padding: 5px"><div><big><div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">体</span></div></big>&nbsp;/&nbsp;<div style="display: inline-block"><span style="color:blue">正</span><span style="color:green">楷</span><span style="color:blue">字</span><span style="color:green">體</span></div><br><big><div style="display: inline-block"><span style="color:blue">zhèng</span><span style="color:green">kǎi</span><span style="color:blue">zì</span><span style="color:green">tǐ</span></div></big></div><div><ul><li>Blockschrift (S)</li>	<br><li>English (machine transl.): 	Block letters (Noun)	</li></ul></div></div>
 
 ### Licence 許可證 / 许可证
 [Creative Commons BY-SA 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/HanDeDict%20%28English%20machine%20translation%29/Licence%20-%20CC%20BY-SA%202.0) <br>
@@ -201,29 +204,55 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org. Contains 
 ## 新华字典 Xīnhuá Zìdiǎn character dictionary
 
 ### About 說明 / 说明
-...
+A character dictionary of publically-contributed definitions from the internet.
+
+Adapted from Xinhua dictionary at [Guoxuedashi](www.guoxuedashi.net/download)
+
+See description from compiler's website below.
+
+《新华字典》 
+此为《国学大师》系列之一。《新华字典》收录了GBK全部汉字20924个。可离线查询汉字的拼音、部首、五笔、笔画、笔顺、详细解释、例句、用法等。提供多种检索方式，可按拼音索引，也可按部首、总笔画、五笔、笔顺检字；还提供了6000多个常用汉字的笔顺动画演示，是中小学生学习汉字的良好工具，可帮助初学者按正确地笔画顺序书写汉字。 
+
+
+### Example 事例 : 山
+<table border="1px" cellspacing="0" cellpadding="3"><tbody><tr><td>基本解释 <br>Basic explanation</td><td>山　　shān   ㄕㄢˉ<br>　1. 地面形成的高耸的部分：土～。～崖。～峦。～川。～路。～头。～明水秀。～雨欲来风满楼（喻冲突或战争爆发之前的紧张气氛）。<br>　2. 形状像山的：～墙（人字形房屋两侧的墙壁。亦称“房山”）。<br>　3. 形容大声：～响。～呼万岁。<br>　4. 姓。</td></tr><tr><td>详细解析 <br>Detailed explanation</td><td>	◎ 山 shān<br>〈名〉<br>(1) (象形。甲骨文和金文字形,象山峰并立的形状。“山”是汉字的一个部首。本义:地面上由土石构成的隆起部分)<br>(2) 同本义 <br>[mountain]<br>     山,土有石而高。--《说文》<br>     山,土之聚也。--《国语·周语》<br>     山人取之。--《左传·昭公四年》<br>     夏后代山。--《礼记·明堂位》<br>     太行、 王屋二山,方七百里,高万仞。--《列子·汤问》<br>     如山如阜,如冈如陵。--《诗·小雅·天保》<br>     生于山阜,处于室堂。--《荀子·赋》<br>     为山九仞,功亏一篑。--《书·旅獒》<br>     山重水复疑无路,柳暗花明又一村。--陆游《游山西村》<br>(3) 又如:山霭(山上的云气);山灵(山神);山阿(山中凹曲的地方);山岩(山峰;山崖);山隈(山角);山啜(山岔);山落(山岔;山角落);山孤钉(小山包);山头(绿林好汉占据的山寨;坟地;山墙);山长(科举时代的书院主讲及总领院务者);山主(寺院的主持);山观(山中道观);山关(依山而建的城堡)<br>(4) 形状像山的东西 <br>[anything in the shape of a mountain]<br>     刃树剑山。--《南齐书·高逸传伦》<br>(5) 又如:冰山;鳌山;山枕(枕头。古代枕头多用木、瓷制作,中凹,形似山);山堆阜积(东西堆积得像山一样);山棚(结彩的牌楼;比武台,戏台);山家(佛寺)<br>(6) 特指“五岳” <br>[the Five mountains]<br>     奠高山大川。--《书·禹贡》。孔传:“高山,五岳。大川,四渎。”<br>(7) 又如:山斗(“泰山北斗”的缩略。借指卓有成就令人仰慕的人物);山右(指山西省,西在太行山之右);山左(山东的别称)<br>(8) 山墙 <br>[gable wall]。如:山架(把几层木板镶嵌在墙里的架子)<br>(9) 指酒肆的楼上 <br>[storey of a bar]<br>     酒阁名曰厅院,若楼上则又或名为山,一山、二山、三山之类。牌额写过山,非特有山,谓酒力高远也。--宋· 灌圃耐得翁《都城纪胜》<br>(10) 山中。指隐居之处 <br>[hermitage]。如:山谷臣(隐士的自称);山谷之士(隐士);山囚(隐居山野不得志的士人);山巾(山野隐士的便帽)<br>(11) 坟 <br>[mound]。如:山陵(帝王的陵墓);山园(坟地);山门(墓门)<br>(12) 蚕簇。由禾杆、油菜杆搭成的小簇 <br>[a small bundle of straws,etc.,for silkworms to spin cocoons on]。如:蚕上山了 <br>(13) 姓<br><br>词性变化<br>◎ 山 shān<br>〈形〉<br>(1) 大,巨大 <br>[big]。如:山嚷怪叫,太吵人了;山响<br>(2) 粗俗 <br>[hoarse]<br>     你道山不山?中了状元一道烟。--《牡丹亭》<br>(3) 山野--谦称 <br>[my rustic]。如:山妻(隐士之妻)		</td></tr><tr><td colspan="2">中文輸入法 Input Methods</td></tr>	<tr><td>仓颉 Cāngjié</td><td>U</td></tr><tr><td>郑码 Zhèngmǎ</td><td>LL</td></tr><tr><td>四角号码 Four Corner</td><td>22770</td></tr><tr><td>Unicode</td><td>U+5C71</td></tr></tbody></table>
+
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%20X%C4%ABnhu%C3%A1%20Z%C3%ACdi%C7%8En%20character%20dictionary)
+
+### Licences 許可證 / 许可证
+Freely available
+
+### Source Files 資料來源
+[Zdcy](http://www.guoxuedashi.com/download/zdcy.rar)
 <br><br><br>
 	
-## 數字輸入法 / 数字输入法 Chinese Input Methods
+## 數字輸入法和筆順序典 / 数字输入法和笔顺序<br>Chinese Input Methods and Stroke Order
 
 ### About 說明 / 说明
-A compilation of freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
+A compilation of 62 freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order/數字輸入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Orders%20-%20comparison%20table.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
+
+Also includes character stroke order for handwriting, e.g. 尋： 乙一一一丨一丨乙一一丨丶。
 	
 See also: <br>
 [吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods)<br>
 [亞洲(日韓越泰)輸入法辞书 East Asian (JKVT)](https://github.com/lxs602/East-Asian-Dictionaries/tree/main/East%20Asian%20%28JKVT%29%20Phonetic%20and%20Input%20Methods%20%E4%BA%9E%E6%B4%B2%28%E6%97%A5%E9%9F%93%E8%B6%8A%E6%B3%B0%29%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BE%9E%E4%B9%A6)
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods)
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order)
 
 ### Example 事例: 析
-<table border="1" cellspacing="0" cellpadding="3"><tbody><tr><td><b>文字 Character(s):</b></td><td>析</td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>1207</td></tr><tr><td align=center colspan="2"><b>字形 Glyph /  雜項 Other</b></td></tr><tr><td>三角編號 3 Corners</td><td>492700</td></tr><tr><td>行列10 Array10</td><td>4893</td></tr><tr><td>行列30 Array30</td><td>vo</td></tr><tr><td>表形码 Biaoxing</td><td>mjt</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>tki</td></tr><tr><td>縱橫碼 CKC</td><td>4092</td></tr><tr><td>全拼形導碼 Daomax</td><td>mjt</td></tr><tr><td>筆結基因 DNA</td><td>362765</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>yfs</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>d1</td></tr><tr><td>華象直覺  HS pictograph</td><td>YLT</td></tr><tr><td>晶晶碼 Jin Jin</td><td>mjjt</td></tr><tr><td>晶数码 Jin Shu </td><td>487751</td></tr><tr><td>冰蟾全息 QXM</td><td>mjda</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>tki</td></tr><tr><td>晚風 Wan Feng</td><td>xim</td></tr><tr><td>海峰五笔 Wubi 98</td><td>sr</td></tr><tr><td>王林快码 WLKM</td><td>uf;p</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>yft</td></tr><tr><td align=center colspan="2"><b>拼音 Pinyin</b></td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>sik</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>cik1</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>tsik7</td></tr><tr><td>正體拼音 Pinyin</td><td>xi</td></tr><tr><td>雙拼加加 Shuangpin++</td><td>xi</td></tr><tr><td align=center colspan="2"><b>以拼音为基 Pinyin-based</b></td></tr><tr><td>二笔快版 Er Bi - Kuai</td><td>xxej</td></tr><tr><td>小鹤音形 Flypy</td><td>xim</td></tr><tr><td>T9</td><td>hspnpphs</td></tr><tr><td>自然码 Zi Ran Ma</td><td>xim</td></tr><tr><td align=center colspan="2"><b>注音 Zhuyin</b></td></tr><tr><td>正體注音 Bopomofo (official)</td><td>vu</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>vu</td></tr><tr><td>臺語注音 Taiwanese</td><td>"vu,e"</td></tr><tr><td>粵語注音 Zyujam</td><td>hud4</td></tr><tr><td align=center colspan="2"><b>以笔顺为基  Stroke-based</b></td></tr><tr><td>筆順碼 Bsm</td><td>983</td></tr><tr><td>大易二碼 Dayi2</td><td>i1</td></tr><tr><td>大易三碼 Dayi3</td><td>ih1</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>IHE1</td></tr><tr><td>大易四碼 Dayi4</td><td>ihe1</td></tr><tr><td>龍飛 Dragonfly</td><td>ihe1</td></tr><tr><td>六碼筆畫 G6 Code</td><td>123312</td></tr><tr><td>筆畫數 Strokes</td><td>804</td></tr><tr><td> 筆順五碼 Stroke5</td><td>"m/,.,"</td></tr><tr><td>郑码 Zheng Ma</td><td>fpd</td></tr><tr><td align=center colspan="2"><b>以倉頡为基 Cangjie-based</b></td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>dhml</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>dhml</td></tr><tr><td>仓颉 Chan Jei</td><td>dhml</td></tr><tr><td>微倉三 Changjei3 </td><td>dhml</td></tr><tr><td>自由大新 FreeNewCJ</td><td>dhl</td></tr><tr><td>正體簡易 SimpleCJ</td><td>dl</td></tr><tr><td>簡易五代 Simplex5</td><td>dl</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>dhl</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>dhl</td></tr><tr><td align=center colspan="2"><b>字符集 Character Encodings</b></td></tr><tr><td>大五碼 Big5p</td><td>aa52</td></tr><tr><td>資訊交換碼 CCCII  </td><td>21442b</td></tr><tr><td>標準交換碼 CNS11643</td><td>14e35</td></tr><tr><td>四角号码 Four Corner</td><td>4292</td></tr><tr><td>電信碼 Telecode</td><td>2649</td></tr><tr><td>統一漢字 Unicode</td><td>6790</td></tr></tbody></table><br>
-
+析|6790|U+6790  <table><tr><td style='padding: 10px; text-align:center'><b>文字 Character(s):</b></td><td style='padding: 10px; text-align:center'><span style='font-size: xx-large'>析</span></td></tr><tr><td  colspan=2>筆順序 / 笔顺序 Stroke Order</td></tr><tr><td style="text-align: center" colspan=2>一丨丿丶丿丿一丨</td></tr><tr><td  colspan=2>字形 Glyph /  雜項 Other</td></tr><tr><td>三角編號 3 Corners</td><td>492700</td></tr><tr><td>行列10 Array10</td><td>4893</td></tr><tr><td>行列30 Array30</td><td>vo</td></tr><tr><td>表形码 Biaoxing</td><td>mjt</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>tki</td></tr><tr><td>縱橫碼 CKC</td><td>4092</td></tr><tr><td>全拼形導碼 Daomax</td><td>mjt</td></tr><tr><td>筆結基因 DNA</td><td>362765</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>yfs</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>d1</td></tr><tr><td>華象直覺  HS pictograph</td><td>YLT</td></tr><tr><td>晶晶碼 Jin Jin</td><td>mjjt</td></tr><tr><td>晶数码 Jin Shu </td><td>487751</td></tr><tr><td>冰蟾全息 QXM</td><td>mjda</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>tki</td></tr><tr><td>晚風 Wan Feng</td><td>xim</td></tr><tr><td>海峰五笔 Wubi 98</td><td>sr</td></tr><tr><td>王林快码 WLKM</td><td>uf;p</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>yft</td></tr><tr><td>五笔新世纪版 Wubi</td><td>sr<br>srh</td></tr><tr><td  colspan=2>拼音 Pinyin</td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>sik</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>cik1</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>tsik7</td></tr><tr><td>正體拼
+音 Pinyin</td><td>xi</td></tr><tr><td>雙拼加加 Shuangpin++</td><td>xi</td></tr><tr><td  colspan=2>以拼音为基 Pinyin-based</td></tr><tr><td>二笔快版
+ Er Bi - Kuai</td><td>xxej</td></tr><tr><td>小鹤音形 Flypy</td><td>xim</td></tr><tr><td>T9</td><td>hspnpphs</td></tr><tr><td>自然码 Zi Ran Ma</td><td>xim</td></tr><tr><td  colspan=2>注音 Zhuyin</td></tr><tr><td>正體注音 Bopomofo (official)</td><td>vu</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>vu</td></tr><tr><td>臺語注音 Taiwanese</td><td>"vu,e"</td></tr><tr><td>粵語注音 Zyujam</td><td>hud4</td></tr><tr><td  colspan=2>以笔顺为基  Stroke-based</td></tr><tr><td>筆順碼 Bsm</td><td>983</td></tr><tr><td>大易二碼 Dayi2</td><td>i1</td></tr><tr><td>大易三碼 Dayi3</td><td>ih1</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>IHE1</td></tr><tr><td>大易四碼 Dayi4</td><td>ihe1</td></tr><tr><td>龍飛 Dragonfly</td><td>ihe1</td></tr><tr><td>六碼筆畫 G6 Code</td><td>123312</td></tr><tr><td>筆畫數 Strokes</td><td>804</td></tr><tr><td> 筆順五碼 Stroke5</td><td>"m/,.,"</td></tr><tr><td>郑码 Zheng Ma</td><td>fpd</td></tr><tr><td  colspan=2>以倉頡为基 Cangjie-based</td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>dhml</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>dhml</td></tr><tr><td>仓颉 Chan Jei</td><td>dhml</td></tr><tr><td>微倉三 Changjei3 </td><td>dhml</td></tr><tr><td>自由大新 FreeNewCJ</td><td>dhl</td></tr><tr><td>正體簡易 SimpleCJ</td><td>dl</td></tr><tr><td>簡易五代 Simplex5</td><td>dl</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>dhl</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>dhl</td></tr><tr><td  colspan=2>>字符集 Character Encodings</td></tr><tr><td>大五碼 Big5p</td><td>aa52</td></tr><tr><td>資訊交換碼 CCCII  </td><td>21442b</td></tr><tr><td>標準交換碼 CNS11643</td><td>14e35</td></tr><tr><td>四角号码 Four Corner</td><td>4292</td></tr><tr><td>電信碼 Telecode</td><td>2649</td></tr><tr><td>統一漢字 Unicode</td><td>6790</td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>1207</td></tr></table><br><hr><span style='font-size: x-small; margin top: 10px'><br><br><a href='gdlookup://localhost/About'>關於 / 关于 / About</a></span>
 
 ### Source Files 資料來源
 [Chinese open-desktop tables](https://github.com/chinese-opendesktop/cin-tables) <br>
-[Openvanilla tables](https://github.com/openvanilla/openvanilla/tree/master/DataTables) <br>	
+[Openvanilla tables](https://github.com/openvanilla/openvanilla/tree/master/DataTables) <br>
+[Zi-wiki](zi-wiki.com), accessed 4 Aug 2022
+
+See also:
+[CNS11643](https://data.gov.tw/dataset/5961)
+[Wubi06](https://github.com/blog2i2j/CNMan.._..UnicodeCJK-WuBi06)	
 	
 ### Licences 許可證 / 许可证
 [數字輸入法 Chinese Input Methods](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Chinese%20Input%20Methods/Licences%20-%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br>
