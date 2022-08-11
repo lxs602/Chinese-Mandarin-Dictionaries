@@ -94,6 +94,30 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 
 ### Source Files 資料來源
 [Makemeahanzi project](https://github.com/skishore/makemeahanzi)<br><br><br>
+
+
+## AnimCJK
+
+### About 說明 / 说明
+"Draw animated... Chinese characters (Hanzi) in correct stroke order using svg, free open-source code."
+
+![日](https://user-images.githubusercontent.com/44102215/184234593-fed83ec4-594a-4355-a1e1-6e5442000112.gif)
+![中](https://user-images.githubusercontent.com/44102215/184234613-9fab0c4b-718d-4615-acc5-fd68086da49f.gif)
+
+"This project is derived from the remarquable [Makemeahanzi project](https://github.com/skishore/makemeahanzi) which is designed to display Chinese characters... Many characters were modified or added in AnimCJK (between three or four thousand at the moment) for various reasons:
+
+- many Japanese characters have a different stroke order, or have a different glyph, or have a different stroke direction or are not commonly used in Chinese, and therefore have no entry in Makemeahanzi.
+- many Chinese traditional characters have a different stroke order, or have a different glyph, or have a different stroke direction or have no entry in Makemeahanzi.
+- many character shapes were just slightly modified to look prettier.
+- some commonly used (but not frequently used) Chinese characters have no entry in Makemeahanzi." (parsimonhi, 9th August 2022)
+
+### Licence 許可證 / 许可证
+[Arphic Public Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/AnimCJK/Licence.txt)
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/AnimCJK)
+
+### Source Files 資料來源
+[animCJK project](https://github.com/parsimonhi/animCJK), accessed 5th Aug 2022<br><br><br>
   
   
 ## Chinese Word Frequencies 词频分析 / 詞頻分析
