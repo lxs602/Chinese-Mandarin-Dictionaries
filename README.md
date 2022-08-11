@@ -99,7 +99,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 ## AnimCJK
 
 ### About 說明 / 说明
-"Draw animated... Chinese characters (Hanzi) in correct stroke order using svg, free open-source code."
+"Draw animated... Chinese characters (Hanzi) in correct stroke order using svg, free open-source code." Includes 7197 images.
 
 ![日](https://user-images.githubusercontent.com/44102215/184234593-fed83ec4-594a-4355-a1e1-6e5442000112.gif)
 ![中](https://user-images.githubusercontent.com/44102215/184234613-9fab0c4b-718d-4615-acc5-fd68086da49f.gif)
