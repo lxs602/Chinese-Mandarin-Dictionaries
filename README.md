@@ -105,9 +105,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 ![中](https://user-images.githubusercontent.com/44102215/184234613-9fab0c4b-718d-4615-acc5-fd68086da49f.gif)
 
 "This project is derived from the remarquable [Makemeahanzi project](https://github.com/skishore/makemeahanzi) which is designed to display Chinese characters... Many characters were modified or added in AnimCJK (between three or four thousand at the moment) for various reasons:
-
-- many Japanese characters have a different stroke order, or have a different glyph, or have a different stroke direction or are not commonly used in Chinese, and therefore have no entry in Makemeahanzi.
-- many Chinese traditional characters have a different stroke order, or have a different glyph, or have a different stroke direction or have no entry in Makemeahanzi.
+- ...many Chinese traditional characters have a different stroke order, or have a different glyph, or have a different stroke direction or have no entry in Makemeahanzi.
 - many character shapes were just slightly modified to look prettier.
 - some commonly used (but not frequently used) Chinese characters have no entry in Makemeahanzi." (parsimonhi, 9th August 2022)
 
