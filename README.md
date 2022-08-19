@@ -2,10 +2,11 @@
 
 ## Readme: Work in progress
 
-<img align="left" src="https://user-images.githubusercontent.com/44102215/185718268-8303d31f-3081-45aa-9efe-cbda589e0f67.png">
+<img align="left" src="https://user-images.githubusercontent.com/44102215/185719302-639d49b7-867c-4b48-a94b-ac274d222206.svg">
 
 
 ## About 說明 / 说明
+
 
 免費中文/中英文詞典收藏 / 免費中文/中英文词典收藏。
 
