@@ -138,7 +138,7 @@ A dictionary of Chinese character and word frequencies, in movies, print matter 
 Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/License.txt)
 
 ### 资料来源 Source Files
-[See Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/README.md)
+[See Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/README.md)<br><br><br>
 
 
 
@@ -231,8 +231,8 @@ See description from compiler's website below.
 Freely available
 
 ### Source Files 資料來源
-[Guoxuedashi Zdcy](http://www.guoxuedashi.com/download)
-<br><br><br>
+[Guoxuedashi Zdcy](http://www.guoxuedashi.com/download)<br><br><br>
+	
 	
 ## 數字輸入法和筆順序 / 数字输入法和笔顺序<br>Chinese Input Methods and Stroke Order
 
@@ -282,7 +282,7 @@ Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 1
 Unicode code point to character look-up performed using: [r12a Unicode conversion](https://r12a.github.io/app-conversion)<br>
 ### Licences 許可證 / 许可证
 Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html). Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.<br>
-Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br>	
+Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br><br>
 
 
 ## 部首字典 Radical dictionary
@@ -534,10 +534,8 @@ Chinese words have been segmented automatically, without checking in person. <i>
 Word segmentation was with [pywordseg (ELMo)](https://github.com/voidism/pywordseg), using CC-CEDICT dictionary and a Chinese word list of [Bible names and places](https://github.com/guoshengkang/Bible-Word-Statistics/tree/master/output_file_tf), then indexed using [word_line_concordance_app](https://github.com/lostchristmas0/word_line_concordance_application) by lostchristmas0.  <br>The simplified and traditional versions of the CUV were segmented separately, to avoid errors converting from traditional to simplified, so there may be different mistakes in each version.  
 
 ### 文本  Choice of Text
-欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。
-
-钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。
-
+欽定版聖經於 (KJV) 1611 年出版。建議 WEB-BE，因為它更簡單。<br>
+钦定版圣经于 (KJV) 1611 年出版。建议 WEB-BE，因为它更简单。<br>
 The CUV was chosen as it is widely used, in the public domain, and available already segmented by Strong's numbers. For similar reasons, the WEB-BE is a free, accurate and also readable English version. <br>The KJV is also free, but is not recommended for those without a very good use of English.
 
 ### Related Texts
