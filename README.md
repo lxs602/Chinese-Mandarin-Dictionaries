@@ -101,7 +101,6 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 ### About 說明 / 说明
 "Draw animated... Chinese characters (Hanzi) in correct stroke order using svg, free open-source code." Includes 7197 images.
 
-![日](https://user-images.githubusercontent.com/44102215/184234593-fed83ec4-594a-4355-a1e1-6e5442000112.gif)
 ![中](https://user-images.githubusercontent.com/44102215/184234613-9fab0c4b-718d-4615-acc5-fd68086da49f.gif)
 
 "This project is derived from the remarquable [Makemeahanzi project](https://github.com/skishore/makemeahanzi) which is designed to display Chinese characters... Many characters were modified or added in AnimCJK (between three or four thousand at the moment) for various reasons:
@@ -120,10 +119,10 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
   
 ## Chinese Word Frequencies 词频分析 / 詞頻分析
 
-
 ### About 說明 / 说明
-<br>...
-<br>
+現代漢語常用字表 / 现代汉语常用字表
+A dictionary of Chinese character and word frequencies, in movies, print matter and networks. 
+
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Word%20Frequencies)
 
@@ -138,22 +137,9 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 ### Licence 許可證 / 许可证
 Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/License.txt)
 
-<br>Data according to licences below:<br>
-Sources of word frequency data and their licences:
-<br>
+### 资料来源 Source Files
+[See Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/README.md)
 
-||Heading|Corpus reference|Corpus licence|Word list Source|Word list licence|  
-|--|--|--|--|--|--|  
-|1|Character/Word freq. (Books)|[Da, Jun. 2004. Chinese text computing](http://lingua.mtsu.edu/chinese-computing)|[Copyright notice](https://lingua.mtsu.edu/chinese-computing/copyright.html)	|[Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)|As for corpus| 
-|2|Character/Word freq. (Movies)|[Cai, Q., & Brysbaert, M. (2010). SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles. Plos ONE, 5(6), e10729](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/overview.htm)|Creative Commons Attribution Licence|[Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)|As for corpus|  
-|3|Word freq. (Mixed Print)|[Graff, David, and Ke Chen. Chinese Gigaword LDC2003T09. Web Download. Philadelphia: Linguistic Data Consortium, 2003](https://catalog.ldc.upenn.edu/LDC2003T09)|[LDC User Agreement for Non-Members](https://catalog.ldc.upenn.edu/license/ldc-non-members-agreement.pdf)|[Link](http://corpus.leeds.ac.uk/frqc/giga-zh.num)|[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)|
-|4|Character freq. (Usenet)|kFrequency field in UniHan database, Unicode version: 11.0.0|[Unicode licence](https://www.unicode.org/license.html)|[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip)|As for corpus|  
-|5|Word freq. (Internet)|[Sharoff, S. (2006) Creating general-purpose corpora using automated search engine queries. In Marco Baroni and Silvia Bernardini, (eds), WaCky! Working papers on the Web as Corpus. Gedit, Bologna](http://wackybook.sslmit.unibo.it)|Creative Commons Attribution-NoDerivs 2.5 License|[Link](http://corpus.leeds.ac.uk/internet/i-zh.num)|[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)|  
-|6|Word freq. (News)|McEnery, A. M. and Xiao, R. Z. (2003) The Lancaster Corpus of Mandarin Chinese. European Language Resources Association / Oxford Text Archive, Paris, France / Oxford, UK.|[The Lancaster Corpus of Mandarin Chinese End User License](https://www.lancaster.ac.uk/fass/projects/corpus/LCMC/lcmc/lcmc_license.htm)|[Link](http://corpus.leeds.ac.uk/frqc/lcmc.num)|[Link](http://corpus.leeds.ac.uk/list.html) : [“The lists are distributed under the Creative Commons (CC BY) Attribution license”](https://creativecommons.org/licenses/by/2.5/legalcode)|  
-|7|HSK Levels|&nbsp;|&nbsp;|[Link](http://www.chinesetest.cn/userfiles/file/HSK/HSK-2012.xls)|&nbsp;|  
-|8|Pinyin ratios|kHanyuPinlu field in UniHan database, Unicode version: 11.0.0|[Unicode licence](https://www.unicode.org/license.html)|[Link](http://ftp.unicode.org/Public/UNIDATA/Unihan.zip) from: [Chinese Lexicon, by Peter Olson](https://github.com/peterolson/chinese-lexicon/tree/master/statistics)|As for corpus|
-
-<sub><b>Notes:</b> All references accessed 26 Dec 2020.</sub><br><br><br>
 
 
 ## BCC 英汉词典 - BCC Corpus English-Chinese Wordlist
