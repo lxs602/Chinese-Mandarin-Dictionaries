@@ -2,11 +2,14 @@
 
 ## Readme: Work in progress
 
+<img align="left" src="https://user-images.githubusercontent.com/44102215/185718268-8303d31f-3081-45aa-9efe-cbda589e0f67.png">
+
+
 ## About 說明 / 说明
 
 免費中文/中英文詞典收藏 / 免費中文/中英文词典收藏。
 
-A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.<br>
+A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.<br><br><br><br><br><br>
 
 ### Todo 接下來要做
 
