@@ -2,8 +2,7 @@
 
 ## Readme: Work in progress
 
-<img align="left" src="https://user-images.githubusercontent.com/44102215/185719302-639d49b7-867c-4b48-a94b-ac274d222206.svg">
-
+<img align="left" src="https://user-images.githubusercontent.com/44102215/185764686-34a60498-8d4e-4b6f-8119-dd61e2c9c6ae.svg">
 
 ## About 說明 / 说明
 
