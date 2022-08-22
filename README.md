@@ -219,7 +219,7 @@ Based on the <a href=https://www.chise.org/ids-find>Chise project</a> and <a hre
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary)
 
 ### Licence 許可證 / 许可证
-• Chise IDS - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/Licences.md>GPLv2</a>
+• Chise IDS - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/Licences.md>GPLv2</a><br>
 • IDS (白易) - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/Licences.md>MIT Licence</a><br>
 • Radically - <a href=https://github.com/Radically/radically#licenses>as for Chise</a><br><br><br>
 
