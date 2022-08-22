@@ -14,4 +14,5 @@
   <tr><td>2022-Jul-14</td><td>Added Wikimedia image library. </td></tr>
   <tr><td>2022-Aug-06</td><td>Updated Input Methods dictionary - added Wubi '06 and character stroke orders.</td></tr>
   <tr><td>2022-Aug-11</td><td>Added AnimCJK stroke animations</td></tr>
+   <tr><tr>2022-Aug-22</td><tr>Added supercompositions and yi-bai IDS to decomposition dictionary, and renamed to 汉字部件典 Character Component Dictionary</td></tr>
 </table>
