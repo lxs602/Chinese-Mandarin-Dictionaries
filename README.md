@@ -201,7 +201,9 @@ Freely available
 ## 汉字部件典 Character Component Dictionary
 
 ### About 說明 / 说明
-A dictionary of 93888 Chinese characters shown broken down into their components, but also shown as components of other characters. For example, '重' can be described as ⿻𡈼旦, and it is itself also a component of other characters, which are grouped in the example below under 合體字 / 合体字 Combinations. 
+A dictionary of Chinese characters shown broken down into their components, but also shown as components of other characters. A total of 93888 terms. 
+
+For example, '重' can be described as ⿻𡈼旦, and it is itself also a component of other characters, which are grouped in the example below under 合體字 / 合体字 Combinations. 
 
 Note, the character decompositions are only graphical - they do not indicate how the character was first formed (<i>'etymology'</i>).
 
