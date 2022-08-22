@@ -201,13 +201,13 @@ Freely available
 ## 汉字部件典 Character Component Dictionary
 
 ### About 說明 / 说明
-A dictionary of 93888 Chinese characters shown broken down into their components, but also shown as components of other characters. For example, '重' can be described as ⿻𡈼旦. It is itself also a component of other characters, which are grouped below under 合體字 / 合体字 Combinations. 
+A dictionary of 93888 Chinese characters shown broken down into their components, but also shown as components of other characters. For example, '重' can be described as ⿻𡈼旦, and it is itself also a component of other characters, which are grouped below under 合體字 / 合体字 Combinations. 
 
 Note, the character decompositions are only graphical - they do not indicate how the character was first formed (<i>'etymology'</i>).
 
 See the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/README.md>Readme</a> for further details.
 
-Also of interest may be the <a href=https://radically.bryankok.com>Radically online app</a>, written in typescript, which can also be used offline.
+Also of interest may be the <a href=https://radically.bryankok.com>Radically online app</a>, written in typescript, which can be used offline.
 
 ### Source Files 資料來源
 Based on the <a href=https://www.chise.org/ids-find>Chise project</a> and <a href=https://github.com/yi-bai/ids>白易 IDS</a>. 合體字 / 合体字 Character combinations taken from <a href=https://github.com/Radically/radically>Radically</a>.
