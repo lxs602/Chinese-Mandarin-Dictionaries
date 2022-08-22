@@ -198,25 +198,30 @@ Freely available
 ### Source Files 資料來源
 [Chinese lexicon project](https://github.com/peterolson/chinese-lexicon)<br><br><br>
 
-##汉字部件典 Character Component Dictionary
+## 汉字部件典 Character Component Dictionary
 
 ### About 說明 / 说明
 A dictionary of Chinese characters shown broken down into their components, but also shown as components of other characters. Contains 93888 terms.
 
-Based on the <a href=https://www.chise.org/ids-find>Chise project</a> and <a href=https://github.com/yi-bai/ids>白易 IDS</a>. 合體字 / 合体字 Character combinations taken from <a href=https://github.com/Radically/radically>Radically</a>.
+Note, the character decompositions are only graphical - they do not indicate how the character was first formed (<i>'etymology'</i>).
+
+See the <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/README.md>Readme</a> for further details.
 
 Also of interest may be the <a href=https://radically.bryankok.com>Radically online app</a>, written in typescript, which can also be used offline.
 
+### Source Files 資料來源
+Based on the <a href=https://www.chise.org/ids-find>Chise project</a> and <a href=https://github.com/yi-bai/ids>白易 IDS</a>. 合體字 / 合体字 Character combinations taken from <a href=https://github.com/Radically/radically>Radically</a>.
+
 ### Example 事例
 
-<div><table id="D_table_id"><tbody><tr><td style="font-size: 1em">字 Character:</td><td align=center style="text-align: center; font-size: 2.5em; padding: 12px">重</td></tr><tr><td colspan="2" align=center style="text-align: center; background-color: linen; font-size: 1em">基本属性 Basic Properties</td></tr><tr><td style="font-size: 1em">解釋 / 解释 Interpretation<br>(日文 Jp):</td><td style="font-size: 1em"><span style="color: SeaGreen">東</span>聲/声&nbsp;&nbsp;&nbsp;<span style="font-size: 0.75em">(Phonetic:</span> <span style="color: SeaGreen">東</span>)<br>#【字通】⿱<span style="color: SeaGreen">東</span>土</td></tr><tr><td style="font-size: 1em">反切 Fanqie (日文 Jp)</td><td style="font-size: 1em">直隴 直冢</td></tr><tr><td style="font-size: 1em">總筆劃數 / 总笔划数<br>Total Strokes:</td><td style="font-size: 1em">9</td></tr><tr><td style="font-size: 1em">統一漢字 Unicode:</td><td style="font-size: 1em">U+91CD</td></tr><tr><td align=center colspan="2" style="text-align: center; background-color: linen; font-size: 1em">表意文字描述字符<br>Ideographic Description Sequence</td></tr><tr><td style="font-size: 1em">IDS (白易):</td><td>⿻𡈼旦</td></tr><tr><td style="font-size: 1em">IDS (Chise):</td><td>重</td></tr><tr><td style="font-size: 1em">Analysis (IDS):</td><td>壬<span style="color: SeaGreen">東</span></td></tr><tr><td style="font-size: 1em">Analysis (Hanyo Denshi):</td><td>丿一<span style="color: Chocolate">里</span></td></tr><tr><td colspan="2" algin=center style="text-align: center; background-color: linen; font-size: 1em">合體字 / 合体字 Combinations</td></tr><tr><td colspan="2"><p id="p_id" style="margin-top: 0"><span style="font-size: 0.66em">11 strokes</span><br>𠝤，<span style="color: Chocolate">𫍳</span>，偅，<span style="color: SeaGreen">動</span>，隀</p><p><span style="font-size: 0.66em">12 strokes</span><br>𠞕，𡈈，𡍺，𡥿，𡰁，𡺍，𢝆，𦱦，𨔝，𨤨，<span style="color: Chocolate">𫟆</span>，𫟚，𬪼，𬪽，㡖，㣫，喠，堹，媑，尰，揰，湩，董</p><p><span style="font-size: 0.66em">13 strokes</span><br>𣱧，𤋱，𤚏，𫯰，𫯳，𬁇，𬎮，𬪾，𮡕，𰃏，𰢈，㮔，歱，煄，<span style="color: SeaGreen">腫</span></p><p><span style="font-size: 0.66em">14 strokes</span><br>𠽚，𤭮，𥍽，𥏱，𥔧，𥠭，𫒃，𬔥，𭽰，𭿍，𰩨，畽，瘇，<span style="color: SeaGreen">種</span>，褈，<span style="color: Chocolate">锺</span></p><p><span style="font-size: 0.66em">15 strokes</span><br>𠪵，𢡹，𥻝，𦉂，𦑝，𦔉，𦩰，𨤯，𫼂，𰰙，箽，<span style="color: SeaGreen">緟</span>，蝩，<span style="color: SeaGreen">衝</span></p><p><span style="font-size: 0.66em">16 strokes</span><br>𠏳，𡦢，𣊳，𤏍，𧳮，𧼩，𨉢，𮠵，𰻈，𰼜，<span style="color: SeaGreen">諥</span>，踵</p><p><span style="font-size: 0.66em">17 strokes</span><br>𠄉，𡣢，𡮵，𡮶，𧳿，𨵮，𨿿，<span style="color: Chocolate">𩾋</span>，𪧃，𰼞，濌，<span style="color: SeaGreen">鍾</span></p><p><span style="font-size: 0.66em">18 strokes</span><br>𨤴，𨤶，𩩳，𩴂，𬱴</p><p><span style="font-size: 0.66em">19 strokes</span><br>𫒅，𫘐，𮡡</p><p><span style="font-size: 0.66em">20 strokes</span><br>𩅞，𪏘，𮡞，<span style="color: SeaGreen">䱰</span>，䳯</p><p><span style="font-size: 0.66em">21 strokes</span><br>𨤹，𪐈，𬰎，䵯</p><p><span style="font-size: 0.66em">22 strokes</span><br>𧰜</p><p><span style="font-size: 0.66em">24 strokes</span><br>𢥽</p><p><span style="font-size: 0.66em">30 strokes</span><br>𨤼</p></td></tr></tbody></table><br><span style="font-size: 0.75em"><p>異體字 / 异体字  National variants:<br><span style="color: Chocolate">简 Simp.</span>, <span style="color: SeaGreen">繁 Trad.</span>, <span style="color: Crimson">日 Jp.</span>, <span style="color: RoyalBlue">韩 Kor.</span>, <span style="color: Gray">另 Other</span></p><br></div>
+<div><table><tbody><tr><td style="font-size: 1em">字 Character:</td><td align=center style="text-align: center; font-size: 2.5em; padding: 12px">重</td></tr><tr><td colspan="2" align=center style="text-align: center; background-color: linen; font-size: 1em">基本属性 Basic Properties</td></tr><tr><td style="font-size: 1em">解釋 / 解释 Interpretation<br>(日文 Jp):</td><td style="font-size: 1em"><span style="color: SeaGreen">東</span>聲/声&nbsp;&nbsp;&nbsp;<span style="font-size: 0.75em">(Phonetic:</span> <span style="color: SeaGreen">東</span>)<br>#【字通】⿱<span style="color: SeaGreen">東</span>土</td></tr><tr><td style="font-size: 1em">反切 Fanqie (日文 Jp)</td><td style="font-size: 1em">直隴 直冢</td></tr><tr><td style="font-size: 1em">總筆劃數 / 总笔划数<br>Total Strokes:</td><td style="font-size: 1em">9</td></tr><tr><td style="font-size: 1em">統一漢字 Unicode:</td><td style="font-size: 1em">U+91CD</td></tr><tr><td align=center colspan="2" style="text-align: center; background-color: linen; font-size: 1em">表意文字描述字符<br>Ideographic Description Sequence</td></tr><tr><td style="font-size: 1em">IDS (白易):</td><td>⿻𡈼旦</td></tr><tr><td style="font-size: 1em">IDS (Chise):</td><td>重</td></tr><tr><td style="font-size: 1em">Analysis (IDS):</td><td>壬<span style="color: SeaGreen">東</span></td></tr><tr><td style="font-size: 1em">Analysis (Hanyo Denshi):</td><td>丿一<span style="color: Chocolate">里</span></td></tr><tr><td colspan="2" algin=center style="text-align: center; background-color: linen; font-size: 1em">合體字 / 合体字 Combinations</td></tr><tr><td colspan="2"><p id="p_id" style="margin-top: 0"><span style="font-size: 0.66em">11 strokes</span><br>𠝤，<span style="color: Chocolate">𫍳</span>，偅，<span style="color: SeaGreen">動</span>，隀</p><p><span style="font-size: 0.66em">12 strokes</span><br>𠞕，𡈈，𡍺，𡥿，𡰁，𡺍，𢝆，𦱦，𨔝，𨤨，<span style="color: Chocolate">𫟆</span>，𫟚，𬪼，𬪽，㡖，㣫，喠，堹，媑，尰，揰，湩，董</p><p><span style="font-size: 0.66em">13 strokes</span><br>𣱧，𤋱，𤚏，𫯰，𫯳，𬁇，𬎮，𬪾，𮡕，𰃏，𰢈，㮔，歱，煄，<span style="color: SeaGreen">腫</span></p><p><span style="font-size: 0.66em">14 strokes</span><br>𠽚，𤭮，𥍽，𥏱，𥔧，𥠭，𫒃，𬔥，𭽰，𭿍，𰩨，畽，瘇，<span style="color: SeaGreen">種</span>，褈，<span style="color: Chocolate">锺</span></p><p><span style="font-size: 0.66em">15 strokes</span><br>𠪵，𢡹，𥻝，𦉂，𦑝，𦔉，𦩰，𨤯，𫼂，𰰙，箽，<span style="color: SeaGreen">緟</span>，蝩，<span style="color: SeaGreen">衝</span></p><p><span style="font-size: 0.66em">16 strokes</span><br>𠏳，𡦢，𣊳，𤏍，𧳮，𧼩，𨉢，𮠵，𰻈，𰼜，<span style="color: SeaGreen">諥</span>，踵</p><p><span style="font-size: 0.66em">17 strokes</span><br>𠄉，𡣢，𡮵，𡮶，𧳿，𨵮，𨿿，<span style="color: Chocolate">𩾋</span>，𪧃，𰼞，濌，<span style="color: SeaGreen">鍾</span></p><p><span style="font-size: 0.66em">18 strokes</span><br>𨤴，𨤶，𩩳，𩴂，𬱴</p><p><span style="font-size: 0.66em">19 strokes</span><br>𫒅，𫘐，𮡡</p><p><span style="font-size: 0.66em">20 strokes</span><br>𩅞，𪏘，𮡞，<span style="color: SeaGreen">䱰</span>，䳯</p><p><span style="font-size: 0.66em">21 strokes</span><br>𨤹，𪐈，𬰎，䵯</p><p><span style="font-size: 0.66em">22 strokes</span><br>𧰜</p><p><span style="font-size: 0.66em">24 strokes</span><br>𢥽</p><p><span style="font-size: 0.66em">30 strokes</span><br>𨤼</p></td></tr></tbody></table><br><span style="font-size: 0.75em"><p>異體字 / 异体字  National variants:<br><span style="color: Chocolate">简 Simp.</span>, <span style="color: SeaGreen">繁 Trad.</span>, <span style="color: Crimson">日 Jp.</span>, <span style="color: RoyalBlue">韩 Kor.</span>, <span style="color: Gray">另 Other</span></p><br></div>
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary)
 
 ### Licence 許可證 / 许可证
-Chise IDS - GPLv2<br>
-IDS (白易) - MIT Licence<br>
-Radically - <a href=https://github.com/Radically/radically#licenses>as for Chise</a><br><br><br>
+• Chise IDS - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/Licences.md>GPLv2</a>
+• IDS (白易) - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%B1%89%E5%AD%97%E9%83%A8%E4%BB%B6%E5%85%B8%20Character%20Component%20Dictionary/Licences.md>MIT Licence</a><br>
+• Radically - <a href=https://github.com/Radically/radically#licenses>as for Chise</a><br><br><br>
 
 
 
@@ -229,7 +234,7 @@ A Chinese-English vocabulary, from sentences submitted to tatoeba.org, with 47,9
 
 ### Example 事例： 电影院 
 
-<table><tr><td><p>我一个月去一次电影院。<br>
+<ol><table><tr><td><p>我一个月去一次电影院。<br>
 I go to the movies once a month.</p>
 
 <p>我们去电影院怎么样？<br>
@@ -260,7 +265,7 @@ I went to the cinema yesterday.<br>
 Yesterday I went to the movies.</p>
 
 <p>沿着这条大道走，你就会找到电影院了。<br>
-Go along this street, and you'll find the movie theater.</p></td></tr></table>
+Go along this street, and you'll find the movie theater.</p></td></tr></table></ol>
 
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
@@ -396,22 +401,6 @@ A dictionary of etymology of 6,379 Chinese characters, with their Japanese meani
 
 ### Licence 許可證 / 许可证
 Freely distributed.<br><br><br>
-
-	
-## CJKVI Decomposition
-
-### About 說明 / 说明
-Shows the decomposition of 93,891 hanzi characters into their constituent parts, e.g. '亭' as '⿱⿳亠口冖丁', or '乷' as '⿱沙乙'. As graphical breakdowns, these are only visual suggestions - they do not indicate the <i>etymology</i> (how the character was first formed).
-	
-For further information, see the [readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/README.md).
-
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CJKVI%20Decomposition)
-	
-### Acknowledgements 鳴謝 / 鸣谢
-Based on sequences by the (CHISE) project, hosted at [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids), as part of [Kanji Database](http://kanji-database.sourceforge.net). This dictionary uses data modified to remove as many entity references as possible, at [cjkvi-ids-unicode](https://github.com/Transfusion/cjkvi-ids-unicode), by Transfusion.
-	
-### Licences 許可證 / 许可证
-Chise IDS: No licence, [all rights reserved](https://gitlab.chise.org/CHISE/ids) by chise.org .<br>Interpretations and Hanyo Denshi analysis: [GPLv2](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CJKVI%20Decomposition/Licence.md), see also [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) and [Kanji database](http://kanji-database.sourceforge.net)<br><br><br>
 
 	
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
