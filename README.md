@@ -91,7 +91,7 @@ Add description<br>
 Add note re overlay prob on goldendict if used with cc-cedict<br>
 
 ### Licence 許可證 / 许可证
-[GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)
+[LGPLv3](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/MakeMeaHanzi%20%28Stroke%20animations%29/Licence%20-%20LGPL-3.0.txt)
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20%28Stroke%20animations%29)
 
@@ -123,7 +123,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 ## Chinese Word Frequencies 词频分析 / 詞頻分析
 
 ### About 說明 / 说明
-現代漢語常用字表 / 现代汉语常用字表
+現代漢語常用字表。/ 现代汉语常用字表。<br>
 A dictionary of Chinese character and word frequencies, in movies, print matter and networks. 
 
 
@@ -139,6 +139,7 @@ A dictionary of Chinese character and word frequencies, in movies, print matter 
 
 ### Licence 許可證 / 许可证
 Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/License.txt)
+[See Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/README.md) for licences for data fields.
 
 ### 资料来源 Source Files
 [See Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Word%20Frequencies/README.md)<br><br><br>
@@ -196,7 +197,28 @@ Freely available
 
 ### Source Files 資料來源
 [Chinese lexicon project](https://github.com/peterolson/chinese-lexicon)<br><br><br>
-	
+
+##汉字部件典 Character Component Dictionary
+
+### About 說明 / 说明
+A dictionary of Chinese characters shown broken down into their components, but also shown as components of other characters. Contains 93888 terms.
+
+Based on the <a href=https://www.chise.org/ids-find>Chise project</a> and <a href=https://github.com/yi-bai/ids>白易 IDS</a>. 合體字 / 合体字 Character combinations taken from <a href=https://github.com/Radically/radically>Radically</a>.
+
+Also of interest may be the <a href=https://radically.bryankok.com>Radically online app</a>, written in typescript, which can also be used offline.
+
+### Example 事例
+
+<div><table id="D_table_id"><tbody><tr><td style="font-size: 1em">字 Character:</td><td align=center style="text-align: center; font-size: 2.5em; padding: 12px">重</td></tr><tr><td colspan="2" align=center style="text-align: center; background-color: linen; font-size: 1em">基本属性 Basic Properties</td></tr><tr><td style="font-size: 1em">解釋 / 解释 Interpretation<br>(日文 Jp):</td><td style="font-size: 1em"><span style="color: SeaGreen">東</span>聲/声&nbsp;&nbsp;&nbsp;<span style="font-size: 0.75em">(Phonetic:</span> <span style="color: SeaGreen">東</span>)<br>#【字通】⿱<span style="color: SeaGreen">東</span>土</td></tr><tr><td style="font-size: 1em">反切 Fanqie (日文 Jp)</td><td style="font-size: 1em">直隴 直冢</td></tr><tr><td style="font-size: 1em">總筆劃數 / 总笔划数<br>Total Strokes:</td><td style="font-size: 1em">9</td></tr><tr><td style="font-size: 1em">統一漢字 Unicode:</td><td style="font-size: 1em">U+91CD</td></tr><tr><td align=center colspan="2" style="text-align: center; background-color: linen; font-size: 1em">表意文字描述字符<br>Ideographic Description Sequence</td></tr><tr><td style="font-size: 1em">IDS (白易):</td><td>⿻𡈼旦</td></tr><tr><td style="font-size: 1em">IDS (Chise):</td><td>重</td></tr><tr><td style="font-size: 1em">Analysis (IDS):</td><td>壬<span style="color: SeaGreen">東</span></td></tr><tr><td style="font-size: 1em">Analysis (Hanyo Denshi):</td><td>丿一<span style="color: Chocolate">里</span></td></tr><tr><td colspan="2" algin=center style="text-align: center; background-color: linen; font-size: 1em">合體字 / 合体字 Combinations</td></tr><tr><td colspan="2"><p id="p_id" style="margin-top: 0"><span style="font-size: 0.66em">11 strokes</span><br>𠝤，<span style="color: Chocolate">𫍳</span>，偅，<span style="color: SeaGreen">動</span>，隀</p><p><span style="font-size: 0.66em">12 strokes</span><br>𠞕，𡈈，𡍺，𡥿，𡰁，𡺍，𢝆，𦱦，𨔝，𨤨，<span style="color: Chocolate">𫟆</span>，𫟚，𬪼，𬪽，㡖，㣫，喠，堹，媑，尰，揰，湩，董</p><p><span style="font-size: 0.66em">13 strokes</span><br>𣱧，𤋱，𤚏，𫯰，𫯳，𬁇，𬎮，𬪾，𮡕，𰃏，𰢈，㮔，歱，煄，<span style="color: SeaGreen">腫</span></p><p><span style="font-size: 0.66em">14 strokes</span><br>𠽚，𤭮，𥍽，𥏱，𥔧，𥠭，𫒃，𬔥，𭽰，𭿍，𰩨，畽，瘇，<span style="color: SeaGreen">種</span>，褈，<span style="color: Chocolate">锺</span></p><p><span style="font-size: 0.66em">15 strokes</span><br>𠪵，𢡹，𥻝，𦉂，𦑝，𦔉，𦩰，𨤯，𫼂，𰰙，箽，<span style="color: SeaGreen">緟</span>，蝩，<span style="color: SeaGreen">衝</span></p><p><span style="font-size: 0.66em">16 strokes</span><br>𠏳，𡦢，𣊳，𤏍，𧳮，𧼩，𨉢，𮠵，𰻈，𰼜，<span style="color: SeaGreen">諥</span>，踵</p><p><span style="font-size: 0.66em">17 strokes</span><br>𠄉，𡣢，𡮵，𡮶，𧳿，𨵮，𨿿，<span style="color: Chocolate">𩾋</span>，𪧃，𰼞，濌，<span style="color: SeaGreen">鍾</span></p><p><span style="font-size: 0.66em">18 strokes</span><br>𨤴，𨤶，𩩳，𩴂，𬱴</p><p><span style="font-size: 0.66em">19 strokes</span><br>𫒅，𫘐，𮡡</p><p><span style="font-size: 0.66em">20 strokes</span><br>𩅞，𪏘，𮡞，<span style="color: SeaGreen">䱰</span>，䳯</p><p><span style="font-size: 0.66em">21 strokes</span><br>𨤹，𪐈，𬰎，䵯</p><p><span style="font-size: 0.66em">22 strokes</span><br>𧰜</p><p><span style="font-size: 0.66em">24 strokes</span><br>𢥽</p><p><span style="font-size: 0.66em">30 strokes</span><br>𨤼</p></td></tr></tbody></table><br><span style="font-size: 0.75em"><p>異體字 / 异体字  National variants:<br><span style="color: Chocolate">简 Simp.</span>, <span style="color: SeaGreen">繁 Trad.</span>, <span style="color: Crimson">日 Jp.</span>, <span style="color: RoyalBlue">韩 Kor.</span>, <span style="color: Gray">另 Other</span></p><br></div>
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
+
+### Licence 許可證 / 许可证
+Chise IDS - GPLv2<br>
+IDS (白易) - MIT Licence<br>
+Radically - <a href=https://github.com/Radically/radically#licenses>as for Chise</a><br><br><br>
+
+
 
 ## Tatoeba Chinese-English Vocabulary
 
@@ -204,6 +226,42 @@ Freely available
 A Chinese-English vocabulary, from sentences submitted to tatoeba.org, with 47,969 phrases (dowloaded December 2020). 
 
 “Tatoeba is a collection of sentences and translations. It's collaborative, open, free and even addictive.” (from the tatoeba website) <br><br>To list all the sentences with audio, search for the term ‘audio’.<br><br>Chinese words segmented using [jieba](https://github.com/fxsjy/jieba). Thanks also to ["Generating Anki decks with audio from the Tatoeba Project"](https://digitalwords.net/anki/tatoeba-audio/index.eng.html), accessed December 2020. 
+
+### Example 事例： 电影院 
+
+<table><tr><td><p>我一个月去一次电影院。<br>
+I go to the movies once a month.</p>
+
+<p>我们去电影院怎么样？<br>
+How about going to the movies?<br>
+Shall we go to the cinema?<br>
+How about going to the cinema?<br></p>
+
+<p>她不愿松开我，直到我同意和她去电影院。<br>
+She wouldn't let up until I agreed to go to the movies with her.</p>
+
+<p>如果你感到无聊，我建议你去电影院。<br>
+If you're bored, I suggest you to go to the cinema.</p>
+
+<p>你常常去电影院吗？<br>
+Do you go to the movies often?</p>
+
+<p>广场东边有一家电影院，从这儿到大概要走十分钟。<br>
+There's a movie theatre on the east side of the plaza, about ten minutes walk from here.</p>
+
+<p>您想去电影院还是去剧院吗？<br>
+Do you want to go to the cinema or the theater?</p>
+
+<p>把它相较于其他有意思的活动：去电影院，看书，散步，跟朋友聊天等等。<br>
+Compare it to other enjoyable activities: going to the cinema, reading books, going for walks, chatting to friends etc.</p>
+
+<p>昨天我去电影院。<br>
+I went to the cinema yesterday.<br>
+Yesterday I went to the movies.</p>
+
+<p>沿着这条大道走，你就会找到电影院了。<br>
+Go along this street, and you'll find the movie theater.</p></td></tr></table>
+
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Tatoeba%20Chinese-English%20Vocabulary)
 
@@ -242,7 +300,7 @@ Freely available
 ### About 說明 / 说明
 A compilation of 62 freely avaialble Chinese input method codes, as listed in this [table](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order/README.md) or [here](https://chinese.stackexchange.com/questions/43465/incomplete-list-of-free-chinese-input-methods-in-current-use/43924#43924).
 
-Also includes character stroke order for handwriting, e.g. 尋： 乙一一一丨一丨乙一一丨丶。
+Also includes character stroke order for handwriting, e.g.<br>尋： 乙一一一丨一丨乙一一丨丶。
 	
 See also: <br>
 [吳語臺語字輸入法 Wu and Minnan](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%90%B3%E8%AA%9E%E8%87%BA%E8%AA%9E%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%20Wu%20and%20Minnan%20Phonetic%20and%20Input%20Methods)<br>
@@ -372,7 +430,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%95%99%E8%82%B2%E9%83%A8%E7%95%B0%E9%AB%94%E5%AD%97%E7%B4%A2%E5%BC%95%E5%AD%97%E5%85%B8%20Taiwan%20MOE%20Index%20of%20Variant%20Characters)
 
-### Licence 許可證 / 许可证g
+### Licence 許可證 / 许可证
 [Creative Commons NonCommercial 3.0 Unported Licence (No derivatives)](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8%28%E7%AC%AC%E4%BA%94%E7%89%88%29%20Taiwan%20MOE%20Dict/Licence%20-%20CC%20BY-ND%203.0.txt)
 
 ### Source Files 資料來源
