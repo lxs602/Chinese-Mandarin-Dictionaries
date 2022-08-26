@@ -15,7 +15,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 
 <table>
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th><th>Priority</th></tr>
-	<tr><td>1.  </td><td>Chinese Word Frequencies</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0<br>Rewrite explanations, add colour</td><td></td></tr>
+	<tr><td>1.  </td><td>Chinese Word Frequencies 詞頻分析 / 词频分析</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0<br>Rewrite explanations, add colour</td><td></td></tr>
 	<tr><td>2.  </td><td>Make Me a Hanzi </td><td>Animations and Descriptions</td><td align=center>✓</td><td></td></tr>	
 	<tr><td>3.  </td><td>Idioms / Chengyu</td><td>?from academia / BCC idiom dictionary / Chinese name/dict corpus / Hydcd / other - English translations?</td><td align=center>?</td><td align=center>Low</td></tr>
 	<tr><td>4.  </td><td>CC-Cedict</td><td>with enlarged characters </td><td align=center>✓</td><td></td></tr>
@@ -120,7 +120,7 @@ Add note re overlay prob on goldendict if used with cc-cedict<br>
 [animCJK project](https://github.com/parsimonhi/animCJK), accessed 5th Aug 2022<br><br><br>
   
   
-## Chinese Word Frequencies 词频分析 / 詞頻分析
+## Chinese Word Frequencies 詞頻分析 / 词频分析
 
 ### About 說明 / 说明
 現代漢語常用字表。/ 现代汉语常用字表。<br>
@@ -617,4 +617,4 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 
 [Bandizip](https://en.bandisoft.com/bandizip)
 
-[Phantomjs](https://phantomjs.org): Fastest conversion [html to pdf conversion](https://unix.stackexchange.com/a/534178), see here for adding [page breaks](https://stackoverflow.com/a/56219569)
+[Phantomjs](https://phantomjs.org): fastest [html to pdf conversion](https://unix.stackexchange.com/a/534178), see here for adding [page breaks](https://stackoverflow.com/a/56219569)
