@@ -394,7 +394,7 @@ Public domain, except as otherwise specified.
 ## Starling Chinese Dialect Character Dictionary<br>Starling漢語方言字典 / Starling汉语方言字
 
 ### About 說明 / 说明
-Compiled by William Wang; from the <a href="http://starling.rinet.ru">online database</a> by Sergei A. Starostin (1953-2005), Russian State University for the Humanities. Contains a total of 2614 characters.
+A comparison of readings in Chinese dialects. Compiled by William Wang; from the <a href="http://starling.rinet.ru">online database</a> by Sergei A. Starostin (1953-2005), Russian State University for the Humanities. 
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Starling%20Chinese%20Dialect%20Character%20Dictionary)
 
@@ -407,7 +407,7 @@ Freely available.
 ## Starling Chinese Character Etymology
 
 ### About 說明 / 说明
-From the <a href="http://starling.rinet.ru">online database</a> by Sergei A. Starostin (1953-2005), Russian State University for the Humanities. Contains a total of 9296 entries.
+Phonetic pronunciations are shown from Old Chinese (10th century B.C.) through to Modern. From the <a href="http://starling.rinet.ru">online database</a> by Sergei A. Starostin (1953-2005), Russian State University for the Humanities. Contains a total of 9296 entries. 
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Starling%20Etymology)
 
@@ -416,6 +416,7 @@ Freely available.
 
 ### Example 事例:
 <table style="border: 1px solid gray; border-collapse: collapse; padding: 4px"><tr><td>Character: </td><td style="padding: 15px; text-align: center; font-size:2.5em">犬</td></tr><tr><td>Modern (Beijing) reading:</td><td> quǎn</td></tr><tr><td>Preclassic Old Chinese:<br><sub>(10<sup>th</sup> - 6<sup>th</sup> cent B.C.)</sub> </td><td>khʷīnʔ</td></tr><tr><td>Classic Old Chinese:<br><sub>(5<sup>th</sup> - 3<sup>rd</sup> cent B.C.)</sub> </td><td>khwī́n</td></tr><tr><td>Western Han Chinese:<br><sub>(end of 3<sup>rd</sup> cent B.C. - 0 A.D.)</sub> </td><td>khwjǝ̄́n</td></tr><tr><td>Eastern Han Chinese:<br><sub>(0 - begin. of 3<sup>rd</sup> cent A.D.)</sub> </td><td>khwiǝ̄́n</td></tr><tr><td>Early Postclassic Chinese:<br><sub>(3<sup>rd</sup> cent A.D.)</sub> </td><td>khwiḗn</td></tr><tr><td>Middle Postclassic Chinese:<br><sub>(4<sup>th</sup> cent A.D.)</sub> </td><td>khwiḗn</td></tr><tr><td>Late Postclassic Chinese:<br><sub>(5<sup>th</sup> cent A.D.)</sub> </td><td>khwiḗn</td></tr><tr><td>Middle Chinese:<br><sub>(end of 6<sup>th</sup> - begin. of 10<sup>th</sup> cent A.D.)</sub> </td><td>khwíen</td></tr><tr><td>Fanqie: </td><td>去選</td></tr><tr><td>Rhyme class: </td><td>銑</td></tr><tr><td>English meaning : </td><td>dog</td></tr><tr><td>Russian meaning[s]: </td><td>собака, пес; собачий; по-собачьи; <i>вежл.</i> мой (<i>о детях</i>)</td></tr><tr><td>Shuowen gloss:</td><td>狗之有縣蹄者也. 象形. 孔子曰. 視犬之字. 如畫狗也. 凡犬之屬皆從犬.</td></tr><tr><td>Radical: </td><td>94</td></tr><tr><td>Four-angle index: </td><td>4947</td></tr><tr><td>Karlgren code: </td><td>0479 a-d</td></tr><tr><td>Vietnamese reading:</td><td>khuyê`n</td></tr><tr><td>Jianchuan Bai: </td><td>khuã1</td></tr><tr><td>Dali Bai: </td><td>khua1</td></tr><tr><td>Bijiang Bai: </td><td>qhõ1</td></tr></table><p style="font-size: 0.75em"><sub>Ref. for dates: Starostin, Sergei A. 1989, <i>Rekonstrukcija drevnekitajskoj fonologi␂eskoj sistemy</i>, p431-433. Moskva: Nauka.<br>in: Blažek, Václav, and Michal Schwarz. <i>On Tocharian Vessel-names with Special Regard to B lwake ‘pot’</i>. (2018).</sub><br><br><br>
+
 
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 
@@ -641,6 +642,6 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 
 [Peazip](https://peazip.github.io) by Giorgio Tani
 
-[Bandizip](https://en.bandisoft.com/bandizip)
+[Bandizip](https://en.bandisoft.com/bandizip)- Only application found to correctly handle Chinese character encodings.
 
-[Phantomjs](https://phantomjs.org): fastest [html to pdf conversion](https://unix.stackexchange.com/a/534178), see here for adding [page breaks](https://stackoverflow.com/a/56219569)
+[Phantomjs](https://phantomjs.org): fastest [html to pdf conversion](https://unix.stackexchange.com/a/534178); see here for adding [page breaks](https://stackoverflow.com/a/56219569)
