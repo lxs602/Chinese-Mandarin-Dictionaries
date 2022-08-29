@@ -409,6 +409,8 @@ Freely available.
 ### About 說明 / 说明
 Phonetic pronunciations are shown from Old Chinese (10th century B.C.) through to Modern. From the <a href="http://starling.rinet.ru">online database</a> by Sergei A. Starostin (1953-2005), Russian State University for the Humanities. Contains a total of 9296 entries. 
 
+See also a [list of Chinese dynasties and dates](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Starling%20Etymology/README.md) from the same source.
+
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Starling%20Etymology)
 
 ### Licences 許可證 / 许可证
