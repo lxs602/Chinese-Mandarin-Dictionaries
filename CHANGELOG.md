@@ -15,4 +15,5 @@
   <tr><td>2022-Aug-06</td><td>Updated Input Methods dictionary - added Wubi '06 and character stroke orders.</td></tr>
   <tr><td>2022-Aug-11</td><td>Added AnimCJK stroke animations</td></tr>
    <tr><td>2022-Aug-22</td><td>Added supercompositions and yi-bai IDS to decomposition dictionary, and renamed to 汉字部件典 Character Component Dictionary</td></tr>
+  <tr><td>2022-Aug-26</td><td>Added Starling Chinese dialects and Etymology dictionaries; renamed Dong Chinese Lexicon</td></tr>
 </table>
