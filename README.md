@@ -185,12 +185,12 @@ A Chinese-English dictionary, from the [ADSO project](https://github.com/wtanaka
 [Adso github repository](https://github.com/wtanaka/adso)<br><br><br>
 	
 
-## Chinese Lexicon - Etymology
+## Dong Chinese Lexicon - Etymology
 
 ### About 說明 / 说明
 A character etymology dictionary, derived from [Dong Chinese Lexicon](https://github.com/peterolson/chinese-lexicon) by Peter Olsen [dong-chinese.com](https://www.dong-chinese.com). Contains decomposition data, helpful images of iconographs and short definitions from CC-CEDICT. Total of 5054 terms.
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Lexicon%20-%20Etymology)
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Dong%20Chinese%20Lexicon%20-%20Etymology)
 
 ### Licence 許可證 / 许可证
 Freely available
