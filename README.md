@@ -359,8 +359,7 @@ Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br
 
 An offline mirror of the Xiaoxue ancient character database, downloaded July 2022. Contains a total of 8148 articles.
 
-本資料庫由臺灣大學中國文學系、中央研究院歷史語言研究所、資訊科學研究所、數位文化中心共同開發。 
-本資料庫部分索引由引得市提供。 
+本資料庫由臺灣大學中國文學系、中央研究院歷史語言研究所、資訊科學研究所、數位文化中心共同開發。 本資料庫部分索引由引得市提供。 
 
 Developed jointly by the Department of Chinese Literature of National Taiwan University, the Institute of History and Linguistics of the Academia Sinica, the Institute of Information Science, and the Digital Culture Center. Part of the index of the database is provided by Yinde City.
 
@@ -374,9 +373,8 @@ As a large dictionary, it has been split into three files, within each folder. T
 [小學堂文字學資料庫](https://xiaoxue.iis.sinica.edu.tw)
 
 ### Licences 許可證 / 许可证
-[CC0 1.0 general](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters/Licence.txt) 
-版權聲明：使用者操作本網站查詢介面所得之各解析度「字形圖片」及字形屬性資訊，權利人特於此明示主張以CC0 1.0通用方式，在法律許可的範圍內，拋棄該字形圖片及字形屬性資訊依著作權法可得享有之權利，使用者當可安心再行利用該查詢字形圖片及字形屬性資訊。
-Generously made freely available to the public.<br><br><br>
+[CC0 1.0 general](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters/Licence.txt) <br>
+版權聲明：使用者操作本網站查詢介面所得之各解析度「字形圖片」及字形屬性資訊，權利人特於此明示主張以CC0 1.0通用方式，在法律許可的範圍內，拋棄該字形圖片及字形屬性資訊依著作權法可得享有之權利，使用者當可安心再行利用該查詢字形圖片及字形屬性資訊。Generously made freely available to the public.<br><br><br>
 
 ## 部首字典 Radical dictionary
 
