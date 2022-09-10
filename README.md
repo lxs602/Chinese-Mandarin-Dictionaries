@@ -566,15 +566,15 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 
 ## 中文人名语料库 Chinese / English Names Corpus
 
-A collection of Chinese family and personal names (with gender), and English (and Anglicised spellings of names from other languages) translated into Chinese. See [Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/README.md) file for further details.
+A collection of Chinese family and personal names (with gender), and English (and Anglicised spellings of names from other languages) translated into Chinese. See [Readme](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Names%20Corpus/README.md) file for further details.
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese-English%20Names)
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Names%20Corpus)
 
 ### Source Files 資料來源
 Adapted from [Chinese Names Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by Wainshine / ltccss
 
 ### Licence 许可证 / 許可證
-[Apache 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese-English%20Names/Apache%20v2.0%20Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br><br><br>
+[Apache 2.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Chinese%20Names%20Corpus/Apache%20v2.0%20Licence%20%E8%A8%B1%E5%8F%AF%E8%AD%89%20-%20%E8%AE%B8%E5%8F%AF%E8%AF%81)<br><br><br>
 
 	
 ## Zdic.net 词典 Hàndiǎn
