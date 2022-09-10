@@ -357,11 +357,15 @@ Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br
 
 ### About 說明 / 说明
 
-An offline mirror of the Xiaoxue ancient character database, downloaded July 2022. Total of 8148 articles.
+An offline mirror of the Xiaoxue ancient character database, downloaded July 2022. Contains a total of 8148 articles.
 
-Developed jointly by the Department of Chinese Literature of National Taiwan University, the Institute of History and Linguistics of the Academia Sinica, the Institute of Information Science, and the Digital Culture Center. Part of the index of this database is provided by Yinde City.
+本資料庫由臺灣大學中國文學系、中央研究院歷史語言研究所、資訊科學研究所、數位文化中心共同開發。 
+本資料庫部分索引由引得市提供。 
+
+Developed jointly by the Department of Chinese Literature of National Taiwan University, the Institute of History and Linguistics of the Academia Sinica, the Institute of Information Science, and the Digital Culture Center. Part of the index of the database is provided by Yinde City.
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters)
+As a large dictionary, in each folder, it has been split into three files. Download all three to use the dictionary.  
 
 ### Example 事例:
 
