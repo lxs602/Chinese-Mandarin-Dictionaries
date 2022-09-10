@@ -24,7 +24,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>7.  </td><td>Unihan character dictionary (字典) </td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>8.  </td><td>Phrase dictionaries</td><td>tatoeba<br>CUV Bible</td><td align=center>✓<br>For revision</td><td></td></tr>
 	<tr><td>9.  </td><td>Chinese Idioms - W Scarborough</td><td>OCR scan</td><td align=center>To convert</td><td align=center>Low</td></tr>
-	<tr><td>10.  </td><td>Wikimedia image library</td><td></td><td align=center>✓</td><td></td></tr>
+	<tr><td>10.  </td><td>Xiaoxuetang / Wikimedia image libraries</td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>11.  </td><td>Taiwan Ministry of Education Dictionary (moedict) 教育部國語辭典 - 重編國語辭典 修訂本 </td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>12.  </td><td>BCC 英汉词典 - BCC English-Chinese Wordlist</td><td>With spelling corrections</td><td align=center>✓</td><td></td></tr>
 	<tr><td>13.  </td><td>XDICT 英汉词典 English-Chinese dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
@@ -352,6 +352,29 @@ Unicode code point to character look-up performed using: [r12a Unicode conversio
 Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html). Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.<br>
 Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br><br>
 
+
+## 小學堂文字學資料庫 Xiaoxuetang Database of Ancient and Modern Characters
+
+### About 說明 / 说明
+
+An offline mirror of the Xiaoxue ancient character database, downloaded July 2022. Contains a total of 8148 articles.
+
+本資料庫由臺灣大學中國文學系、中央研究院歷史語言研究所、資訊科學研究所、數位文化中心共同開發。 本資料庫部分索引由引得市提供。 
+
+Developed jointly by the Department of Chinese Literature of National Taiwan University, the Institute of History and Linguistics of the Academia Sinica, the Institute of Information Science, and the Digital Culture Center. Part of the index of the database is provided by Yinde City.
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters)
+As a large dictionary, it has been split into three files, within each folder. To use the dictionary, download all three.  
+
+### Example 事例:
+![Screenshot from 2022-09-10 22-38-24](https://user-images.githubusercontent.com/44102215/189502844-e130e714-82ea-46b5-9863-d7d4b6daace8.png)
+
+### Source Files 資料來源
+[小學堂文字學資料庫](https://xiaoxue.iis.sinica.edu.tw)
+
+### Licences 許可證 / 许可证
+[CC0 1.0 general](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters/Licence.txt) <br>
+版權聲明：使用者操作本網站查詢介面所得之各解析度「字形圖片」及字形屬性資訊，權利人特於此明示主張以CC0 1.0通用方式，在法律許可的範圍內，拋棄該字形圖片及字形屬性資訊依著作權法可得享有之權利，使用者當可安心再行利用該查詢字形圖片及字形屬性資訊。Generously made freely available to the public.<br><br><br>
 
 ## 部首字典 Radical dictionary
 
