@@ -364,7 +364,7 @@ An offline mirror of the Xiaoxue ancient character database, downloaded July 202
 Developed jointly by the Department of Chinese Literature of National Taiwan University, the Institute of History and Linguistics of the Academia Sinica, the Institute of Information Science, and the Digital Culture Center. Part of the index of the database is provided by Yinde City.
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters)
-As a large dictionary, it has been split into three files, within each folder. To use the dictionary, download all three.  
+As a large dictionary, it has been split into three files within each folder. Download all three to use the dictionary.
 
 ### Example 事例:
 ![Screenshot from 2022-09-10 22-38-24](https://user-images.githubusercontent.com/44102215/189502844-e130e714-82ea-46b5-9863-d7d4b6daace8.png)
