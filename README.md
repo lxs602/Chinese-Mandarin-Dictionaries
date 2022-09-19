@@ -466,7 +466,7 @@ Freely distributed.<br><br><br>
 ## 漢語多功能字庫 Multi-function Chinese Character Database
 
 ### About 說明 / 说明
-本中心於2018年夏天進一步推出《漢語多功能字庫》加強版， 除於「形義通解」部份增補了和修繕了大量詞條外，還把原有的功能重新組織，並新增了「其他方言讀音」、《說文解字》全文索引、 《讀史方輿紀要》，和「成語彙輯」等新功能。目的是從資訊角度為當代漢語教育提供更大的支援。<br>
+「本中心於2018年夏天進一步推出《漢語多功能字庫》加強版， 除於「形義通解」部份增補了和修繕了大量詞條外，還把原有的功能重新組織，並新增了「其他方言讀音」、《說文解字》全文索引、 《讀史方輿紀要》，和「成語彙輯」等新功能。目的是從資訊角度為當代漢語教育提供更大的支援。」 <br>
 Contains archaic script forms, etymologies, Shuowen Jiezi entries, Du Shi Fangyu Jiyao, idioms, English definitions, and word-formations. Total of 15401 terms.
 
 ### Example 事例
