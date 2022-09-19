@@ -34,7 +34,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>17.  </td><td>CJKVI Decomposition dictionary</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>18.  </td><td>Adso Chinese English</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>19.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>✓</td><td align=center></td></tr>
-	<tr><td>20.  </td><td>Sinica etymology</td><td>&nbsp;</td><td align=center>?</td><td align=center>Low</td></tr>
+	<tr><td>20.  </td><td>Sinica Multifunction Cn Character Databse</td><td>&nbsp;</td><td align=center>✓</td><td align=center></td></tr>
 	<tr><td>21.  </td><td>Kanjinetworks - Etymological Dictionary of Han/Chinese Characters</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>22.  </td><td>LDC Chinese-English Wordlist</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>23.  </td><td>WFG dictionaries</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
@@ -42,7 +42,7 @@ A collection of free Chinese Mandarin dictionaries, for use with dictionary soft
 	<tr><td>25.  </td><td>數字輸入法 Chinese Input Methods</td><td></td><td align=center>✓</td><td></td></tr>
 	<tr><td>26.  </td><td>FSung fonts</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>27.  </td><td>Zdic.net (Chinese Dict Corpus)</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
-	<tr><td>28.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>?</td><td></td></tr>
+	<tr><td>28.  </td><td>Xiaoxue image library / other</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>29.  </td><td>Chinese-English names</td><td>&nbsp;</td><td align=center>✓</td><td></td></tr>
 	<tr><td>30.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Chinese<->English tags to table<br>Add section examples / char. animations<br>Separate section - by WFG<br>Add Unicode font check - c.f. WFG</td><td align=center></td><td></td></tr>
 </table>
@@ -424,6 +424,9 @@ A comparison of readings in Chinese dialects. Compiled by William Wang; from the
 ### Licences 許可證 / 许可证
 Freely available.
 
+### Source Files 資料來源
+[Starling.rinet.ru](https://starling.rinet.ru/cgi-bin/main.cgi)
+
 ### Example 事例:
 <table style="border: 1px solid gray; border-collapse: collapse; padding: 4px"><tr><td>Character: </td><td style="padding: 15px; text-align: center; font-size:2.5em">一</td></tr><tr><td>MC description : </td><td>臻開三入質影</td></tr><tr><td>ZIHUI: </td><td>0001 0707</td></tr><tr><td>Beijing: </td><td>i 11</td></tr><tr><td>Jinan: </td><td>i 11</td></tr><tr><td>Xi'an: </td><td>i 11</td></tr><tr><td>Taiyuan: </td><td>iǝʔ 41</td></tr><tr><td>Hankou: </td><td>i 12</td></tr><tr><td>Chengdu: </td><td>i 12</td></tr><tr><td>Yangzhou: </td><td>iǝʔ 4</td></tr><tr><td>Suzhou: </td><td>iôʔ 41</td></tr><tr><td>Wenzhou: </td><td>iai 41</td></tr><tr><td>Changsha: </td><td>i 4</td></tr><tr><td>Shuangfeng: </td><td>i 12</td></tr><tr><td>Nanchang: </td><td>it 41</td></tr><tr><td>Meixian: </td><td>jit 41</td></tr><tr><td>Guangzhou: </td><td>jat 41</td></tr><tr><td>Xiamen: </td><td>it 41 (lit.); cit 41</td></tr><tr><td>Chaozhou: </td><td>ik 41</td></tr><tr><td>Fuzhou: </td><td>eiʔ 41</td></tr><tr><td>Shanghai: </td><td>iîʔ 4</td></tr><tr><td>Zhongyuan yinyun: </td><td>i 43</td></tr></table><br><br><br>
 
@@ -436,6 +439,9 @@ See also a [list of Chinese dynasties and dates](https://github.com/lxs602/Chine
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Starling%20Etymology)
 
+### Source Files 資料來源
+[Starling.rinet.ru](https://starling.rinet.ru/cgi-bin/main.cgi)
+
 ### Licences 許可證 / 许可证
 Freely available.
 
@@ -446,7 +452,7 @@ Freely available.
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 
 ### About 說明 / 说明
-A dictionary of etymology of 6,379 Chinese characters, with their Japanese meanings, but still useful for Chinese language study. 
+A dictionary of etymology of 6,379 Chinese characters, with their Japanese meanings, but with application to Chinese language study. 
 
 ### Example 事例
 <table><tr><td><font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.</td></tr></table>
@@ -456,7 +462,27 @@ A dictionary of etymology of 6,379 Chinese characters, with their Japanese meani
 ### Licence 許可證 / 许可证
 Freely distributed.<br><br><br>
 
-	
+
+## 漢語多功能字庫 Multi-function Chinese Character Database
+
+### About 說明 / 说明
+本中心於2018年夏天進一步推出《漢語多功能字庫》加強版， 除於「形義通解」部份增補了和修繕了大量詞條外，還把原有的功能重新組織，並新增了「其他方言讀音」、《說文解字》全文索引、 《讀史方輿紀要》，和「成語彙輯」等新功能。目的是從資訊角度為當代漢語教育提供更大的支援。
+Contains archaic script forms, etymologies, Shuowen Jiezi entries, Du Shi Fangyu Jiyao, idioms, English definitions, and word-formations. Total of 15401 terms.
+
+### Example 事例
+![Screenshot from 2022-09-19 18-59-18](https://user-images.githubusercontent.com/44102215/191096836-307101b2-323c-45dc-9f9f-daa2025d2fe6.png)
+![Screenshot from 2022-09-19 19-10-28](https://user-images.githubusercontent.com/44102215/191096854-e2fc084d-e131-4872-8c11-ab9a3b3dc86b.png)
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%BC%A2%E8%AA%9E%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%AD%97%E5%BA%AB%20MFCCD)
+
+### Source Files 資料來源
+[漢語多功能字庫 MFCCD](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+
+### Licence 許可證 / 许可证
+人文電算研究中心 Copyright. Freely distributed.<br><br><br>
+
+
+
 ## 教育部國語辭典 - 重編國語辭典 修訂本<br>Taiwan Ministry of Education Dictionary (moedict)
 
 ### About 說明 / 说明
