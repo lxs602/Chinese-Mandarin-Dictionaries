@@ -315,7 +315,7 @@ See also: <br>
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/数字输入法和笔顺序%20Chinese%20Input%20Methods%20and%20Stroke%20Order)
 
-### Example 事例: 
+### Example 事例： 
 <table><tr><td style='padding: 10px' align=center><b>文字 Character(s):</b></td><td style='padding: 10px' align=center><span style='font-size: xx-large'>析</span></td></tr><tr><td align=center bgcolor=linen colspan=2>筆順序 / 笔顺序 Stroke Order</td></tr><tr><td align=center colspan=2>一丨丿丶丿丿一丨</td></tr><tr><td bgcolor=linen align=center colspan=2>字形 Glyph /  雜項 Other</td></tr><tr><td>三角編號 3 Corners</td><td>492700</td></tr><tr><td>行列10 Array10</td><td>4893</td></tr><tr><td>行列30 Array30</td><td>vo</td></tr><tr><td>表形码 Biaoxing</td><td>mjt</td></tr><tr><td>嘸蝦米 Boshiamy</td><td>tki</td></tr><tr><td>縱橫碼 CKC</td><td>4092</td></tr><tr><td>全拼形導碼 Daomax</td><td>mjt</td></tr><tr><td>筆結基因 DNA</td><td>362765</td></tr><tr><td>Ｅ碼漢字 E-code</td><td>yfs</td></tr><tr><td>輕鬆大詞庫 EZ Big</td><td>d1</td></tr><tr><td>華象直覺  HS pictograph</td><td>YLT</td></tr><tr><td>晶晶碼 Jin Jin</td><td>mjjt</td></tr><tr><td>晶数码 Jin Shu </td><td>487751</td></tr><tr><td>冰蟾全息 QXM</td><td>mjda</td></tr><tr><td>萬國蝦米 Uni Liu</td><td>tki</td></tr><tr><td>晚風 Wan Feng</td><td>xim</td></tr><tr><td>海峰五笔 Wubi 98</td><td>sr</td></tr><tr><td>王林快码 WLKM</td><td>uf;p</td></tr><tr><td>象形王碼 Wang Ma 2</td><td>yft</td></tr><tr><td>五笔新世纪版 Wubi</td><td>sr<br>srh</td></tr><tr><td align=center bgcolor=linen colspan=2>拼音 Pinyin</td></tr><tr><td>港式廣東話 CantonHK Pinyin</td><td>sik</td></tr><tr><td>帶調粵語拼音 Jyupting</td><td>cik1</td></tr><tr><td>廣東拼音 Jyupting ILE</td><td>tsik7</td></tr><tr><td>正體拼音 Pinyin</td><td>xi</td></tr><tr><td>雙拼加加 Shuangpin++</td><td>xi</td></tr><tr><td  colspan=2>以拼音为基 Pinyin-based</td></tr><tr><td>二笔快版 .Er Bi - Kuai</td><td>xxej</td></tr><tr><td>小鹤音形 Flypy</td><td>xim</td></tr><tr><td>T9</td><td>hspnpphs</td></tr><tr><td>自然码 Zi Ran Ma</td><td>xim</td></tr><tr><td  colspan=2>注音 Zhuyin</td></tr><tr><td>正體注音 Bopomofo (official)</td><td>vu</td></tr><tr><td>全字庫注音 CNS Phonetic lite</td><td>vu</td></tr><tr><td>臺語注音 Taiwanese</td><td>"vu,e"</td></tr><tr><td>粵語注音 Zyujam</td><td>hud4</td></tr><tr><td align=center bgcolor=linen colspan=2>以笔顺为基  Stroke-based</td></tr><tr><td>筆順碼 Bsm</td><td>983</td></tr><tr><td>大易二碼 Dayi2</td><td>i1</td></tr><tr><td>大易三碼 Dayi3</td><td>ih1</td></tr><tr><td>大易三碼 Dayi3 patched</td><td>IHE1</td></tr><tr><td>大易四碼 Dayi4</td><td>ihe1</td></tr><tr><td>龍飛 Dragonfly</td><td>ihe1</td></tr><tr><td>六碼筆畫 G6 Code</td><td>123312</td></tr><tr><td>筆畫數 Strokes</td><td>804</td></tr><tr><td> 筆順五碼 Stroke5</td><td>"m/,.,"</td></tr><tr><td>郑码 Zheng Ma</td><td>fpd</td></tr><tr><td align=center bgcolor=linen colspan=2>以倉頡为基 Cangjie-based</td></tr><tr><td>倉頡第三代 Cangjie 3</td><td>dhml</td></tr><tr><td>倉頡第五代 Cangjie 5</td><td>dhml</td></tr><tr><td>仓颉 Chan Jei</td><td>dhml</td></tr><tr><td>微倉三 Changjei3 </td><td>dhml</td></tr><tr><td>自由大新 FreeNewCJ</td><td>dhl</td></tr><tr><td>正體簡易 SimpleCJ</td><td>dl</td></tr><tr><td>簡易五代 Simplex5</td><td>dl</td></tr><tr><td>快倉七代 Speedy Cangjie 7</td><td>dhl</td></tr><tr><td>鯨魚 MyCJ Whale </td><td>dhl</td></tr><tr><td align=center bgcolor=linen colspan=2>字符集 Character Encodings</td></tr><tr><td>大五碼 Big5p</td><td>aa52</td></tr><tr><td>資訊交換碼 CCCII  </td><td>21442b</td></tr><tr><td>標準交換碼 CNS11643</td><td>14e35</td></tr><tr><td>四角号码 Four Corner</td><td>4292</td></tr><tr><td>電信碼 Telecode</td><td>2649</td></tr><tr><td>統一漢字 Unicode</td><td>6790</td></tr><tr><td>字頻序 Character Freq. (Big5)</td><td>1207</td></tr></table><br>
 
 ### Source Files 資料來源
@@ -342,7 +342,7 @@ Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 1
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8)
 
-### Example 事例: 
+### Example 事例： 
 隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
 ![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)
 
@@ -366,7 +366,7 @@ Developed jointly by the Department of Chinese Literature of National Taiwan Uni
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B0%8F%E5%AD%B8%E5%A0%82%E6%96%87%E5%AD%97%E5%AD%B8%E8%B3%87%E6%96%99%E5%BA%AB%20Xiaoxuetang%20Database%20of%20Ancient%20and%20Modern%20Characters)
 As a large dictionary, it has been split into three files within each folder. Download all three to use the dictionary.
 
-### Example 事例:
+### Example 事例：
 ![Screenshot from 2022-09-10 22-38-24](https://user-images.githubusercontent.com/44102215/189502844-e130e714-82ea-46b5-9863-d7d4b6daace8.png)
 
 ### Source Files 資料來源
@@ -389,7 +389,7 @@ Note, the characters that display will depend on fonts installed. The [FSung fon
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E9%A6%96%E5%AD%97%E5%85%B8%20Radical%20dictionary)
 
-### Example 事例:
+### Example 事例：
 
 ![image](https://user-images.githubusercontent.com/44102215/179079384-2cc99873-01b6-4ea3-b9cb-ab9a016f8174.png)
 
@@ -409,7 +409,7 @@ See [Wikimedia Ancient Chinese Characters Project](https://commons.wikimedia.org
 ### Licences 許可證 / 许可证
 Public domain, except as otherwise specified.
 	
-### Example 事例:
+### Example 事例：
 
 ![image](https://user-images.githubusercontent.com/44102215/179073733-777a03c1-2faa-421c-a4ae-5f2b6d3a5acc.png)
 <br><br><br>
@@ -427,7 +427,7 @@ Freely available.
 ### Source Files 資料來源
 [Starling.rinet.ru](https://starling.rinet.ru/cgi-bin/main.cgi)
 
-### Example 事例:
+### Example 事例：
 <table style="border: 1px solid gray; border-collapse: collapse; padding: 4px"><tr><td>Character: </td><td style="padding: 15px; text-align: center; font-size:2.5em">一</td></tr><tr><td>MC description : </td><td>臻開三入質影</td></tr><tr><td>ZIHUI: </td><td>0001 0707</td></tr><tr><td>Beijing: </td><td>i 11</td></tr><tr><td>Jinan: </td><td>i 11</td></tr><tr><td>Xi'an: </td><td>i 11</td></tr><tr><td>Taiyuan: </td><td>iǝʔ 41</td></tr><tr><td>Hankou: </td><td>i 12</td></tr><tr><td>Chengdu: </td><td>i 12</td></tr><tr><td>Yangzhou: </td><td>iǝʔ 4</td></tr><tr><td>Suzhou: </td><td>iôʔ 41</td></tr><tr><td>Wenzhou: </td><td>iai 41</td></tr><tr><td>Changsha: </td><td>i 4</td></tr><tr><td>Shuangfeng: </td><td>i 12</td></tr><tr><td>Nanchang: </td><td>it 41</td></tr><tr><td>Meixian: </td><td>jit 41</td></tr><tr><td>Guangzhou: </td><td>jat 41</td></tr><tr><td>Xiamen: </td><td>it 41 (lit.); cit 41</td></tr><tr><td>Chaozhou: </td><td>ik 41</td></tr><tr><td>Fuzhou: </td><td>eiʔ 41</td></tr><tr><td>Shanghai: </td><td>iîʔ 4</td></tr><tr><td>Zhongyuan yinyun: </td><td>i 43</td></tr></table><br><br><br>
 
 ## Starling Chinese Character Etymology
@@ -445,7 +445,7 @@ See also a [list of Chinese dynasties and dates](https://github.com/lxs602/Chine
 ### Licences 許可證 / 许可证
 Freely available.
 
-### Example 事例:
+### Example 事例：
 <table style="border: 1px solid gray; border-collapse: collapse; padding: 4px"><tr><td>Character: </td><td style="padding: 15px; text-align: center; font-size:2.5em">犬</td></tr><tr><td>Modern (Beijing) reading:</td><td> quǎn</td></tr><tr><td>Preclassic Old Chinese:<br><sub>(10<sup>th</sup> - 6<sup>th</sup> cent B.C.)</sub> </td><td>khʷīnʔ</td></tr><tr><td>Classic Old Chinese:<br><sub>(5<sup>th</sup> - 3<sup>rd</sup> cent B.C.)</sub> </td><td>khwī́n</td></tr><tr><td>Western Han Chinese:<br><sub>(end of 3<sup>rd</sup> cent B.C. - 0 A.D.)</sub> </td><td>khwjǝ̄́n</td></tr><tr><td>Eastern Han Chinese:<br><sub>(0 - begin. of 3<sup>rd</sup> cent A.D.)</sub> </td><td>khwiǝ̄́n</td></tr><tr><td>Early Postclassic Chinese:<br><sub>(3<sup>rd</sup> cent A.D.)</sub> </td><td>khwiḗn</td></tr><tr><td>Middle Postclassic Chinese:<br><sub>(4<sup>th</sup> cent A.D.)</sub> </td><td>khwiḗn</td></tr><tr><td>Late Postclassic Chinese:<br><sub>(5<sup>th</sup> cent A.D.)</sub> </td><td>khwiḗn</td></tr><tr><td>Middle Chinese:<br><sub>(end of 6<sup>th</sup> - begin. of 10<sup>th</sup> cent A.D.)</sub> </td><td>khwíen</td></tr><tr><td>Fanqie: </td><td>去選</td></tr><tr><td>Rhyme class: </td><td>銑</td></tr><tr><td>English meaning : </td><td>dog</td></tr><tr><td>Russian meaning[s]: </td><td>собака, пес; собачий; по-собачьи; <i>вежл.</i> мой (<i>о детях</i>)</td></tr><tr><td>Shuowen gloss:</td><td>狗之有縣蹄者也. 象形. 孔子曰. 視犬之字. 如畫狗也. 凡犬之屬皆從犬.</td></tr><tr><td>Radical: </td><td>94</td></tr><tr><td>Four-angle index: </td><td>4947</td></tr><tr><td>Karlgren code: </td><td>0479 a-d</td></tr><tr><td>Vietnamese reading:</td><td>khuyê`n</td></tr><tr><td>Jianchuan Bai: </td><td>khuã1</td></tr><tr><td>Dali Bai: </td><td>khua1</td></tr><tr><td>Bijiang Bai: </td><td>qhõ1</td></tr></table><p style="font-size: 0.75em"><sub>Ref. for dates: Starostin, Sergei A. 1989, <i>Rekonstrukcija drevnekitajskoj fonologi␂eskoj sistemy</i>, p431-433. Moskva: Nauka.<br>in: Blažek, Václav, and Michal Schwarz. <i>On Tocharian Vessel-names with Special Regard to B lwake ‘pot’</i>. (2018).</sub></p><br><br><br>
 
 
