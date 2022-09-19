@@ -17,4 +17,6 @@
     <tr><td>2022-Aug-22</td><td>Added supercompositions and yi-bai IDS to decomposition dictionary, and renamed to 汉字部件典 Character Component Dictionary</td></tr>
     <tr><td>2022-Aug-26</td><td>Added Starling Chinese dialects and Etymology dictionaries; renamed Dong Chinese Lexicon</td></tr>
     <tr><td>2022-Sep-10</td><td>Added Xiaoxuetang Database of Ancient and Modern Characters</td></tr>
+  <tr><td>2022-Sep-19</td><td>Added MFCCD and updated Eng-Cn names - removed many place names and added Google translation</td></tr>
+  
 </table>
