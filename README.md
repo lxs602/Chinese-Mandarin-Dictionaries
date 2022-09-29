@@ -344,10 +344,8 @@ Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 1
 
 ### Example 事例： 
 隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
-![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)
+![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)<br>
 
-### Acknowledgements 鳴謝 / 鸣谢	
-Unicode code point to character look-up performed using: [r12a Unicode conversion](https://r12a.github.io/app-conversion)<br>
 ### Licences 許可證 / 许可证
 Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html). Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.<br>
 Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)<br><br><br>
@@ -383,7 +381,7 @@ A simple radical dictionary. Search by a radical or its number, from 1 to 214, t
 
 Alternatively, search for "index" for a list of all radicals.
 
-Based on kRSUnicode data from the Unihan project (v13.0, 2020-02-18), for 93,8658 characters.
+Based on kRSUnicode data from the Unihan project (v15.0, 2022-Sept), for 98,060 characters.
 	
 Note, the characters that display will depend on fonts installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG can show all the current Unihan characters.
 
