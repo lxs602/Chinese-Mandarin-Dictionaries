@@ -669,6 +669,8 @@ World English Bible: Public Domain. "World English Bible" is a trademark of ebib
 
 [OpenCC](https://github.com/BYVoid/OpenCC) by BYVoid, mingruimingrui, danny0838, sgalal, kunki, gucong3000, ayaka14732, lotem, xpol, PeterDaveHello, groverlynn, kyleskimo, AntonOfTheWoods, shinzoqchiuq...
 
+[r12a](https://r12a.github.io/app-conversion/) Unicode code converter
+
 [Peazip](https://peazip.github.io) by Giorgio Tani
 
 [Bandizip](https://en.bandisoft.com/bandizip)- Only application found to correctly handle Chinese character encodings.
