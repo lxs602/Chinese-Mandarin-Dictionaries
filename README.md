@@ -383,9 +383,9 @@ Alternatively, search for "index" for a list of all radicals.
 
 Based on kRSUnicode data from the Unihan project (v15.0, 2022-Sept), for 98,060 characters.
 	
-Note, the characters that display will depend on fonts installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG can show all the current Unihan characters.
+Note, the characters that display will depend on fonts installed. The [FSung font](https://github.com/lxs602/FSung-font) by WFG is a project to show all the current Unihan characters.
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E9%A6%96%E5%AD%97%E5%85%B8%20Radical%20dictionary)
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E9%83%A8%E9%A6%96%E5%AD%97%E5%85%B8%20Unicode%20Radical%20dictionary)
 
 ### Example 事例：
 
