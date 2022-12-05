@@ -19,5 +19,6 @@
     <tr><td>2022-Sep-10</td><td>Added Xiaoxuetang Database of Ancient and Modern Characters</td></tr>
   <tr><td>2022-Sep-19</td><td>Updated Eng-Cn names - removed many place names and added Google translation</td></tr>
   <tr><td>2022-Sep-22</td><td>Decomposition dictionary - Added unicode below Combination characters</td></tr>
-<tr><td>2022-Sep-29</td><td>Unicode radical dictionary - Updated to Unicode 15; added unicode number below characters</td></tr>
+  <tr><td>2022-Sep-29</td><td>Unicode radical dictionary - Updated to Unicode 15; added unicode number below characters</td></tr>
+  <tr><td>2022-Dec-05</td><td>Added CNS11643 character dictionary</td></tr>
 </table>
