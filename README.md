@@ -395,6 +395,22 @@ Note, the characters that display will depend on fonts installed. The [FSung fon
 ### Licences 許可證 / 许可证
 See Unihan character dictionary above.<br><br><br>
 
+## CNS11643
+
+### About 說明 / 说明
+A character dictionary of the CNS 11643 character set (Chinese National Standard 11643) (Taiwan), also known as the Chinese Standard Interchange Code (中文標準交換碼), including romanisation, pronunciation audio, Ideographic Description Sequences, and Strokes.
+
+See the [homepage](https://www.cns11643.gov.tw/index.jsp) at the Taiwanese Ministry of Education for further details.
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/CNS11643)
+
+### Licences 許可證 / 许可证
+[Open Government Data Licence v1.0](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/CNS11643/Open%20Government%20Data%20License%20v1.0.txt)
+	
+### Example 事例：
+<table id="cnstable"><tr><td><b>本機字型<br>Local Font</b></td><td style="padding: 20px; font-size: 4em">𣮻</td></tr><tr><td><b>全字庫字型<br>CNS font</b></td><td><img src='char/23bbb.png' onError='fixImg(this);' alt=''></td></tr><tr><td><b>發音/拼音 <br>Sound /<br>Pinyin</b></td></td></tr><tr><td>發音<br>Sound</td><td>注音 <br>Zhuyin</td><td>注音二式 <br>MPS II</td><td>通用 <br>Tongyong</td><td>漢語 <br>Hanyu</td><td>耶魯 <br>Yale</td><td>威妥瑪 Wade-Giles</td></tr><tr><td><audio controls="" id="audio-controls" class="audio"><source src="voice/male/M1291.mp3"></audio><br ><audio controls="" id="audio-controls" class="audio"><source src="voice/female/L1291.mp3"></audio></td><td>ㄓㄢ</td></td><td>jan<br/>jān</td><td>jhan<br/>jhan</td><td>zhan<br/>zhān</td><td>jan<br/>jān</td><td>chan<br/>chan</td></tr></table></td></tr><tr><td><b>CNS</b></td><td>15-4255</td></tr><tr><td><b>Unicode</b></td><td>23BBB <br><img class=uni src=http://www.unicode.org/cgi-bin/refglyph?24-23BBB></a></td></tr><tr><td><b>EUC</b></td><td>8EAFC2D5</td></tr><tr><td><b>部首 Radical</b></td><td>毛</td></tr><tr><td><b>筆畫 Strokes</b></td><td>13<br>總筆畫 Total<br>9部首外 Outside Radical</td></tr><tr><td><b>倉頡 Chang-Jie</b></td><td>竹山一田中 ( HUMWL )</td></tr><tr><td><b>IDS</b></td><td>⿺毛面</td></tr><tr><td><b>說明 Notes</b></td><td>CJK Comp. 為 Unicode 中日韓相容表意文字區(CJK Compatibility Ideographs)編碼。<br>Big5-2003 為 Big5-2003 碼表內之文字。</td></tr><tr><td><b>部件 Components&nbsp;</b></td><td><img src=img/component/222.svg alt='222'>,<img src=img/component/476.svg alt='476'> <br><small>(Ver. CNS11643_2_94)</small></td></tr><tr><td><b>筆順序 <br>Stroke Order</b></td><td>丿一一乚一丿丨乚丨丨一一一 <br><small>(Ver. CNS11643_1_98)</small></td></tr><tr><td><b>漢字國屬性 <br>Hanzi Style</b></td><td>TF-4255<br>台灣碼</td></tr></table>
+<br><br><br>
+
 ## 維基共古漢字的圖片資料庫 Wikimedia Chinese Character Image Library
 
 ### About 說明 / 说明
