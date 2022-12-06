@@ -1,5 +1,3 @@
-# Chinese Mandarin Dictionaries <br> 中文词典 / 中文詞典
-
 ## Readme: Work in progress
 
 <img align="left" src="https://user-images.githubusercontent.com/44102215/185764686-34a60498-8d4e-4b6f-8119-dd61e2c9c6ae.svg">
