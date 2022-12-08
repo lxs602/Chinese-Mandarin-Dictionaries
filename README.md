@@ -427,7 +427,7 @@ Public domain, except as otherwise specified.
 ![image](https://user-images.githubusercontent.com/44102215/179073733-777a03c1-2faa-421c-a4ae-5f2b6d3a5acc.png)
 <br><br><br>
 
-## Starling Chinese Dialect Character Dictionary<br>Starling漢語方言字典 / Starling汉语方言字
+## Starling Chinese Dialect Character Dictionary<br>Starling漢語方言字典 / Starling汉语方言字典
 
 ### About 說明 / 说明
 A comparison of readings in Chinese dialects. Compiled by William Wang; from the <a href="http://starling.rinet.ru">online database</a> by Sergei A. Starostin (1953-2005), Russian State University for the Humanities. 
