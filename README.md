@@ -481,7 +481,7 @@ Freely distributed.<br><br><br>
 ### About 說明 / 说明
 This dictionary was produced from the free release by the Taiwanese Ministry of Education, and first produced in 2015. Total entries: 163, 085. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com/2018/02/blog-post_14.html). 
 
-An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror (with thanks to [shawkynasr](https://github.com/goldendict/goldendict/issues/1363#issuecomment-798873386).)
 
 ### Authorisation / 授權 (from the compiler's webpage):
 <li>「在此遵循「創用CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」將我的製作分享出來，希望這些寶貴的資料能更方便地被大家運用，也請有使用的朋友能將發現的瑕疵、錯誤反應給我知道，以利我後續的修正。」</li>
@@ -505,7 +505,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 ### About 說明 / 说明
 An index of more than 106,000 variant characters by the Taiwanese Ministry of Education, compiled by [WFG](http://fgwang.blogspot.com). 
 
-An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror.
 
 ### Please note:
 From the compiler's webpage:
@@ -524,7 +524,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/202
 ## 部件檢索 Component Search Input Method
 
 ### About 說明 / 说明
-A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as both a webpage and this dictionary module. <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+A new input method by [WFG](http://fgwang.blogspot.com/2015/12/blog-post.html), available as both a webpage and this dictionary module. <br>An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror.
 
 A font such as [FSung](https://github.com/lxs602/FSung-font) also by WFG (which currently codes approximately 170,000 characters as of 2022, including Unicode ext. A-G) is needed for this to work fully.<br><br>
 ![68747470733a2f2f322e73686172652e70686f746f2e78756974652e6e65742f66675f77616e672f313236623962322f363735353539302f313131303935303036305f6c2e6a7067](https://user-images.githubusercontent.com/44102215/152433369-2f80b54c-6d6a-4030-82d1-cacb6fca1bbc.jpeg)
@@ -539,7 +539,7 @@ Non-Commercial use only (see [compiler's webpage](http://fgwang.blogspot.com/201
 
 A Taiwanese character dictionary, with; pinyin and Zhuyin, stroke order, radicals, Cangjie input, and CNS 11463 codes. Created by [WFG](http://fgwang.blogspot.com). 
 
-An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror.
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%85%A8%E5%AD%97%E5%BA%AB%20Quan%20Zi%20Ku)
 
@@ -554,7 +554,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 
 A 7th Century Tang dynasty dictionary ('Character Book for Seeking an Official Emolument' ) of 800 characters, for students of the imperial examination, by 顏元孫 Yan Yuansun. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). 
 
-An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror.
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%B9%B2%E7%A5%BF%E5%AD%97%E6%9B%B8%20Ganlu%20Zishu)
 
@@ -568,7 +568,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 
 A character dictionary compiled by order of the Kangxi emperor of the Qing dynasty in AD 1710, with 214 radicals forming the basis of modern radical dictionaries. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). 
 
-An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror.
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%20Kangxi%20Dictionary)
 
@@ -582,7 +582,7 @@ An exact copy of the original by WFG (no credit claimed), for those searching th
 
 The 2nd Century Han character dictionary, by 許慎 Xu Shen. Compilation and HTML layout by [WFG](http://fgwang.blogspot.com). 
 
-An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and for posterity.
+An exact copy of the original by WFG (no credit claimed), for those searching the web in English, and as a mirror.
 
 ### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97%20Shuowen%20Jiezi)
 
