@@ -7,7 +7,7 @@
 
 免費中文/中英文詞典收藏 / 免費中文/中英文词典收藏。
 
-<p>A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as <a href="https://github.com/goldendict/goldendict">Goldendict</a> or <a href="https://github.com/huzheng001/stardict-3">Stardict</a></p><br><p>Dictionaries below by <a href="http://fgwang.blogspot.com/2019/04/blog-post.html">WFG</a> also hosted here, as deserving a wider audience</p><br><br><br><br>
+<p>A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as <a href="https://github.com/goldendict/goldendict">Goldendict</a> or <a href="https://github.com/huzheng001/stardict-3">Stardict</a>.</p><p>Dictionaries below by <a href="http://fgwang.blogspot.com/2019/04/blog-post.html">WFG</a> also hosted here, as deserving a wider audience.</p><br><br><br><br>
 
 ### Todo 接下來要做
 
