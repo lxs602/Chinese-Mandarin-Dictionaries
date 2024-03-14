@@ -7,7 +7,7 @@
 
 免費中文/中英文詞典收藏 / 免費中文/中英文词典收藏。
 
-A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.<br><br><br><br><br><br>
+<p>A collection of free Chinese Mandarin dictionaries, for use with dictionary software such as Goldendict.</p>p>No credit taken for dictionaries by WFG below, hosted here for a wider audience.</p><br><br><br><br><br><br>
 
 ### Todo 接下來要做
 
