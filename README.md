@@ -15,11 +15,9 @@
 	<tr><th></th><th>Name</th><th>Notes</th><th>Todo</th><th>Priority</th></tr>
 	<tr><td>1.  </td><td>Chinese Word Frequencies 詞頻分析 / 词频分析</td><td>based on word corpora and with HSK levels</td><td align=center>Update to HSK 3.0<br>Rewrite explanations, add colour</td><td></td></tr>
 	<tr><td>2.  </td><td>Idioms / Chengyu</td><td>?from academia / BCC idiom dictionary / Chinese name/dict corpus / Hydcd / other - English translations?</td><td align=center>?</td><td align=center>Low</td></tr>
-	<tr><td>3.  </td><td>Handedict</td><td>with English machine-translations from German (for use with words not found in cc-cedict) </td><td align=center>✓</td><td></td></tr>
-	<tr><td>4.  </td><td>Chinese Idioms - W Scarborough</td><td>OCR scan</td><td align=center>To convert</td><td align=center>Low</td></tr>
-	<tr><td>5.  </td><td>Starling etymology</td><td>&nbsp;</td><td align=center>✓</td><td align=center></td></tr>
-	<tr><td>6.  </td><td>Multifunction Chinese Character Database</td><td>&nbsp;</td><td align=center>To check license</td><td align=center></td></tr>
-	<tr><td>7.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Unicode font check</td><td align=center></td><td></td></tr>
+	<tr><td>3.  </td><td>Chinese Idioms - W Scarborough</td><td>OCR scan</td><td align=center>To convert</td><td align=center>Low</td></tr>
+	<tr><td>4.  </td><td>Multifunction Chinese Character Database</td><td>&nbsp;</td><td align=center>To check license</td><td align=center></td></tr>
+	<tr><td>5.  </td><td>Update this readme</td><td>Add Simpl./Trad./both tags<br>Add Unicode font check</td><td align=center></td><td></td></tr>
 </table>
 <br><br><br>
 
