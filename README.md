@@ -129,7 +129,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 ![image](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/assets/44102215/655eda1e-65a2-4c3f-b77b-c4fc4d2cbd7f)
 
 
-### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%8B%BC%E9%9F%B3%E8%A9%9E%E5%85%B8%20%E6%8B%BC%E9%9F%B3%E8%AF%8D%E5%85%B8%20Phonetic%20Dictionary))
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/XDict%20%28English-Chinese%29%20%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B8](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/%E6%8B%BC%E9%9F%B3%E8%A9%9E%E5%85%B8%20%E6%8B%BC%E9%9F%B3%E8%AF%8D%E5%85%B8%20Phonetic%20Dictionary)
 
 ### Licence 許可證 / 许可证
 <a href="https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%8B%BC%E9%9F%B3%E8%A9%9E%E5%85%B8%20%E6%8B%BC%E9%9F%B3%E8%AF%8D%E5%85%B8%20Phonetic%20Dictionary/Licence.txt">CC BY-SA 4.0</a><br><br><br>
