@@ -119,7 +119,7 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 ## Pinyin to Chinese (Phonetic) Dictionary 拼音詞典 拼音词典 
 
 ### About 說明 / 说明
-<p>An index of Pinyin/Zhuyin and associated Chinese characters, derived from Unicode v15.0 (2022-09-12), <a href="https://cldr.unicode.org/index/downloads/cldr-44">Unicode CLDR</a> v44.1, and the <a href="https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html">教育部國語辭典公眾授權網 Ministry of Education (Taiwan) Revised Mandarin Dictionary</a> (revised 7th Oct 2020).</p><p>Audio pronunciations from <a href="https://www.chinese-lessons.com/download.htm">Chinese-lessons.com</a> <a href="https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%8B%BC%E9%9F%B3%E8%A9%9E%E5%85%B8%20%E6%8B%BC%E9%9F%B3%E8%AF%8D%E5%85%B8%20Phonetic%20Dictionary/Licence.txt">CC BY-NC-ND 3.0 US</a> and Wikimedia.</p>
+<p>Chinese characters indexed by Zhuyin/Pinyin, with IPA pronunciation and audio.</p><p>Derived from Unicode v15.0 (2022-09-12), <a href="https://cldr.unicode.org/index/downloads/cldr-44">Unicode CLDR</a> v44.1, and the <a href="https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html">教育部國語辭典公眾授權網 Ministry of Education (Taiwan) Revised Mandarin Dictionary</a> (revised 7th Oct 2020).</p><p>Audio pronunciations from <a href="https://www.chinese-lessons.com/download.htm">Chinese-lessons.com</a> <a href="https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/%E6%8B%BC%E9%9F%B3%E8%A9%9E%E5%85%B8%20%E6%8B%BC%E9%9F%B3%E8%AF%8D%E5%85%B8%20Phonetic%20Dictionary/Licence.txt">CC BY-NC-ND 3.0 US</a> and Wikimedia.</p>
 
 ### Example 事例
 ![image](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/assets/44102215/655eda1e-65a2-4c3f-b77b-c4fc4d2cbd7f)
