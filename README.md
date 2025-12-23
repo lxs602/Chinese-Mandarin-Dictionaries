@@ -154,9 +154,7 @@ Search by phonetic terms, e.g. "ma3 er3 ta1"
 (Trad=馬耳他, Pinyin=ma3 er3 ta1) Malta, Mediterranean island between Sicily and Africa; country consisting of the island of Malta and two adjacent islands
 
 ### Licences 許可證 / 许可证
-Free. Copyright by Babylon Software Ltd.
-
-
+Free. Copyright by Babylon Software Ltd.<br><br><br>
 
 
 ## XDICT 英汉词典 (English-Chinese Dictionary)
