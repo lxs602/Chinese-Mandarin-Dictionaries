@@ -139,6 +139,25 @@ Html licensed under [CC BY-NC 4.0 Licence](https://github.com/lxs602/Chinese-Man
 
 
 
+## Babylon Chinese-English Dictionary
+
+### About 說明 / 说明
+Released by Babylon Software Ltd. Contians 56219 terms, in Simplified or Traditional Chinese. 
+
+Search by phonetic terms, e.g. "ma3 er3 ta1"
+	
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Babylon%20Chinese-English%20dictionary)
+
+### Example 事例： 
+
+**ma3 er3 ta1**
+(Trad=馬耳他, Pinyin=ma3 er3 ta1) Malta, Mediterranean island between Sicily and Africa; country consisting of the island of Malta and two adjacent islands
+
+### Licences 許可證 / 许可证
+Free. Copyright by Babylon Software Ltd.
+
+
+
 ## XDICT 英汉词典 (English-Chinese Dictionary)
 
 ### About 說明 / 说明
